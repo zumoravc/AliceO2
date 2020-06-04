@@ -71,6 +71,8 @@ class Vertexer
   template <typename... T>
   void initialiseVertexer(T&&... args);
 
+  std::vector<Line> exportLines();
+
   // Utils
   void dumpTraits();
   template <typename... T>
@@ -142,6 +144,16 @@ inline std::vector<Vertex> Vertexer::exportVertices()
     vertices.back().setTimeStamp(vertex.mTimeStamp);
   }
   return vertices;
+}
+
+inline std::vector<Line> Vertexer::exportLines()
+{
+  std::vector<Line> lines;
+  for (auto& line : mTraits->getLines()) {
+    std::cout << "\t\t Found line with x: " <<  line.originPoint[0] << " y: " << line.originPoint[1] << " z: " << line.originPoint[2] << " coordinates."<< std::endl;
+    lines.emplace_back(line);
+  }
+  return lines;
 }
 
 template <typename... T>

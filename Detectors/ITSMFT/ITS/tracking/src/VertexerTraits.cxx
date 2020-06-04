@@ -121,7 +121,9 @@ void trackletSelectionKernelSerial(
           assert(tracklets01[iTracklet01].secondClusterIndex == tracklets12[iTracklet12].firstClusterIndex);
 #ifdef _ALLOW_DEBUG_TREES_ITS_
           allowedTrackletPairs.push_back(std::array<int, 2>{iTracklet01, iTracklet12});
-          destTracklets.emplace_back(tracklets01[iTracklet01], clustersNextLayer.data(), clustersCurrentLayer.data(), debugger->getEventId(clustersNextLayer[tracklets01[iTracklet01].firstClusterIndex].clusterId, clustersCurrentLayer[tracklets01[iTracklet01].secondClusterIndex].clusterId, event));
+          int clusterId[3] = {tracklets01[iTracklet01].firstClusterIndex, tracklets01[iTracklet01].secondClusterIndex, tracklets12[iTracklet12].secondClusterIndex};
+          MCCompLabel lblClus[3] = {event->getClusterLabels(0, clusterId[0]), event->getClusterLabels(1, clusterId[1]), event->getClusterLabels(2, clusterId[2])};
+          destTracklets.emplace_back(tracklets01[iTracklet01], clustersNextLayer.data(), clustersCurrentLayer.data(), debugger->getEventId(clustersNextLayer[tracklets01[iTracklet01].firstClusterIndex].clusterId, clustersCurrentLayer[tracklets01[iTracklet01].secondClusterIndex].clusterId, event), clusterId, lblClus);
 #else
           destTracklets.emplace_back(tracklets01[iTracklet01], clustersNextLayer.data(), clustersCurrentLayer.data());
 #endif

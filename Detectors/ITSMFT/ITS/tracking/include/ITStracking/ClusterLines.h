@@ -20,6 +20,7 @@
 
 #ifdef _ALLOW_DEBUG_TREES_ITS_
 #include <unordered_map>
+#include "SimulationDataFormat/MCCompLabel.h"
 #endif
 
 namespace o2
@@ -35,7 +36,7 @@ struct Line final {
   GPUhd() Line(const Tracklet&, const Cluster*, const Cluster*);
 
 #ifdef _ALLOW_DEBUG_TREES_ITS_
-  Line(const Tracklet& tracklet, const Cluster* innerClusters, const Cluster* outerClusters, const int evId);
+  Line(const Tracklet& tracklet, const Cluster* innerClusters, const Cluster* outerClusters, const int evId, const int clusterId[3], const MCCompLabel clusLab[3]);
 #endif
 
   inline static float getDistanceFromPoint(const Line& line, const std::array<float, 3>& point);
@@ -58,6 +59,8 @@ struct Line final {
   // Debug quantities
 #ifdef _ALLOW_DEBUG_TREES_ITS_
   int evtId; // -1 if fake
+  int clusterIndex[3];
+  MCCompLabel clusterLabels[3];
 #endif
 };
 
@@ -78,6 +81,10 @@ GPUhdi() Line::Line(const Line& other)
   }
 #ifdef _ALLOW_DEBUG_TREES_ITS_
   evtId = other.evtId;
+  for (int i{0}; i < 3; ++i) {
+    clusterIndex[i] = other.clusterIndex[i];
+    clusterLabels[i] = other.clusterLabels[i];
+  }
 #endif
 }
 
@@ -113,7 +120,7 @@ GPUhdi() Line::Line(const Tracklet& tracklet, const Cluster* innerClusters, cons
 }
 
 #ifdef _ALLOW_DEBUG_TREES_ITS_
-GPUhdi() Line::Line(const Tracklet& tracklet, const Cluster* innerClusters, const Cluster* outerClusters, const int evId) : evtId{evId}
+GPUhdi() Line::Line(const Tracklet& tracklet, const Cluster* innerClusters, const Cluster* outerClusters, const int evId, const int clusterId[3], const MCCompLabel clusLab[3]) : evtId{evId}
 {
   originPoint[0] = innerClusters[tracklet.firstClusterIndex].xCoordinate;
   originPoint[1] = innerClusters[tracklet.firstClusterIndex].yCoordinate;
@@ -128,6 +135,14 @@ GPUhdi() Line::Line(const Tracklet& tracklet, const Cluster* innerClusters, cons
 
   for (int index{0}; index < 3; ++index)
     cosinesDirector[index] *= inverseNorm;
+
+  for (int id{0}; id < 3; id ++){
+    clusterIndex[id] = clusterId[id];
+    clusterLabels[id] = clusLab[id];
+  }
+
+
+
 }
 #endif
 
