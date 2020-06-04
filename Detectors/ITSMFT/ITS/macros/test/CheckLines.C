@@ -1,4 +1,4 @@
-/// \file CheckTracks.C
+/// \file CheckLines.C
 /// \brief Simple macro to check ITSU tracks
 
 #if !defined(__CLING__) || defined(__ROOTCLING__)
@@ -20,6 +20,8 @@
 #include "SimulationDataFormat/MCTruthContainer.h"
 #include "DataFormatsITSMFT/CompCluster.h"
 #include "DataFormatsITS/TrackITS.h"
+#include "ITStracking/ClusterLines.h"
+
 
 #endif
 
@@ -50,14 +52,14 @@ struct DataFrames {
   int lastIndex = -1;
 };
 
-void CheckLines(std::string tracfile = "o2trac_its.root", std::string clusfile = "o2clus_its.root", std::string kinefile = "o2sim_Kine.root")
+void CheckLines(std::string tracfile = "vertexer_serial_data.root", std::string clusfile = "o2clus_its.root", std::string kinefile = "o2sim_Kine.root")
 {
   bool filterMultiROFTracks = 1;
 
   using namespace o2::itsmft;
   using namespace o2::its;
 
-  TFile* f = TFile::Open("CheckTracks.root", "recreate");
+  TFile* f = TFile::Open("CheckLines.root", "recreate");
   TNtuple* nt = new TNtuple("ntt", "track ntuple",
                             //"mcYOut:recYOut:"
                             "mcZOut:recZOut:"
@@ -100,11 +102,11 @@ void CheckLines(std::string tracfile = "o2trac_its.root", std::string clusfile =
   // Reconstructed tracks
   TFile* file1 = TFile::Open(tracfile.data());
   TTree* recTree = (TTree*)gFile->Get("o2sim");
-  std::vector<TrackITS>* recArr = nullptr;
+  std::vector<o2::its::Line>* recArr = nullptr;
   recTree->SetBranchAddress("ITSTrack", &recArr);
   // Track MC labels
-  o2::dataformats::MCTruthContainer<o2::MCCompLabel>* trkLabArr = nullptr;
-  recTree->SetBranchAddress("ITSTrackMCTruth", &trkLabArr);
+  // o2::dataformats::MCTruthContainer<o2::MCCompLabel>* trkLabArr = nullptr;
+  // recTree->SetBranchAddress("ITSTrackMCTruth", &trkLabArr);
 
   Int_t lastEventIDcl = -1, cf = 0;
   Int_t nev = mcTree->GetEntriesFast();
