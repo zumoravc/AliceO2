@@ -1,0 +1,32 @@
+digraph "o2::gpu::GPUO2InterfaceConfiguration"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::gpu::GPUO2InterfaceConfiguration\n||+ GPUO2InterfaceConfiguration()\l+ ~GPUO2InterfaceConfiguration()\l+ GPUO2InterfaceConfiguration()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +configEvent" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{GPUSettingsEvent\n||}",height=0.2,width=0.4,color="grey75"];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +configCalib" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node3 [label="{GPUCalibObjects\n||}",height=0.2,width=0.4,color="grey75"];
+  Node4 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +configInterface" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 [label="{o2::gpu::GPUO2InterfaceConfiguration\l::GPUInterfaceSettings\n||}",height=0.2,width=0.4,color="black",URL="$d4/ddb/structo2_1_1gpu_1_1GPUO2InterfaceConfiguration_1_1GPUInterfaceSettings.html"];
+  Node5 -> Node4 [color="grey25",fontsize="10",style="solid",label=" +dumpEvents" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 [label="{int\n||}",height=0.2,width=0.4,color="grey75"];
+  Node6 -> Node4 [color="grey25",fontsize="10",style="solid",label=" +outputToExternalBuffers" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node6 [label="{bool\n||}",height=0.2,width=0.4,color="grey75"];
+  Node7 -> Node4 [color="grey25",fontsize="10",style="solid",label=" +maxTRDTracklets\n+maxITSTracks\n+maxTPCHits" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node7 [label="{unsigned\n||}",height=0.2,width=0.4,color="grey75"];
+  Node8 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +configQA" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{GPUQAConfig\n||}",height=0.2,width=0.4,color="grey75"];
+  Node9 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +configDeviceProcessing" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 [label="{GPUSettingsDeviceProcessing\n||}",height=0.2,width=0.4,color="grey75"];
+  Node10 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +configProcessing" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node10 [label="{GPUSettingsProcessing\n||}",height=0.2,width=0.4,color="grey75"];
+  Node11 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +configWorkflow" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 [label="{GPURecoStepConfiguration\n||}",height=0.2,width=0.4,color="grey75"];
+  Node12 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +configDisplay" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node12 [label="{GPUDisplayConfig\n||}",height=0.2,width=0.4,color="grey75"];
+  Node13 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +configReconstruction" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node13 [label="{GPUSettingsRec\n||}",height=0.2,width=0.4,color="grey75"];
+}

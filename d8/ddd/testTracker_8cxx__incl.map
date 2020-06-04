@@ -1,0 +1,18 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Tracking/test/testTracker.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Tracking/test/testTracker.cxx">
+<area shape="rect" id="node9" href="$d6/d31/Cluster2D_8h.html" title="Reconstructed cluster per RPC. " alt="" coords="761,213,972,240"/>
+<area shape="rect" id="node11" href="$d4/d54/DataFormats_2Detectors_2MUON_2MID_2include_2DataFormatsMID_2Track_8h.html" title="Reconstructed MID track. " alt="" coords="1639,213,1820,240"/>
+<area shape="rect" id="node13" href="$d2/d0e/Mapping_8h.html" title="Mapping for MID. " alt="" coords="1841,131,1991,158"/>
+<area shape="rect" id="node14" href="$d7/d0a/MpArea_8h.html" title="Mapping area for MID. " alt="" coords="1844,213,1988,240"/>
+<area shape="rect" id="node15" href="$d7/d40/HitFinder_8h.html" title="Hit finder for MID. " alt="" coords="1421,124,1571,165"/>
+<area shape="rect" id="node30" href="$d3/d93/TrackGenerator_8h.html" title="Fast track generator for MID. " alt="" coords="2067,124,2218,165"/>
+<area shape="rect" id="node32" href="$db/d8e/MUON_2MID_2Tracking_2include_2MIDTracking_2Tracker_8h.html" title="Track reconstruction algorithm for MID. " alt="" coords="1212,131,1375,158"/>
+<area shape="rect" id="node16" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1329,295,1509,322"/>
+<area shape="rect" id="node28" href="$de/d0c/GeometryTransformer_8h.html" title="Geometry transformer for MID. " alt="" coords="1377,213,1615,240"/>
+<area shape="rect" id="node25" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1498,385,1678,411"/>
+<area shape="rect" id="node29" href="$dc/de4/DetectorParameters_8h.html" title="Useful detector parameters for MID. " alt="" coords="2062,295,2287,322"/>
+<area shape="rect" id="node34" href="$d0/daa/Cluster3D_8h.html" title="Reconstructed MID cluster (global coordinates) " alt="" coords="527,213,737,240"/>
+<area shape="rect" id="node35" href="$d2/df9/MUON_2MID_2include_2DataFormatsMID_2ROFRecord_8h.html" title="Definition of the MID event record. " alt="" coords="997,213,1214,240"/>
+<area shape="rect" id="node36" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="729,288,961,329"/>
+<area shape="rect" id="node37" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="529,385,695,411"/>
+<area shape="rect" id="node39" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="251,385,504,411"/>
+</map>

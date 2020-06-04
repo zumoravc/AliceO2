@@ -1,0 +1,4 @@
+<map id="o2::tof::compressed::DecoderBaseT&lt; RAWDataHeader &gt;" name="o2::tof::compressed::DecoderBaseT&lt; RAWDataHeader &gt;">
+<area shape="rect" id="node2" href="$dd/d7c/classo2_1_1tof_1_1CompressedDecodingTask.html" title="{o2::tof::CompressedDecodingTask\n||+ CompressedDecodingTask()\l+ ~CompressedDecodingTask()\l+ init()\l+ run()\l+ endOfStream()\l+ postData()\l}" alt="" coords="5,233,248,384"/>
+<area shape="rect" id="node3" href="$db/db0/classo2_1_1tof_1_1CompressedInspectorTask.html" title="{o2::tof::CompressedInspector\lTask\&lt; RAWDataHeader \&gt;\n||+ CompressedInspectorTask()\l+ ~CompressedInspectorTask()\l+ init()\l+ run()\l}" alt="" coords="273,241,501,377"/>
+</map>

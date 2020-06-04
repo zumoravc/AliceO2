@@ -1,0 +1,8 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/src/ChipSegmentation.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/src/ChipSegmentation.cxx">
+<area shape="rect" id="node3" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="1006,124,1254,151"/>
+<area shape="rect" id="node16" href="$d3/dbd/ChipSegmentation_8h.html" title="Chip (sensor) segmentation description. " alt="" coords="1330,124,1546,151"/>
+<area shape="rect" id="node19" href="$d6/d2e/ITSMFT_2MFT_2base_2include_2MFTBase_2Geometry_8h.html" title="MFTBase/Geometry.h" alt="" coords="1763,199,1921,225"/>
+<area shape="rect" id="node5" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="939,199,1119,225"/>
+<area shape="rect" id="node13" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1459,281,1639,307"/>
+<area shape="rect" id="node17" href="$d3/de7/VSegmentation_8h.html" title="Abstract base class for MFT Segmentation description. " alt="" coords="1543,199,1739,225"/>
+</map>

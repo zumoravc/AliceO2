@@ -1,0 +1,13 @@
+<map id="o2::tof::compressed::Decoder" name="o2::tof::compressed::Decoder">
+<area shape="rect" id="node2" href="$db/d26/classo2_1_1tof_1_1WindowFiller.html" title="{o2::tof::WindowFiller\n||+ WindowFiller()\l+ ~WindowFiller()\l+ initObj()\l+ reset()\l+ getCurrentReadoutWindow()\l+ setCurrentReadoutWindow()\l+ setEventTime()\l+ getDigitPerTimeFrame()\l+ getReadoutWindowData()\l+ fillOutputContainer()\l+ flushOutputContainer()\l+ setContinuous()\l+ isContinuous()\l+ resizeVectorFutureDigit()\l# fillDigitsInStrip()\l# checkIfReuseFutureDigits()\l# checkIfReuseFutureDigitsRO()\l# insertDigitInFuture()\l# isMergable()\l# ClassDefNV()\l}" alt="" coords="773,652,1003,1008"/>
+<area shape="rect" id="node13" href="$df/dd7/uniono2_1_1tof_1_1compressed_1_1Union__t.html" title="{o2::tof::compressed\l::Union_t\n||}" alt="" coords="2141,784,2291,876"/>
+<area shape="rect" id="node14" href="$df/d87/structo2_1_1tof_1_1compressed_1_1PackedHit__t.html" title="{o2::tof::compressed\l::PackedHit_t\n||}" alt="" coords="1871,380,2022,472"/>
+<area shape="rect" id="node15" href="$d3/d87/classuint32__t.html" title="{uint32_t\n||}" alt="" coords="2015,5,2089,83"/>
+<area shape="rect" id="node16" href="$dc/d31/structo2_1_1tof_1_1compressed_1_1CrateTrailer__t.html" title="{o2::tof::compressed\l::CrateTrailer_t\n||}" alt="" coords="2141,380,2291,472"/>
+<area shape="rect" id="node17" href="$d0/df7/structo2_1_1tof_1_1compressed_1_1CrateOrbit__t.html" title="{o2::tof::compressed\l::CrateOrbit_t\n||}" alt="" coords="2315,380,2466,472"/>
+<area shape="rect" id="node18" href="$d5/d0d/structo2_1_1tof_1_1compressed_1_1Word__t.html" title="{o2::tof::compressed\l::Word_t\n||}" alt="" coords="1522,380,1673,472"/>
+<area shape="rect" id="node19" href="$df/d7e/structo2_1_1tof_1_1compressed_1_1FrameHeader__t.html" title="{o2::tof::compressed\l::FrameHeader_t\n||}" alt="" coords="1697,380,1847,472"/>
+<area shape="rect" id="node20" href="$d5/da4/structo2_1_1tof_1_1compressed_1_1CrateHeader__t.html" title="{o2::tof::compressed\l::CrateHeader_t\n||}" alt="" coords="2490,380,2641,472"/>
+<area shape="rect" id="node26" href="$d8/d47/structo2_1_1header_1_1RAWDataHeaderV4.html" title="{o2::header::RAWDataHeaderV4\n|+ word0\l+ blockLength\l+ zero0\l+ word1\l+ word2\l+ word3\l+ word4\l+ heartbeatBC\l+ zero42\l+ word5\l+ word6\l+ detectorField\l+ stop\l+ pageCnt\l|}" alt="" coords="3179,292,3402,560"/>
+<area shape="rect" id="node28" href="$d6/d30/classuint64__t.html" title="{uint64_t\n||}" alt="" coords="3017,5,3092,83"/>
+</map>

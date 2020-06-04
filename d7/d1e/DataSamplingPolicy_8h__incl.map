@@ -1,0 +1,16 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/DataSamplingPolicy.h" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/DataSamplingPolicy.h">
+<area shape="rect" id="node2" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="464,467,634,493"/>
+<area shape="rect" id="node13" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="796,206,971,233"/>
+<area shape="rect" id="node39" href="$d3/ddf/Output_8h.html" title="Framework/Output.h" alt="" coords="1304,206,1458,233"/>
+<area shape="rect" id="node40" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="995,206,1180,233"/>
+<area shape="rect" id="node41" href="$dd/dcf/DataSamplingCondition_8h.html" title="A standarised data sampling condition, to decide if given data sample should be passed forward..." alt="" coords="1500,124,1764,151"/>
+<area shape="rect" id="node44" href="$d6/d68/DataSpecUtils_8h.html" title="Framework/DataSpecUtils.h" alt="" coords="1141,124,1344,151"/>
+<area shape="rect" id="node11" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="797,549,992,575"/>
+<area shape="rect" id="node14" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="1074,295,1238,322"/>
+<area shape="rect" id="node15" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="849,385,1100,411"/>
+<area shape="rect" id="node16" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="599,288,795,329"/>
+<area shape="rect" id="node17" href="$d6/dc9/DataProcessingHeader_8h.html" title="Framework/DataProcessing\lHeader.h" alt="" coords="35,377,234,419"/>
+<area shape="rect" id="node20" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="1369,385,1497,411"/>
+<area shape="rect" id="node21" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="1776,467,2052,493"/>
+<area shape="rect" id="node42" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="1535,206,1696,233"/>
+</map>

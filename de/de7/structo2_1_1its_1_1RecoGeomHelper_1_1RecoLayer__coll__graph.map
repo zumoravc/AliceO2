@@ -1,0 +1,5 @@
+<map id="o2::its::RecoGeomHelper::RecoLayer" name="o2::its::RecoGeomHelper::RecoLayer">
+<area shape="rect" id="node3" href="$df/d6b/classo2_1_1utils_1_1Bracket.html" title="{o2::utils::Bracket\l\&lt; float \&gt;\n||+ Bracket()\l+ Bracket()\l+ Bracket()\l+ ~Bracket()\l+ set()\l+ operator\&lt;()\l+ operator\&lt;()\l+ operator\&gt;()\l+ operator\&gt;()\l+ operator==()\l+ setMax()\l+ setMin()\l+ max()\l+ max()\l+ min()\l+ min()\l+ mean()\l+ delta()\l+ update()\l+ isOutside()\l+ isOutside()\l}" alt="" coords="225,439,357,824"/>
+<area shape="rect" id="node4" href="$df/d6b/classo2_1_1utils_1_1Bracket.html" title="{o2::utils::Bracket\&lt; T \&gt;\n||+ Bracket()\l+ Bracket()\l+ Bracket()\l+ ~Bracket()\l+ set()\l+ operator\&lt;()\l+ operator\&gt;()\l+ operator\&lt;()\l+ operator\&gt;()\l+ operator==()\l+ setMax()\l+ setMin()\l+ max()\l+ min()\l+ max()\l+ min()\l+ mean()\l+ delta()\l+ update()\l+ isOutside()\l+ isOutside()\l}" alt="" coords="206,5,377,376"/>
+<area shape="rect" id="node5" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="382,593,433,670"/>
+</map>

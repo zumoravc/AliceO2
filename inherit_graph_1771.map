@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/d06/classo2_1_1detectors_1_1DetMatrixCache.html" title="o2::detectors::DetMatrix\lCache" alt="" coords="5,111,184,152"/>
+<area shape="rect" id="node2" href="$d8/d60/classo2_1_1detectors_1_1DetMatrixCacheIndirect.html" title="Variant of DetMatrixCache for non consecutive indexing. " alt="" coords="241,5,419,47"/>
+<area shape="rect" id="node4" href="$d9/d02/classo2_1_1itsmft_1_1GeometryTGeo.html" title="o2::itsmft::GeometryTGeo" alt="" coords="234,223,426,250"/>
+<area shape="rect" id="node3" href="$d9/d9c/classo2_1_1trd_1_1TRDGeometry.html" title="o2::trd::TRDGeometry" alt="" coords="488,17,652,43"/>
+<area shape="rect" id="node5" href="$dc/d86/classo2_1_1its_1_1GeometryTGeo.html" title="o2::its::GeometryTGeo" alt="" coords="485,223,655,250"/>
+<area shape="rect" id="node6" href="$de/db5/classo2_1_1mft_1_1GeometryTGeo.html" title="o2::mft::GeometryTGeo" alt="" coords="482,274,658,301"/>
+<area shape="rect" id="node7" href="$d8/db1/classo2_1_1gpu_1_1FlatObject.html" title="FlatObject" alt="" coords="286,122,374,149"/>
+<area shape="rect" id="node8" href="$d1/de6/classo2_1_1base_1_1MatLayerCyl.html" title="o2::base::MatLayerCyl" alt="" coords="487,122,653,149"/>
+<area shape="rect" id="node9" href="$dc/da6/classo2_1_1base_1_1MatLayerCylSet.html" title="o2::base::MatLayerCylSet" alt="" coords="477,173,663,199"/>
+<area shape="rect" id="node10" href="$d5/db3/classo2_1_1trd_1_1TRDGeometryFlat.html" title="o2::trd::TRDGeometryFlat" alt="" coords="476,71,664,98"/>
+<area shape="rect" id="node11" href="$d6/dbe/classo2_1_1trd_1_1TRDGeometryBase.html" title="o2::trd::TRDGeometryBase" alt="" coords="232,71,428,98"/>
+</map>

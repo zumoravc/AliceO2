@@ -1,0 +1,34 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/include/ITStracking/Tracker.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/include/ITStracking/Tracker.h">
+<area shape="rect" id="node10" href="$d3/d59/Configuration_8h.html" title="ITStracking/Configuration.h" alt="" coords="671,414,870,441"/>
+<area shape="rect" id="node14" href="$df/d3d/Definitions_8h.html" title="ITStracking/Definitions.h" alt="" coords="469,593,651,619"/>
+<area shape="rect" id="node18" href="$dc/d8d/ITS_2tracking_2include_2ITStracking_2ROframe_8h.html" title="ITStracking/ROframe.h" alt="" coords="1933,235,2102,262"/>
+<area shape="rect" id="node22" href="$dc/d3e/MathUtils_8h.html" title="ITStracking/MathUtils.h" alt="" coords="1771,414,1944,441"/>
+<area shape="rect" id="node44" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="2679,317,2849,359"/>
+<area shape="rect" id="node50" href="$d3/da9/PrimaryVertexContext_8h.html" title="ITStracking/PrimaryVertex\lContext.h" alt="" coords="488,139,680,180"/>
+<area shape="rect" id="node52" href="$d4/d5a/ITS_2tracking_2include_2ITStracking_2Road_8h.html" title="ITStracking/Road.h" alt="" coords="125,414,267,441"/>
+<area shape="rect" id="node54" href="$d1/d71/TrackITS_8h.html" title="Definition of the ITS track. " alt="" coords="3177,146,3373,173"/>
+<area shape="rect" id="node13" href="$d0/d86/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Constants_8h.html" title="ITStracking/Constants.h" alt="" coords="824,503,1000,530"/>
+<area shape="rect" id="node15" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1067,764,1210,791"/>
+<area shape="rect" id="node16" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="937,839,1135,865"/>
+<area shape="rect" id="node17" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1159,839,1324,865"/>
+<area shape="rect" id="node21" href="$da/d7f/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Cluster_8h.html" title="ITStracking/Cluster.h" alt="" coords="1171,325,1327,351"/>
+<area shape="rect" id="node29" href="$d3/d6f/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Vertex_8h.html" title="ReconstructionDataFormats\l/Vertex.h" alt="" coords="2401,317,2604,359"/>
+<area shape="rect" id="node45" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2157,407,2326,448"/>
+<area shape="rect" id="node28" href="$dc/ddf/ITS_2tracking_2include_2ITStracking_2IndexTableUtils_8h.html" title="ITStracking/IndexTableUtils.h" alt="" coords="1093,414,1304,441"/>
+<area shape="rect" id="node24" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="2231,593,2361,619"/>
+<area shape="rect" id="node25" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="1801,682,1954,709"/>
+<area shape="rect" id="node27" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="3117,682,3376,709"/>
+<area shape="rect" id="node30" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="3565,503,3745,530"/>
+<area shape="rect" id="node41" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="2401,414,2650,441"/>
+<area shape="rect" id="node38" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="4413,593,4593,619"/>
+<area shape="rect" id="node42" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="3821,503,3987,530"/>
+<area shape="rect" id="node51" href="$d3/d78/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Cell_8h.html" title="ITStracking/Cell.h" alt="" coords="259,503,395,530"/>
+<area shape="rect" id="node53" href="$d8/db3/ITSMFT_2ITS_2tracking_2include_2ITStracking_2Tracklet_8h.html" title="ITStracking/Tracklet.h" alt="" coords="975,235,1137,262"/>
+<area shape="rect" id="node55" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="3523,228,3725,269"/>
+<area shape="rect" id="node66" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="3932,235,4212,262"/>
+<area shape="rect" id="node57" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="3523,317,3725,359"/>
+<area shape="rect" id="node65" href="$d8/d77/Primitive2D_8h.html" title="Declarations of 2D primitives: straight line (XY interval) and circle. " alt="" coords="3750,325,3927,351"/>
+<area shape="rect" id="node60" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="3377,407,3605,448"/>
+<area shape="rect" id="node61" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="3073,503,3237,530"/>
+<area shape="rect" id="node63" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="3261,496,3489,537"/>
+</map>

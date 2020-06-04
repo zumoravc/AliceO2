@@ -1,0 +1,3 @@
+<map id="o2::trd::TRDCalPadStatus" name="o2::trd::TRDCalPadStatus">
+<area shape="rect" id="node2" href="$d8/d14/classo2_1_1trd_1_1TRDCalSingleChamberStatus.html" title="{o2::trd::TRDCalSingleChamber\lStatus\n||+ TRDCalSingleChamberStatus()\l+ TRDCalSingleChamberStatus()\l+ TRDCalSingleChamberStatus()\l+ ~TRDCalSingleChamberStatus()\l+ operator=()\l+ Copy()\l+ isMasked()\l+ isBridgedLeft()\l+ isBridgedRight()\l+ isNotConnected()\l+ getNrows()\l+ getNcols()\l+ getChannel()\l+ getNchannels()\l+ getStatus()\l+ getStatus()\l+ setStatus()\l+ setStatus()\l# ClassDefNV()\l}" alt="" coords="5,204,252,560"/>
+</map>

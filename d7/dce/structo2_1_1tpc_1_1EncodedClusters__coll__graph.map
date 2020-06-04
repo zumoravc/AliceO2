@@ -1,0 +1,4 @@
+<map id="o2::tpc::EncodedClusters" name="o2::tpc::EncodedClusters">
+<area shape="rect" id="node6" href="$db/dda/structo2_1_1tpc_1_1EncodedClusters_1_1Counters.html" title="{o2::tpc::EncodedClusters\l::Counters\n||+ ClassDefNV()\l}" alt="" coords="656,226,839,318"/>
+<area shape="rect" id="node8" href="$dd/d1e/structo2_1_1tpc_1_1EncodedClusters_1_1Header.html" title="{o2::tpc::EncodedClusters\l::Header\n||+ ClassDefNV()\l}" alt="" coords="867,226,1049,318"/>
+</map>

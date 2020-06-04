@@ -1,0 +1,4 @@
+<map id="o2::trd::TRDGeometryBase" name="o2::trd::TRDGeometryBase">
+<area shape="rect" id="node2" href="$d9/d9c/classo2_1_1trd_1_1TRDGeometry.html" title="{o2::trd::TRDGeometry\n||+ ~TRDGeometry()\l+ TRDGeometry()\l+ createGeometry()\l+ addAlignableVolumes()\l+ createClusterMatrixArray()\l+ createPadPlaneArray()\l+ rotateBack()\l+ chamberInGeometry()\l+ getSensitiveTRDVolumes()\l+ instance()\l# fillMatrixCache()\l}" alt="" coords="5,2096,216,2320"/>
+<area shape="rect" id="node3" href="$d5/db3/classo2_1_1trd_1_1TRDGeometryFlat.html" title="{o2::trd::TRDGeometryFlat\n|+ mMatrixIndirection\l|+ TRDGeometryFlat()\l+ TRDGeometryFlat()\l+ TRDGeometryFlat()\l+ ~TRDGeometryFlat()\l}" alt="" coords="241,2147,429,2269"/>
+</map>

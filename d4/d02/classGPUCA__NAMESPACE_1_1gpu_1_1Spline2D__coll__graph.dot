@@ -1,0 +1,24 @@
+digraph "GPUCA_NAMESPACE::gpu::Spline2D&lt; DataT, nFdimT, isConsistentT &gt;"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node4 [label="{GPUCA_NAMESPACE::gpu\l::Spline2D\< DataT, nFdimT,\l isConsistentT \>\n||+ Spline2D()\l+ Spline2D()\l+ Spline2D()\l+ operator=()\l+ ~Spline2D()\l+ GPUhd()\l+ GPUgeneric()\l+ GPUhd()\l+ GPUhd()\l+ GPUgeneric()\l+ GPUhd()\l+ GPUgeneric()\l+ GPUhd()\l+ GPUgeneric()\l+ GPUhd()\l+ readFromFile()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{GPUCA_NAMESPACE::gpu\l::Spline2DBase\< DataT,\l isConsistentT \>\n||+ GPUhd()\l+ Spline2DBase()\l+ Spline2DBase()\l+ operator=()\l+ ~Spline2DBase()\l+ recreate()\l+ recreate()\l+ approximateFunction()\l+ writeToFile()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ print()\l+ cloneFromObject()\l+ moveBufferTo()\l+ destroy()\l+ setActualBufferAddress()\l+ setFutureBufferAddress()\l+ readFromFile()\l+ test()\l# ClassDefNV()\l}",height=0.2,width=0.4,color="black",URL="$df/d20/classGPUCA__NAMESPACE_1_1gpu_1_1Spline2DBase.html",tooltip="Base class to store data members and non-inline methods. "];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{GPUCA_NAMESPACE::gpu\l::FlatObject\n||+ FlatObject()\l+ ~FlatObject()\l+ FlatObject()\l+ operator=()\l+ destroy()\l+ getFlatBufferSize()\l+ getFlatBufferPtr()\l+ isConstructed()\l+ isBufferInternal()\l+ adoptInternalBuffer()\l+ clearInternalBufferPtr()\l+ printC()\l+ alignSize()\l+ relocatePointer()\l+ writeToFile()\l+ readFromFile()\l+ stressTest()\l# startConstruction()\l# finishConstruction()\l# cloneFromObject()\l# releaseInternalBuffer()\l# moveBufferTo()\l# setActualBufferAddress()\l# setFutureBufferAddress()\l# ClassDefNV()\l# getClassAlignmentBytes()\l# getBufferAlignmentBytes()\l}",height=0.2,width=0.4,color="black",URL="$dc/d5e/classGPUCA__NAMESPACE_1_1gpu_1_1FlatObject.html",tooltip="GPUCA_GPUCODE. "];
+  Node7 -> Node6 [color="grey25",fontsize="10",style="solid",label=" #mFlatBufferPtr\n#mFlatBufferContainer" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node7 [label="{char\n||}",height=0.2,width=0.4,color="grey75"];
+  Node8 -> Node6 [color="grey25",fontsize="10",style="solid",label=" #mFlatBufferSize" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{int\n||}",height=0.2,width=0.4,color="grey75"];
+  Node9 -> Node6 [color="grey25",fontsize="10",style="solid",label=" #mConstructionMask" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 [label="{unsigned\n||}",height=0.2,width=0.4,color="grey75"];
+  Node10 -> Node5 [color="grey25",fontsize="10",style="solid",label=" #mFparameters\n+const\n+x2Min\n+x2Max\n+x1Max\n+u1" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node10 [label="{DataT\n||}",height=0.2,width=0.4,color="grey75"];
+  Node11 -> Node5 [color="grey25",fontsize="10",style="solid",label=" #mGridU1\n#mGridU2" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 [label="{Spline1D\< DataT \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node8 -> Node5 [color="grey25",fontsize="10",style="solid",label=" +const" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node10 -> Node4 [color="grey25",fontsize="10",style="solid",label=" +const\n+x2\n+u1\n+u2" ,arrowhead="odiamond",fontname="Helvetica"];
+}

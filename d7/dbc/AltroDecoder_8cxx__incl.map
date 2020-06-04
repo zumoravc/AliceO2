@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/reconstruction/src/AltroDecoder.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/reconstruction/src/AltroDecoder.cxx">
+<area shape="rect" id="node7" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="1186,310,1384,337"/>
+<area shape="rect" id="node9" href="$db/d4a/AltroDecoder_8h.html" title="EMCALReconstruction\l/AltroDecoder.h" alt="" coords="886,124,1049,165"/>
+<area shape="rect" id="node19" href="$d9/d4a/RawReaderFile_8h.html" title="EMCALReconstruction\l/RawReaderFile.h" alt="" coords="1340,213,1502,255"/>
+<area shape="rect" id="node25" href="$da/d8c/Detectors_2EMCAL_2reconstruction_2include_2EMCALReconstruction_2RAWDataHeader_8h.html" title="EMCALReconstruction\l/RAWDataHeader.h" alt="" coords="998,303,1161,344"/>
+<area shape="rect" id="node27" href="$d8/d86/RawReaderMemory_8h.html" title="EMCALReconstruction\l/RawReaderMemory.h" alt="" coords="886,213,1049,255"/>
+<area shape="rect" id="node14" href="$df/ddd/RCUTrailer_8h.html" title="EMCALBase/RCUTrailer.h" alt="" coords="631,221,811,247"/>
+<area shape="rect" id="node16" href="$d1/d29/Bunch_8h.html" title="EMCALReconstruction\l/Bunch.h" alt="" coords="25,303,188,344"/>
+<area shape="rect" id="node18" href="$de/d03/Channel_8h.html" title="EMCALReconstruction\l/Channel.h" alt="" coords="184,213,346,255"/>
+<area shape="rect" id="node24" href="$dc/ded/EMCAL_2reconstruction_2include_2EMCALReconstruction_2RawBuffer_8h.html" title="EMCALReconstruction\l/RawBuffer.h" alt="" coords="1509,303,1672,344"/>
+<area shape="rect" id="node26" href="$d5/dfc/RawPayload_8h.html" title="EMCALReconstruction\l/RawPayload.h" alt="" coords="526,303,689,344"/>
+</map>

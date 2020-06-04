@@ -1,0 +1,9 @@
+<map id="CorrelationTask" name="CorrelationTask">
+<area shape="rect" id="node2" href="$db/d2d/structCorrelationTask_1_1QA.html" title="{CorrelationTask::QA\n||}" alt="" coords="187,811,338,888"/>
+<area shape="rect" id="node5" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; CorrelationContainer \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="853,737,1043,961"/>
+<area shape="rect" id="node14" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\&lt; T \&gt;\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="612,403,841,612"/>
+<area shape="rect" id="node7" href="$d3/d87/classuint32__t.html" title="{uint32_t\n||}" alt="" coords="1028,226,1103,303"/>
+<area shape="rect" id="node11" href="$da/d96/structo2_1_1framework_1_1InputSpec.html" title="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}" alt="" coords="541,189,731,340"/>
+<area shape="rect" id="node16" href="$de/dca/structCorrelationTask_1_1Config.html" title="{CorrelationTask::Config\n||}" alt="" coords="1457,636,1629,713"/>
+<area shape="rect" id="node17" href="$d1/d9a/structo2_1_1framework_1_1expressions_1_1Filter.html" title="A struct, containing the root of the expression tree. " alt="" coords="1500,803,1703,895"/>
+</map>

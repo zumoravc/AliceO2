@@ -1,0 +1,5 @@
+<map id="o2::trd::LocalT0" name="o2::trd::LocalT0">
+<area shape="rect" id="node2" href="$da/dcc/classo2_1_1trd_1_1PadCalibrations.html" title="{o2::trd::PadCalibrations\l\&lt; float \&gt;\n||+ PadCalibrations()\l+ ~PadCalibrations()\l+ getNChannels()\l+ getChamberPads()\l+ getValue()\l+ getPadValue()\l+ setPadValue()\l+ setPadValue()\l+ reset()\l+ init()\l+ dumpAllNonZeroValues()\l}" alt="" coords="113,447,313,685"/>
+<area shape="rect" id="node3" href="$d3/d0f/classstd_1_1array_3_01o2_1_1trd_1_1PadParameters_3_01float_01_4_00_01TRDSimParam_1_1kNdet_01_4.html" title="{array\&lt; o2::trd::PadParameters\l\&lt; float \&gt;, TRDSimParam::kNdet \&gt;\n||}" alt="" coords="5,226,249,318"/>
+<area shape="rect" id="node4" href="$da/dcc/classo2_1_1trd_1_1PadCalibrations.html" title="{o2::trd::PadCalibrations\&lt; T \&gt;\n||+ PadCalibrations()\l+ ~PadCalibrations()\l+ getNChannels()\l+ getChamberPads()\l+ getValue()\l+ getPadValue()\l+ setPadValue()\l+ setPadValue()\l+ reset()\l+ init()\l+ dumpAllNonZeroValues()\l}" alt="" coords="274,160,485,384"/>
+</map>

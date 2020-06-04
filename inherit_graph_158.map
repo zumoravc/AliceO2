@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d5e/classGPUCA__NAMESPACE_1_1gpu_1_1FlatObject.html" title="GPUCA_GPUCODE. " alt="" coords="5,312,192,353"/>
+<area shape="rect" id="node2" href="$de/d7d/classGPUCA__NAMESPACE_1_1gpu_1_1IrregularSpline1D.html" title="GPUCA_NAMESPACE::gpu\l::IrregularSpline1D" alt="" coords="263,5,450,47"/>
+<area shape="rect" id="node3" href="$d5/d77/classGPUCA__NAMESPACE_1_1gpu_1_1IrregularSpline2D3D.html" title="GPUCA_NAMESPACE::gpu\l::IrregularSpline2D3D" alt="" coords="263,71,450,112"/>
+<area shape="rect" id="node4" href="$d2/def/classGPUCA__NAMESPACE_1_1gpu_1_1SemiregularSpline2D3D.html" title="GPUCA_NAMESPACE::gpu\l::SemiregularSpline2D3D" alt="" coords="263,136,450,177"/>
+<area shape="rect" id="node5" href="$d0/d36/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1D.html" title="GPUCA_NAMESPACE::gpu\l::Spline1D\&lt; DataT \&gt;" alt="" coords="263,201,450,243"/>
+<area shape="rect" id="node6" href="$df/d20/classGPUCA__NAMESPACE_1_1gpu_1_1Spline2DBase.html" title="Base class to store data members and non&#45;inline methods. " alt="" coords="263,267,450,323"/>
+<area shape="rect" id="node8" href="$d6/da0/classGPUCA__NAMESPACE_1_1gpu_1_1TPCdEdxCalibrationSplines.html" title="GPUCA_NAMESPACE::gpu\l::TPCdEdxCalibrationSplines" alt="" coords="254,348,459,389"/>
+<area shape="rect" id="node9" href="$d6/d2c/classGPUCA__NAMESPACE_1_1gpu_1_1TPCFastSpaceChargeCorrection.html" title="GPUCA_NAMESPACE::gpu\l::TPCFastSpaceChargeCorrection" alt="" coords="240,413,473,455"/>
+<area shape="rect" id="node10" href="$d2/d47/classGPUCA__NAMESPACE_1_1gpu_1_1TPCFastTransform.html" title="GPUCA_NAMESPACE::gpu\l::TPCFastTransform" alt="" coords="263,479,450,520"/>
+<area shape="rect" id="node11" href="$d0/d36/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1D.html" title="GPUCA_NAMESPACE::gpu\l::Spline1D\&lt; float \&gt;" alt="" coords="263,544,450,585"/>
+<area shape="rect" id="node12" href="$df/d20/classGPUCA__NAMESPACE_1_1gpu_1_1Spline2DBase.html" title="GPUCA_NAMESPACE::gpu\l::Spline2DBase\&lt; float,\l isConsistentT \&gt;" alt="" coords="263,610,450,666"/>
+<area shape="rect" id="node7" href="$d3/dc3/classGPUCA__NAMESPACE_1_1gpu_1_1Spline2D.html" title="GPUCA_NAMESPACE::gpu\l::Spline2D\&lt; DataT, nFdimT,\l isConsistentT \&gt;" alt="" coords="521,267,724,323"/>
+<area shape="rect" id="node13" href="$d3/dc3/classGPUCA__NAMESPACE_1_1gpu_1_1Spline2D.html" title="GPUCA_NAMESPACE::gpu\l::Spline2D\&lt; float, 1, 1 \&gt;" alt="" coords="529,617,716,659"/>
+</map>

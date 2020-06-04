@@ -1,0 +1,9 @@
+<map id="o2::tof::Compressor&lt; RAWDataHeader, verbose &gt;" name="o2::tof::Compressor&lt; RAWDataHeader, verbose &gt;">
+<area shape="rect" id="node2" href="$d1/dc5/structo2_1_1tof_1_1Compressor_1_1CheckerSummary__t.html" title="{o2::tof::Compressor\l\&lt; RAWDataHeader, verbose\l \&gt;::CheckerSummary_t\n||}" alt="" coords="553,336,757,443"/>
+<area shape="rect" id="node3" href="$d3/d87/classuint32__t.html" title="{uint32_t\n||}" alt="" coords="694,5,769,83"/>
+<area shape="rect" id="node9" href="$d9/d53/structo2_1_1tof_1_1Compressor_1_1TRMChainCounters__t.html" title="{o2::tof::Compressor\l\&lt; RAWDataHeader, verbose\l \&gt;::TRMChainCounters_t\n||}" alt="" coords="1039,336,1243,443"/>
+<area shape="rect" id="node10" href="$d7/d0a/structo2_1_1tof_1_1Compressor_1_1TRMCounters__t.html" title="{o2::tof::Compressor\l\&lt; RAWDataHeader, verbose\l \&gt;::TRMCounters_t\n||}" alt="" coords="5,336,209,443"/>
+<area shape="rect" id="node13" href="$de/d81/structo2_1_1tof_1_1Compressor_1_1DRMCounters__t.html" title="{o2::tof::Compressor\l\&lt; RAWDataHeader, verbose\l \&gt;::DRMCounters_t\n||}" alt="" coords="233,336,437,443"/>
+<area shape="rect" id="node17" href="$d0/d5f/structo2_1_1tof_1_1Compressor_1_1SpiderSummary__t.html" title="{o2::tof::Compressor\l\&lt; RAWDataHeader, verbose\l \&gt;::SpiderSummary_t\n||}" alt="" coords="1267,336,1471,443"/>
+<area shape="rect" id="node5" href="$d7/d35/structo2_1_1tof_1_1Compressor_1_1DecoderSummary__t.html" title="{o2::tof::Compressor\l\&lt; RAWDataHeader, verbose\l \&gt;::DecoderSummary_t\n|+ tofOrbit\l+ drmHeadW5\l+ drmDataTrailer\l+ ltmDataHeader\l+ trmDataTrailer\l+ trmChainHeader\l+ trmChainTrailer\l|}" alt="" coords="1720,292,1924,487"/>
+</map>

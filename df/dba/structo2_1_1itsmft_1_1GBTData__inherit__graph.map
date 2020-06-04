@@ -1,0 +1,3 @@
+<map id="o2::itsmft::GBTData" name="o2::itsmft::GBTData">
+<area shape="rect" id="node2" href="$d5/d5c/structo2_1_1itsmft_1_1GBTWord.html" title="{o2::itsmft::GBTWord\n|+ packetIdx\l+ activeLanes\l+ na0h\l+ na1h\l+ id\l+ lanesStops\l+ na0t\l+ lanesTimeout\l+ na1t\l+ packetDone\l+ transmissionTimeout\l+ packetOverflow\l+ laneStartsViolation\l+ laneTimeouts\l+ na2t\l+ triggerType\l+ internal\l+ noData\l+ na0tr\l+ na1tr\l+ bc\l+ na2tr\l+ orbit\l+ na3tr\l+ data8\l+ data64\l+ @202\l|+ GBTWord()\l+ isDataHeader()\l+ isDataTrailer()\l+ isTriggerWord()\l+ isDataIB()\l+ isDataOB()\l+ getW64()\l+ getW8()\l+ getHeader()\l+ printX()\l+ printB()\l+ ClassDefNV()\l}" alt="" coords="5,5,180,625"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="o2::trd::FeeParam" name="o2::trd::FeeParam">
+<area shape="rect" id="node3" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="241,5,292,83"/>
+<area shape="rect" id="node4" href="$d7/d96/classo2_1_1trd_1_1TRDCommonParam.html" title="{o2::trd::TRDCommonParam\n||+ TRDCommonParam()\l+ operator=()\l+ ~TRDCommonParam()\l+ SetExB()\l+ SetSamplingFrequency()\l+ SetXenon()\l+ SetArgon()\l+ ExBOn()\l+ IsXenon()\l+ IsArgon()\l+ GetGasMixture()\l+ GetSamplingFrequency()\l+ GetCachedField()\l+ cacheMagField()\l+ GetOmegaTau()\l+ GetDiffCoeff()\l+ TimeStruct()\l+ Instance()\l+ Terminate()\l# SampleTimeStruct()\l}" alt="" coords="503,263,702,619"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/test/testTPCParameters.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/test/testTPCParameters.cxx">
+<area shape="rect" id="node3" href="$db/dad/ParameterDetector_8h.html" title="Definition of the parameter class for the detector. " alt="" coords="941,124,1158,151"/>
+<area shape="rect" id="node19" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="404,288,601,329"/>
+<area shape="rect" id="node26" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="723,199,920,240"/>
+<area shape="rect" id="node30" href="$d3/d47/ParameterElectronics_8h.html" title="Definition of the parameter class for the detector electronics. " alt="" coords="257,124,490,151"/>
+<area shape="rect" id="node31" href="$de/d2b/ParameterGEM_8h.html" title="Definition of the parameter class for the GEM stack. " alt="" coords="726,124,917,151"/>
+<area shape="rect" id="node32" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="515,124,701,151"/>
+<area shape="rect" id="node33" href="$d4/dee/SimConfig_8h.html" title="SimConfig/SimConfig.h" alt="" coords="2088,124,2259,151"/>
+<area shape="rect" id="node5" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1007,206,1185,233"/>
+<area shape="rect" id="node7" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="807,385,987,411"/>
+<area shape="rect" id="node10" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1537,295,1717,322"/>
+</map>

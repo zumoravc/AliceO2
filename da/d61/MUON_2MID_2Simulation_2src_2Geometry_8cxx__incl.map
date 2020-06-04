@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Simulation/src/Geometry.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Simulation/src/Geometry.cxx">
+<area shape="rect" id="node2" href="$d1/db4/MUON_2MID_2Simulation_2include_2MIDSimulation_2Geometry_8h.html" title="Implementation of the trigger&#45;stations geometry. " alt="" coords="1835,124,2031,151"/>
+<area shape="rect" id="node7" href="$dc/de4/DetectorParameters_8h.html" title="Useful detector parameters for MID. " alt="" coords="1678,273,1903,300"/>
+<area shape="rect" id="node21" href="$dc/d37/MID_2Simulation_2src_2Materials_8h.html" title="Materials.h" alt="" coords="2206,124,2301,151"/>
+<area shape="rect" id="node23" href="$db/db5/GeometryParameters_8h.html" title="Useful geometrical parameters for MID. " alt="" coords="1977,273,2212,300"/>
+<area shape="rect" id="node5" href="$de/d0c/GeometryTransformer_8h.html" title="Geometry transformer for MID. " alt="" coords="1523,199,1760,225"/>
+<area shape="rect" id="node8" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="762,273,942,300"/>
+<area shape="rect" id="node17" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="835,355,1015,382"/>
+</map>

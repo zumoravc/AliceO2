@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d1/d91/structnlohmann_1_1detail_1_1negation.html" title="nlohmann::detail::negation\&lt; B \&gt;" alt="" coords="188,5,424,32"/>
+<area shape="rect" id="node3" href="$db/d98/structo2_1_1framework_1_1variant__trait.html" title="o2::framework::variant\l_trait\&lt; T \&gt;" alt="" coords="221,57,391,98"/>
+<area shape="rect" id="node4" href="$d5/de6/structo2_1_1framework_1_1variant__trait_3_01bool_01_4.html" title="o2::framework::variant\l_trait\&lt; bool \&gt;" alt="" coords="221,122,391,163"/>
+<area shape="rect" id="node5" href="$d0/d2f/structo2_1_1framework_1_1variant__trait_3_01char_01_5_01_4.html" title="o2::framework::variant\l_trait\&lt; char * \&gt;" alt="" coords="221,187,391,229"/>
+<area shape="rect" id="node6" href="$da/da1/structo2_1_1framework_1_1variant__trait_3_01char_01_5const_01_4.html" title="o2::framework::variant\l_trait\&lt; char *const \&gt;" alt="" coords="221,253,391,294"/>
+<area shape="rect" id="node7" href="$d6/db6/structo2_1_1framework_1_1variant__trait_3_01const_01char_01_5_01_4.html" title="o2::framework::variant\l_trait\&lt; const char * \&gt;" alt="" coords="221,318,391,359"/>
+<area shape="rect" id="node8" href="$d9/da5/structo2_1_1framework_1_1variant__trait_3_01const_01char_01_5const_01_4.html" title="o2::framework::variant\l_trait\&lt; const char *const \&gt;" alt="" coords="207,383,405,425"/>
+<area shape="rect" id="node9" href="$d7/d26/structo2_1_1framework_1_1variant__trait_3_01double_01_4.html" title="o2::framework::variant\l_trait\&lt; double \&gt;" alt="" coords="221,449,391,490"/>
+<area shape="rect" id="node10" href="$da/d8f/structo2_1_1framework_1_1variant__trait_3_01float_01_4.html" title="o2::framework::variant\l_trait\&lt; float \&gt;" alt="" coords="221,514,391,555"/>
+<area shape="rect" id="node11" href="$d7/dd6/structo2_1_1framework_1_1variant__trait_3_01int_01_4.html" title="o2::framework::variant\l_trait\&lt; int \&gt;" alt="" coords="221,579,391,621"/>
+<area shape="rect" id="node12" href="$d8/d55/structo2_1_1framework_1_1variant__trait_3_01long_01int_01_4.html" title="o2::framework::variant\l_trait\&lt; long int \&gt;" alt="" coords="221,645,391,686"/>
+<area shape="rect" id="node13" href="$d4/da2/structo2_1_1framework_1_1variant__trait_3_01long_01long_01int_01_4.html" title="o2::framework::variant\l_trait\&lt; long long int \&gt;" alt="" coords="221,710,391,751"/>
+<area shape="rect" id="node14" href="$d8/da3/structo2_1_1framework_1_1variant__trait_3_01std_1_1string_01_4.html" title="o2::framework::variant\l_trait\&lt; std::string \&gt;" alt="" coords="221,775,391,817"/>
+<area shape="rect" id="node15" href="$d3/d6c/structo2_1_1framework_1_1variant__trait_3_01std_1_1string__view_01_4.html" title="o2::framework::variant\l_trait\&lt; std::string_view \&gt;" alt="" coords="211,841,401,882"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/simulation/src/RawOutputPageHandler.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/simulation/src/RawOutputPageHandler.cxx">
+<area shape="rect" id="node3" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="971,385,1170,411"/>
+<area shape="rect" id="node5" href="$d1/dec/HBFUtils_8h.html" title="DetectorsRaw/HBFUtils.h" alt="" coords="1259,124,1445,151"/>
+<area shape="rect" id="node40" href="$d9/d87/RawOutputPageHandler_8h.html" title="EMCALSimulation/RawOutput\lPageHandler.h" alt="" coords="2521,199,2733,240"/>
+<area shape="rect" id="node7" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="889,206,1077,233"/>
+<area shape="rect" id="node15" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="1411,288,1643,329"/>
+<area shape="rect" id="node29" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="2139,288,2336,329"/>
+<area shape="rect" id="node36" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="1728,199,1925,240"/>
+<area shape="rect" id="node39" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="1101,206,1315,233"/>
+<area shape="rect" id="node8" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="322,385,465,411"/>
+<area shape="rect" id="node11" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1346,385,1513,411"/>
+<area shape="rect" id="node12" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="636,295,780,322"/>
+<area shape="rect" id="node19" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="894,295,1029,322"/>
+<area shape="rect" id="node9" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="195,467,392,493"/>
+<area shape="rect" id="node10" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="5,467,171,493"/>
+<area shape="rect" id="node18" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="1713,385,1967,411"/>
+<area shape="rect" id="node20" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="778,385,947,411"/>
+<area shape="rect" id="node27" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1100,467,1295,493"/>
+<area shape="rect" id="node42" href="$d4/d93/DMAOutputStream_8h.html" title="EMCALSimulation/DMAOutput\lStream.h" alt="" coords="2741,288,2955,329"/>
+</map>

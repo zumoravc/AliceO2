@@ -1,0 +1,22 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/simulation/include/TRDSimulation/TrapConfigHandler.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/simulation/include/TRDSimulation/TrapConfigHandler.h">
+<area shape="rect" id="node3" href="$d5/da9/CalOnlineGainTables_8h.html" title="TRDBase/CalOnlineGainTables.h" alt="" coords="2127,139,2358,165"/>
+<area shape="rect" id="node41" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2622,303,2791,344"/>
+<area shape="rect" id="node45" href="$dc/d25/Detectors_2TRD_2base_2include_2TRDBase_2MCLabel_8h.html" title="TRDBase/MCLabel.h" alt="" coords="1297,139,1449,165"/>
+<area shape="rect" id="node5" href="$dd/d07/TRDGeometry_8h.html" title="TRDBase/TRDGeometry.h" alt="" coords="2149,221,2336,247"/>
+<area shape="rect" id="node6" href="$d8/dad/TRDGeometryBase_8h.html" title="TRDBase/TRDGeometryBase.h" alt="" coords="1403,310,1624,337"/>
+<area shape="rect" id="node14" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="2053,303,2281,344"/>
+<area shape="rect" id="node19" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2205,392,2433,433"/>
+<area shape="rect" id="node7" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1031,660,1174,687"/>
+<area shape="rect" id="node10" href="$da/d32/TRDCommonParam_8h.html" title="TRDBase/TRDCommonParam.h" alt="" coords="392,399,616,426"/>
+<area shape="rect" id="node13" href="$de/df3/TRDPadPlane_8h.html" title="TRDBase/TRDPadPlane.h" alt="" coords="82,399,265,426"/>
+<area shape="rect" id="node8" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="901,735,1099,761"/>
+<area shape="rect" id="node9" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1123,735,1288,761"/>
+<area shape="rect" id="node11" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="90,489,257,515"/>
+<area shape="rect" id="node15" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="1965,399,2129,426"/>
+<area shape="rect" id="node29" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1225,399,1405,426"/>
+<area shape="rect" id="node24" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="2261,489,2392,515"/>
+<area shape="rect" id="node26" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="2277,578,2430,605"/>
+<area shape="rect" id="node28" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1995,578,2253,605"/>
+<area shape="rect" id="node37" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="281,489,461,515"/>
+<area shape="rect" id="node46" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1039,213,1209,255"/>
+</map>

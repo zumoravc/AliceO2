@@ -1,0 +1,19 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Simulation/test/testDigitization.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Simulation/test/testDigitization.cxx">
+<area shape="rect" id="node4" href="$d8/d72/Detectors_2MUON_2MCH_2Base_2include_2MCHBase_2Digit_8h.html" title="MCHBase/Digit.h" alt="" coords="886,221,1017,247"/>
+<area shape="rect" id="node6" href="$da/d5e/MUON_2MCH_2Simulation_2include_2MCHSimulation_2Digitizer_8h.html" title="MCHSimulation/Digitizer.h" alt="" coords="1215,131,1407,158"/>
+<area shape="rect" id="node7" href="$d5/daf/Detectors_2MUON_2MCH_2Simulation_2include_2MCHSimulation_2Hit_8h.html" title="MCHSimulation/Hit.h" alt="" coords="1041,221,1198,247"/>
+<area shape="rect" id="node27" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1223,213,1392,255"/>
+<area shape="rect" id="node29" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1416,213,1585,255"/>
+<area shape="rect" id="node37" href="$d5/dc1/MUON_2MCH_2Simulation_2include_2MCHSimulation_2Geometry_8h.html" title="MCHSimulation/Geometry.h" alt="" coords="1609,221,1811,247"/>
+<area shape="rect" id="node39" href="$de/d04/GeometryTest_8h.html" title="MCHSimulation/GeometryTest.h" alt="" coords="1583,131,1813,158"/>
+<area shape="rect" id="node40" href="$d6/d1f/MUON_2MCH_2Mapping_2Interface_2include_2MCHMappingInterface_2Segmentation_8h.html" title="MCHMappingInterface\l/Segmentation.h" alt="" coords="1837,124,2002,165"/>
+<area shape="rect" id="node8" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="787,303,956,344"/>
+<area shape="rect" id="node20" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="549,310,762,337"/>
+<area shape="rect" id="node9" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1555,392,1735,419"/>
+<area shape="rect" id="node17" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1813,474,1993,501"/>
+<area shape="rect" id="node21" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="263,392,474,419"/>
+<area shape="rect" id="node28" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="980,310,1147,337"/>
+<area shape="rect" id="node41" href="$df/db6/CathodeSegmentation_8h.html" title="MCHMappingInterface\l/CathodeSegmentation.h" alt="" coords="1903,213,2085,255"/>
+<area shape="rect" id="node46" href="$d0/d5f/Segmentation_8inl.html" title="Segmentation.inl" alt="" coords="2110,221,2243,247"/>
+<area shape="rect" id="node42" href="$d0/dc7/CathodeSegmentationCInterface_8h.html" title="CathodeSegmentationCInterface.h" alt="" coords="2065,310,2312,337"/>
+</map>

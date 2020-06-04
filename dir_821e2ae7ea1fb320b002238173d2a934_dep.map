@@ -1,0 +1,16 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/workflow/include" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/workflow/include">
+<area shape="rect" id="node2" href="dir_de8e345c8337811d6b8b6469e5a5270c.html" title="FITWorkflow" alt="" coords="89,63,190,111"/>
+<area shape="rect" id="node3" href="dir_732f729910dd598014f768fa2866f334.html" title="FT0" alt="" coords="103,159,175,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000391_000286.html" title="1" alt="" coords="143,133,152,147"/>
+<area shape="rect" id="node4" href="dir_bcbb2cf9a3d3d83e5515c82071a07177.html" title="Framework" alt="" coords="5,255,100,303"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000391_000013.html" title="10" alt="" coords="62,232,80,246"/>
+<area shape="rect" id="node5" href="dir_2171f7ec022c5423887b07c69b2f5b48.html" title="DataFormats" alt="" coords="97,351,203,399"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000391_000076.html" title="5" alt="" coords="172,329,181,344"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000286_000013.html" title="4" alt="" coords="89,239,98,254"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000286_000076.html" title="47" alt="" coords="140,324,157,339"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000013_000076.html" title="82" alt="" coords="101,325,119,339"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000076_000286.html" title="1" alt="" coords="136,219,146,233"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000076_000013.html" title="7" alt="" coords="88,314,97,329"/>
+<area shape="rect" id="clust2" href="dir_821e2ae7ea1fb320b002238173d2a934.html" alt="" coords="78,52,297,121"/>
+<area shape="rect" id="clust1" href="dir_5ce6e9398434f08eb70f7bcae577b527.html" title="workflow" alt="" coords="67,16,307,132"/>
+</map>

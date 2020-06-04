@@ -1,0 +1,6 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Raw/src/RawInfo.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Raw/src/RawInfo.h">
+<area shape="rect" id="node2" href="$d2/db9/CRUBareDecoder_8cxx.html" title="MID CRU core decoder. " alt="" coords="5,124,200,195"/>
+<area shape="rect" id="node3" href="$d5/d6c/GBTOutputHandler_8cxx.html" title="MID GBT decoder output handler. " alt="" coords="224,124,421,195"/>
+<area shape="rect" id="node4" href="$dd/dd0/GBTUserLogicEncoder_8cxx.html" title="Raw data encoder for MID CRU user logic. " alt="" coords="445,124,664,195"/>
+<area shape="rect" id="node5" href="$d6/d52/MUON_2MID_2Raw_2src_2RawBuffer_8cxx.html" title="MID CRU user logic decoder. " alt="" coords="688,124,883,195"/>
+</map>

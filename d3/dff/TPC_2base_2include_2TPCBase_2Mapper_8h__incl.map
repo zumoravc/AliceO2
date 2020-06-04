@@ -1,0 +1,16 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/Mapper.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/Mapper.h">
+<area shape="rect" id="node7" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1147,423,1325,449"/>
+<area shape="rect" id="node20" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="969,273,1111,300"/>
+<area shape="rect" id="node21" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="850,199,1014,225"/>
+<area shape="rect" id="node22" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1019,348,1154,375"/>
+<area shape="rect" id="node24" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1287,199,1457,225"/>
+<area shape="rect" id="node26" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="1089,124,1239,151"/>
+<area shape="rect" id="node28" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="1729,348,1873,375"/>
+<area shape="rect" id="node29" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="724,124,911,151"/>
+<area shape="rect" id="node30" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1634,124,1809,151"/>
+<area shape="rect" id="node8" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="154,579,334,606"/>
+<area shape="rect" id="node11" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1146,497,1326,524"/>
+<area shape="rect" id="node23" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="911,423,1123,449"/>
+<area shape="rect" id="node25" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1236,273,1359,300"/>
+<area shape="rect" id="node27" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1140,199,1263,225"/>
+</map>

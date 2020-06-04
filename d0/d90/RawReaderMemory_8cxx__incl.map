@@ -1,0 +1,10 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/reconstruction/src/RawReaderMemory.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/reconstruction/src/RawReaderMemory.cxx">
+<area shape="rect" id="node4" href="$df/ddd/RCUTrailer_8h.html" title="EMCALBase/RCUTrailer.h" alt="" coords="290,221,470,247"/>
+<area shape="rect" id="node10" href="$d3/d89/RawHeaderStream_8h.html" title="Input stream operators for raw header 4 and 5 from binary file. " alt="" coords="341,124,504,165"/>
+<area shape="rect" id="node12" href="$d8/d86/RawReaderMemory_8h.html" title="EMCALReconstruction\l/RawReaderMemory.h" alt="" coords="836,124,999,165"/>
+<area shape="rect" id="node18" href="$d9/dd2/RawDecodingError_8h.html" title="EMCALReconstruction\l/RawDecodingError.h" alt="" coords="155,124,317,165"/>
+<area shape="rect" id="node11" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="494,221,693,247"/>
+<area shape="rect" id="node13" href="$dc/ded/EMCAL_2reconstruction_2include_2EMCALReconstruction_2RawBuffer_8h.html" title="EMCALReconstruction\l/RawBuffer.h" alt="" coords="955,213,1117,255"/>
+<area shape="rect" id="node15" href="$da/d8c/Detectors_2EMCAL_2reconstruction_2include_2EMCALReconstruction_2RAWDataHeader_8h.html" title="EMCALReconstruction\l/RAWDataHeader.h" alt="" coords="717,213,880,255"/>
+<area shape="rect" id="node16" href="$d5/dfc/RawPayload_8h.html" title="EMCALReconstruction\l/RawPayload.h" alt="" coords="1141,213,1304,255"/>
+</map>

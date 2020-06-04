@@ -1,0 +1,18 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/DataProcessor.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/DataProcessor.cxx">
+<area shape="rect" id="node2" href="$d9/df0/DataProcessor_8h.html" title="Framework/DataProcessor.h" alt="" coords="1113,109,1315,136"/>
+<area shape="rect" id="node3" href="$dc/dc4/MessageContext_8h.html" title="Framework/MessageContext.h" alt="" coords="3599,109,3818,136"/>
+<area shape="rect" id="node11" href="$d8/d3c/TMessageSerializer_8h.html" title="Framework/TMessageSerializer.h" alt="" coords="542,184,777,211"/>
+<area shape="rect" id="node27" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="4300,184,4469,211"/>
+<area shape="rect" id="node47" href="$dd/df6/StringContext_8h.html" title="Framework/StringContext.h" alt="" coords="5105,184,5304,211"/>
+<area shape="rect" id="node48" href="$d8/da2/ArrowContext_8h.html" title="Framework/ArrowContext.h" alt="" coords="4600,184,4799,211"/>
+<area shape="rect" id="node49" href="$d8/d25/RawBufferContext_8h.html" title=" " alt="" coords="5328,184,5556,211"/>
+<area shape="rect" id="node50" href="$d7/d91/BoostSerializer_8h.html" title="Templatised boost serializer/deserializer for containers and base types. " alt="" coords="5927,266,6151,293"/>
+<area shape="rect" id="node64" href="$df/dd9/FairMQResizableBuffer_8h.html" title="FairMQResizableBuffer.h" alt="" coords="5725,266,5903,293"/>
+<area shape="rect" id="node4" href="$dd/dda/DispatchControl_8h.html" title="Framework/DispatchControl.h" alt="" coords="1492,184,1707,211"/>
+<area shape="rect" id="node9" href="$d8/d71/FairMQDeviceProxy_8h.html" title="Framework/FairMQDeviceProxy.h" alt="" coords="5127,266,5362,293"/>
+<area shape="rect" id="node21" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="3797,266,3972,293"/>
+<area shape="rect" id="node35" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="2628,184,2904,211"/>
+<area shape="rect" id="node5" href="$da/de6/DispatchPolicy_8h.html" title="Framework/DispatchPolicy.h" alt="" coords="1357,266,1561,293"/>
+<area shape="rect" id="node20" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="3167,266,3362,293"/>
+<area shape="rect" id="node23" href="$db/d31/Traits_8h.html" title="Framework/Traits.h" alt="" coords="3795,355,3940,382"/>
+</map>

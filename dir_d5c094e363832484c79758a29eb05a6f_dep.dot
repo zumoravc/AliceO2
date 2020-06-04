@@ -1,0 +1,19 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FDD/reconstruction" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a5b1c90a9b4d60b6556bfe35a03caaa0 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="FDD" fontname="Helvetica", fontsize="10", URL="dir_a5b1c90a9b4d60b6556bfe35a03caaa0.html"]
+  subgraph clusterdir_d5c094e363832484c79758a29eb05a6f {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_d5c094e363832484c79758a29eb05a6f.html"];
+    dir_d5c094e363832484c79758a29eb05a6f [shape=plaintext label="reconstruction"];
+    dir_022348068a13a69c0e47fc289d66acb8 [shape=box label="include" color="red" fillcolor="white" style="filled" URL="dir_022348068a13a69c0e47fc289d66acb8.html"];
+    dir_4d650ce6f8ed000c2c2a6bba7466aa94 [shape=box label="src" color="black" fillcolor="white" style="filled" URL="dir_4d650ce6f8ed000c2c2a6bba7466aa94.html"];
+  }
+  }
+  dir_2171f7ec022c5423887b07c69b2f5b48 [shape=box label="DataFormats" color="red" URL="dir_2171f7ec022c5423887b07c69b2f5b48.html"];
+  dir_4d650ce6f8ed000c2c2a6bba7466aa94->dir_022348068a13a69c0e47fc289d66acb8 [headlabel="1", labeldistance=1.5 headhref="dir_000435_000433.html"];
+  dir_4d650ce6f8ed000c2c2a6bba7466aa94->dir_2171f7ec022c5423887b07c69b2f5b48 [headlabel="1", labeldistance=1.5 headhref="dir_000435_000076.html"];
+  dir_022348068a13a69c0e47fc289d66acb8->dir_2171f7ec022c5423887b07c69b2f5b48 [headlabel="2", labeldistance=1.5 headhref="dir_000433_000076.html"];
+}

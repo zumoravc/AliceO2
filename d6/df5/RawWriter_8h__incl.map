@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/simulation/include/EMCALSimulation/RawWriter.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/simulation/include/EMCALSimulation/RawWriter.h">
+<area shape="rect" id="node9" href="$d1/d7a/EMCAL_2base_2include_2EMCALBase_2Mapper_8h.html" title="EMCALBase/Mapper.h" alt="" coords="859,131,1020,158"/>
+<area shape="rect" id="node19" href="$d4/d93/DMAOutputStream_8h.html" title="EMCALSimulation/DMAOutput\lStream.h" alt="" coords="364,213,579,255"/>
+<area shape="rect" id="node22" href="$d9/d87/RawOutputPageHandler_8h.html" title="EMCALSimulation/RawOutput\lPageHandler.h" alt="" coords="333,124,545,165"/>
+<area shape="rect" id="node27" href="$d3/d6e/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Digit_8h.html" title="DataFormatsEMCAL/Digit.h" alt="" coords="1953,131,2150,158"/>
+<area shape="rect" id="node33" href="$d9/d38/EMCAL_2include_2DataFormatsEMCAL_2TriggerRecord_8h.html" title="DataFormatsEMCAL/Trigger\lRecord.h" alt="" coords="2221,124,2420,165"/>
+<area shape="rect" id="node18" href="$dd/dda/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Constants_8h.html" title="DataFormatsEMCAL/Constants.h" alt="" coords="1375,221,1605,247"/>
+<area shape="rect" id="node21" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="229,303,428,329"/>
+<area shape="rect" id="node23" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="1731,213,1963,255"/>
+<area shape="rect" id="node24" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2353,303,2520,329"/>
+<area shape="rect" id="node26" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="1819,303,2073,329"/>
+<area shape="rect" id="node28" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="2357,221,2607,247"/>
+<area shape="rect" id="node29" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="3037,303,3180,329"/>
+<area shape="rect" id="node30" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="2907,377,3105,404"/>
+<area shape="rect" id="node31" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="3129,377,3294,404"/>
+<area shape="rect" id="node34" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="2631,221,2911,247"/>
+</map>

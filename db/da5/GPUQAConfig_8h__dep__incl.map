@@ -1,0 +1,18 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/Standalone/qa/GPUQAConfig.h" name="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/Standalone/qa/GPUQAConfig.h">
+<area shape="rect" id="node2" href="$d8/de7/GPUO2InterfaceConfiguration_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Interface\l/GPUO2InterfaceConfiguration.h" alt="" coords="665,124,894,195"/>
+<area shape="rect" id="node9" href="$da/dcc/GPUQA_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Standalone\l/qa/GPUQA.h" alt="" coords="1791,124,2008,195"/>
+<area shape="rect" id="node3" href="$d4/d2e/GPUCATracking_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/src/GPUCATracking.cxx" alt="" coords="5,243,220,313"/>
+<area shape="rect" id="node4" href="$d1/df6/testGPUCATracking_8cxx.html" title="This task tests the TPC CA Tracking library. " alt="" coords="244,243,459,313"/>
+<area shape="rect" id="node5" href="$da/d78/CATrackerSpec_8cxx.html" title="Processor spec for running TPC CA tracking. " alt="" coords="483,243,665,313"/>
+<area shape="rect" id="node6" href="$d2/dbc/ZSSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/workflow\l/src/ZSSpec.cxx" alt="" coords="689,243,870,313"/>
+<area shape="rect" id="node7" href="$d8/db5/testGPUTracking_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/ctest\l/testGPUTracking.cxx" alt="" coords="894,243,1070,313"/>
+<area shape="rect" id="node8" href="$d0/d48/GPUO2Interface_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Interface\l/GPUO2Interface.cxx" alt="" coords="1094,243,1297,313"/>
+<area shape="rect" id="node10" href="$d7/d36/GPUReconstructionTimeframe_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Base\l/GPUReconstructionTimeframe.cxx" alt="" coords="1321,243,1571,313"/>
+<area shape="rect" id="node11" href="$d2/d58/GPUChainTracking_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Global\l/GPUChainTracking.cxx" alt="" coords="1595,243,1782,313"/>
+<area shape="rect" id="node12" href="$d3/d85/GPUChainTrackingIO_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Global\l/GPUChainTrackingIO.cxx" alt="" coords="1806,243,1993,313"/>
+<area shape="rect" id="node13" href="$d0/dd4/GPUTPCGMMerger_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Merger\l/GPUTPCGMMerger.cxx" alt="" coords="2017,243,2206,313"/>
+<area shape="rect" id="node16" href="$de/ddc/GPUQA_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Standalone\l/qa/GPUQA.cxx" alt="" coords="2231,243,2448,313"/>
+<area shape="rect" id="node17" href="$dc/df9/standalone_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Standalone\l/standalone.cxx" alt="" coords="2472,243,2689,313"/>
+<area shape="rect" id="node14" href="$d0/d25/GPUReconstructionIncludesDevice_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Base\l/GPUReconstructionIncludesDevice.h" alt="" coords="1981,361,2242,432"/>
+<area shape="rect" id="node15" href="$d3/d33/GPUReconstructionHIP_8hip_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Base\l/hip/GPUReconstructionHIP.hip.cxx" alt="" coords="1989,480,2234,551"/>
+</map>

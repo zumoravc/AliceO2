@@ -1,0 +1,29 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/SpaceCharge.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/SpaceCharge.cxx">
+<area shape="rect" id="node8" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="4559,124,4771,151"/>
+<area shape="rect" id="node9" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="2496,206,2673,233"/>
+<area shape="rect" id="node23" href="$db/d4b/MagneticField_8h.html" title="Definition of the MagF class. " alt="" coords="3074,124,3231,151"/>
+<area shape="rect" id="node38" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="3934,124,4065,151"/>
+<area shape="rect" id="node46" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="4089,124,4275,151"/>
+<area shape="rect" id="node58" href="$d3/db6/SpaceCharge_8h.html" title="Definition of the handler for the ALICE TPC space&#45;charge distortions calculations. " alt="" coords="2357,124,2575,151"/>
+<area shape="rect" id="node11" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1329,385,1509,411"/>
+<area shape="rect" id="node14" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2539,295,2719,322"/>
+<area shape="rect" id="node25" href="$d3/d91/MagFieldParam_8h.html" title="Definition of the MagFieldParam: container for ALICE mag. field parameters. " alt="" coords="3577,206,3744,233"/>
+<area shape="rect" id="node28" href="$dd/dfb/MagneticWrapperChebyshev_8h.html" title="Field/MagneticWrapperChebyshev.h" alt="" coords="3191,206,3443,233"/>
+<area shape="rect" id="node34" href="$da/df4/MagFieldFast_8h.html" title="Definition of the fast magnetic field parametrization MagFieldFast. " alt="" coords="2697,206,2848,233"/>
+<area shape="rect" id="node31" href="$d8/d64/Chebyshev3D_8h.html" title="MathUtils/Chebyshev3D.h" alt="" coords="3313,295,3504,322"/>
+<area shape="rect" id="node33" href="$d4/d08/Chebyshev3DCalc_8h.html" title="MathUtils/Chebyshev3DCalc.h" alt="" coords="3446,385,3665,411"/>
+<area shape="rect" id="node40" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="4177,295,4320,322"/>
+<area shape="rect" id="node43" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="4152,206,4305,233"/>
+<area shape="rect" id="node45" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="3870,206,4129,233"/>
+<area shape="rect" id="node41" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="3945,385,4142,411"/>
+<area shape="rect" id="node42" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="4166,385,4331,411"/>
+<area shape="rect" id="node47" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="4482,288,4679,329"/>
+<area shape="rect" id="node54" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="4643,199,4841,240"/>
+<area shape="rect" id="node59" href="$d9/d9a/AliTPCSpaceCharge3DCalc_8h.html" title="This class provides distortion and correction map calculation with integration following electron dri..." alt="" coords="937,206,1144,233"/>
+<area shape="rect" id="node69" href="$db/dac/RandomRing_8h.html" title="MathUtils/RandomRing.h" alt="" coords="2256,206,2439,233"/>
+<area shape="rect" id="node63" href="$dd/d13/AliTPCPoissonSolver_8h.html" title="This class provides implementation of Poisson Eq solver by MultiGrid Method. " alt="" coords="1139,385,1305,411"/>
+<area shape="rect" id="node65" href="$d1/dc0/AliTPCLookUpTable3DInterpolatorD_8h.html" title="Wrap up look&#45;up table for correction/distortion integral or derivative (electric field) assume 3 comp..." alt="" coords="332,295,595,322"/>
+<area shape="rect" id="node66" href="$d2/d9a/AliTPC3DCylindricalInterpolator_8h.html" title="Interpolator for cylindrical coordinate this class provides: cubic spline, quadratic and linear inter..." alt="" coords="523,385,761,411"/>
+<area shape="rect" id="node67" href="$df/d79/AliTPCLookUpTable3DInterpolatorIrregularD_8h.html" title="Wrap up look&#45;up table with irregular grid. " alt="" coords="841,288,1083,329"/>
+<area shape="rect" id="node68" href="$d9/d86/AliTPC3DCylindricalInterpolatorIrregular_8h.html" title="Irregular grid interpolator for cylindrical coordinate with r,phi,z different coordinates RBF&#45;based i..." alt="" coords="837,377,1063,419"/>
+</map>

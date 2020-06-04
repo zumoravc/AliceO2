@@ -1,0 +1,27 @@
+var structo2_1_1ft0_1_1Digit =
+[
+    [ "bit1TimeLostEvent", "d0/da1/structo2_1_1ft0_1_1Digit.html#ab7efd775e64fe5ec9415e4105b92a7cea3d8bd86f50eb43a843f946ea4748c138", null ],
+    [ "bit2TimeLostEvent", "d0/da1/structo2_1_1ft0_1_1Digit.html#ab7efd775e64fe5ec9415e4105b92a7cea8364912fd474bedc54982ea666dca53d", null ],
+    [ "bitADCinGate", "d0/da1/structo2_1_1ft0_1_1Digit.html#ab7efd775e64fe5ec9415e4105b92a7cea8462ac1bbdd075e79bae73b107e382cb", null ],
+    [ "bitTimeInfoLate", "d0/da1/structo2_1_1ft0_1_1Digit.html#ab7efd775e64fe5ec9415e4105b92a7cea35b8314472ccbb472fd81c730838fcf7", null ],
+    [ "bitAmpHigh", "d0/da1/structo2_1_1ft0_1_1Digit.html#ab7efd775e64fe5ec9415e4105b92a7ceaec6311fcbba94eb6da08b5d82d5eb5ec", null ],
+    [ "bitEventInTVDC", "d0/da1/structo2_1_1ft0_1_1Digit.html#ab7efd775e64fe5ec9415e4105b92a7cea2784efff604357beef8b5ffe303433a0", null ],
+    [ "bitTimeInfoLost", "d0/da1/structo2_1_1ft0_1_1Digit.html#ab7efd775e64fe5ec9415e4105b92a7cea11611212917dbf2cbab5dc7e18b6476b", null ],
+    [ "Digit", "d0/da1/structo2_1_1ft0_1_1Digit.html#a72d20e4733e1ccf9ac8dee881bc2c5cc", null ],
+    [ "Digit", "d0/da1/structo2_1_1ft0_1_1Digit.html#ab3793ae33d0a35eab1aca7ad8b228c71", null ],
+    [ "ClassDefNV", "d0/da1/structo2_1_1ft0_1_1Digit.html#a128f9d972148deb2ddbb6d5b26005ca8", null ],
+    [ "getBC", "d0/da1/structo2_1_1ft0_1_1Digit.html#ab4518b002f3a9853442680c293a9223e", null ],
+    [ "getBunchChannelData", "d0/da1/structo2_1_1ft0_1_1Digit.html#a71db5e85912f3e65f49254f6e86dd308", null ],
+    [ "getEventID", "d0/da1/structo2_1_1ft0_1_1Digit.html#af18259ba4f82b417eeec5d23161bc670", null ],
+    [ "getIntRecord", "d0/da1/structo2_1_1ft0_1_1Digit.html#a642436d364acbe05f0176cfe667e89d9", null ],
+    [ "getOrbit", "d0/da1/structo2_1_1ft0_1_1Digit.html#a14a0efe6d7e7c12fc60794fabb3f1787", null ],
+    [ "getTriggers", "d0/da1/structo2_1_1ft0_1_1Digit.html#ad9b7b68f981040b584f6731ccf39d5ac", null ],
+    [ "printStream", "d0/da1/structo2_1_1ft0_1_1Digit.html#a3d272f08661cc7153ef52396984658a5", null ],
+    [ "setFlags", "d0/da1/structo2_1_1ft0_1_1Digit.html#a037f90e8a4cf049f9310a6e9a0097291", null ],
+    [ "setTriggers", "d0/da1/structo2_1_1ft0_1_1Digit.html#af4323a9e35a16256bd51a559255916a8", null ],
+    [ "flags", "d0/da1/structo2_1_1ft0_1_1Digit.html#a12ebbae340481606130799101969cb7d", null ],
+    [ "mEventID", "d0/da1/structo2_1_1ft0_1_1Digit.html#a98d887f863dea73bde5f05baccc95f2b", null ],
+    [ "mIntRecord", "d0/da1/structo2_1_1ft0_1_1Digit.html#a38b56645148148ea9de561908ac43d3b", null ],
+    [ "mTriggers", "d0/da1/structo2_1_1ft0_1_1Digit.html#af105af4f33f5803b9533d0d3d7113c7c", null ],
+    [ "ref", "d0/da1/structo2_1_1ft0_1_1Digit.html#a5624f24b3a734a8b5e3de0a2961f7dd5", null ]
+];

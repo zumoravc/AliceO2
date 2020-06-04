@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Utilities/rANS/include/librans/Decoder.h" name="/home/travis/build/AliceO2Group/AliceO2/Utilities/rANS/include/librans/Decoder.h">
+<area shape="rect" id="node5" href="$d8/dd9/SymbolTable_8h.html" title="Container for information needed to encode/decode a symbol of the alphabet. " alt="" coords="196,124,313,151"/>
+<area shape="rect" id="node11" href="$d7/d99/DecoderSymbol_8h.html" title="Structure containing all relevant information for decoding a rANS encoded symbol. ..." alt="" coords="869,199,1006,225"/>
+<area shape="rect" id="node13" href="$dc/d3b/ReverseSymbolLookupTable_8h.html" title="Maps CDF back to source symbol &#45; needed for the decoder. " alt="" coords="337,124,553,151"/>
+<area shape="rect" id="node15" href="$d5/d7a/Coder_8h.html" title="Stateless class for coding and decoding symbols using rANS. " alt="" coords="639,124,710,151"/>
+<area shape="rect" id="node7" href="$d0/d51/SymbolStatistics_8h.html" title="Structure to depict the distribution of symbols in the source message. " alt="" coords="186,199,329,225"/>
+<area shape="rect" id="node14" href="$d4/da1/helper_8h.html" title="various helper functions " alt="" coords="633,273,708,300"/>
+<area shape="rect" id="node16" href="$d2/d53/EncoderSymbol_8h.html" title="Structure containing all relevant information to encode a symbol. " alt="" coords="607,199,742,225"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Common/MathUtils/include/MathUtils/RandomRing.h" name="/home/travis/build/AliceO2Group/AliceO2/Common/MathUtils/include/MathUtils/RandomRing.h">
+<area shape="rect" id="node2" href="$df/d05/RandomRing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Common/MathUtils/src\l/RandomRing.cxx" alt="" coords="110,124,285,195"/>
+<area shape="rect" id="node3" href="$d3/d51/FIT_2FDD_2simulation_2include_2FDDSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/FDD/simulation\l/include/FDDSimulation/Digitizer.h" alt="" coords="309,124,553,195"/>
+<area shape="rect" id="node6" href="$da/d10/FIT_2FT0_2simulation_2include_2FT0Simulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/FT0/simulation\l/include/FT0Simulation/Digitizer.h" alt="" coords="668,124,908,195"/>
+<area shape="rect" id="node9" href="$d6/d82/FIT_2FV0_2simulation_2include_2FV0Simulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/FV0/simulation\l/include/FV0Simulation/Digitizer.h" alt="" coords="1087,124,1329,195"/>
+<area shape="rect" id="node12" href="$d2/da8/ElectronTransport_8h.html" title="Definition of the electron transport. " alt="" coords="3435,124,3736,195"/>
+<area shape="rect" id="node16" href="$d9/d79/GEMAmplification_8h.html" title="Definition of the GEM amplification. " alt="" coords="1090,369,1393,439"/>
+<area shape="rect" id="node20" href="$d0/d45/SAMPAProcessing_8h.html" title="Definition of the SAMPA response. " alt="" coords="2870,124,3173,195"/>
+<area shape="rect" id="node32" href="$d3/db6/SpaceCharge_8h.html" title="Definition of the handler for the ALICE TPC space&#45;charge distortions calculations. " alt="" coords="2251,124,2525,195"/>
+<area shape="rect" id="node34" href="$d4/dae/TRD_2simulation_2include_2TRDSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/simulation\l/include/TRDSimulation/Digitizer.h" alt="" coords="1727,124,1971,195"/>
+<area shape="rect" id="node4" href="$d0/d8c/FIT_2FDD_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/FDD/simulation\l/src/Digitizer.cxx" alt="" coords="5,243,221,313"/>
+<area shape="rect" id="node5" href="$d2/d97/FDDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/FDDDigitizerSpec.cxx" alt="" coords="245,243,435,313"/>
+<area shape="rect" id="node7" href="$de/dd9/FIT_2FT0_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/FT0/simulation\l/src/Digitizer.cxx" alt="" coords="459,243,671,313"/>
+<area shape="rect" id="node8" href="$d4/dfd/FT0DigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/FT0DigitizerSpec.cxx" alt="" coords="695,243,881,313"/>
+<area shape="rect" id="node10" href="$da/d9b/FIT_2FV0_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/FV0/simulation\l/src/Digitizer.cxx" alt="" coords="905,243,1119,313"/>
+<area shape="rect" id="node11" href="$d0/d1c/FV0DigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/FV0DigitizerSpec.cxx" alt="" coords="1143,243,1329,313"/>
+<area shape="rect" id="node13" href="$d7/d0a/TPC_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Digitizer.cxx" alt="" coords="2602,732,2793,803"/>
+<area shape="rect" id="node14" href="$d1/d98/ElectronTransport_8cxx.html" title="Implementation of the electron transport. " alt="" coords="3557,243,3747,313"/>
+<area shape="rect" id="node15" href="$d4/d82/testTPCElectronTransport_8cxx.html" title="This task tests the ElectronTransport module of the TPC digitization. " alt="" coords="3772,243,4017,313"/>
+<area shape="rect" id="node17" href="$db/d6c/GEMAmplification_8cxx.html" title="Implementation of the GEM amplification. " alt="" coords="1013,495,1203,565"/>
+<area shape="rect" id="node18" href="$d5/d97/testTPCGEMAmplification_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/test/testTPCGEMAmplification.cxx" alt="" coords="742,495,989,565"/>
+<area shape="rect" id="node19" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="1279,495,1513,565"/>
+<area shape="rect" id="node21" href="$d5/dcb/DigitGlobalPad_8h.html" title="Definition of the GlobalPad container. " alt="" coords="2879,243,3163,313"/>
+<area shape="rect" id="node25" href="$d2/d0b/TPCDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TPCDigitizerSpec.cxx" alt="" coords="3097,732,3284,803"/>
+<area shape="rect" id="node27" href="$dd/d5e/testTPCDigitContainer_8cxx.html" title="This task tests the DigitContainer of the TPC digitization. " alt="" coords="3138,613,3363,684"/>
+<area shape="rect" id="node30" href="$d1/dd8/SAMPAProcessing_8cxx.html" title="Implementation of the SAMPA response. " alt="" coords="3239,243,3430,313"/>
+<area shape="rect" id="node31" href="$d0/d5c/testTPCSAMPAProcessing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/test/testTPCSAMPAProcessing.cxx" alt="" coords="2558,243,2805,313"/>
+<area shape="rect" id="node22" href="$d0/d60/DigitTime_8h.html" title="Definition of the Time Bin container. " alt="" coords="2929,369,3181,439"/>
+<area shape="rect" id="node29" href="$d1/ddd/DigitGlobalPad_8cxx.html" title="Implementation of the Pad container. " alt="" coords="2714,369,2905,439"/>
+<area shape="rect" id="node23" href="$dd/d94/DigitContainer_8h.html" title="Definition of the Digit Container. " alt="" coords="2922,495,3203,565"/>
+<area shape="rect" id="node28" href="$dd/dcd/DigitTime_8cxx.html" title="Implementation of the Time Bin container. " alt="" coords="2707,495,2898,565"/>
+<area shape="rect" id="node24" href="$de/d92/TPC_2simulation_2include_2TPCSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/include/TPCSimulation/Digitizer.h" alt="" coords="2656,613,2899,684"/>
+<area shape="rect" id="node26" href="$df/d53/DigitContainer_8cxx.html" title="Implementation of the Digit Container. " alt="" coords="2923,613,3114,684"/>
+<area shape="rect" id="node33" href="$da/d8e/SpaceCharge_8cxx.html" title="Implementation of the interface for the ALICE TPC space&#45;charge distortions calculations. " alt="" coords="2293,243,2483,313"/>
+<area shape="rect" id="node35" href="$d7/d42/TrapSimulator_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/simulation\l/include/TRDSimulation/TrapSimulator.h" alt="" coords="1887,243,2166,313"/>
+<area shape="rect" id="node37" href="$da/deb/TrapSimulator_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/simulation\l/src/TrapSimulator.cxx" alt="" coords="2153,369,2346,439"/>
+<area shape="rect" id="node39" href="$dd/de7/TRDTrapSimulatorSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/workflow\l/src/TRDTrapSimulatorSpec.cxx" alt="" coords="1817,495,2041,565"/>
+<area shape="rect" id="node41" href="$d7/da6/TRDDigitReaderSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/workflow\l/src/TRDDigitReaderSpec.cxx" alt="" coords="2371,369,2581,439"/>
+<area shape="rect" id="node42" href="$d7/d40/TRD_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/simulation\l/src/Digitizer.cxx" alt="" coords="1405,243,1598,313"/>
+<area shape="rect" id="node43" href="$d6/df2/TRDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/workflow\l/src/TRDDigitizerSpec.cxx" alt="" coords="1623,243,1812,313"/>
+<area shape="rect" id="node36" href="$db/dc3/TrapConfigHandler_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/simulation\l/src/TrapConfigHandler.cxx" alt="" coords="1933,369,2128,439"/>
+<area shape="rect" id="node38" href="$dc/d96/TRDTrapSimulatorSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/workflow\l/include/TRDWorkflow/TRDTrapSimulator\lSpec.h" alt="" coords="1523,361,1808,447"/>
+<area shape="rect" id="node40" href="$d2/dc0/TRDTrapSimulatorWorkFlow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/workflow\l/src/TRDTrapSimulatorWorkFlow.cxx" alt="" coords="1538,495,1793,565"/>
+</map>

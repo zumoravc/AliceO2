@@ -1,0 +1,6 @@
+<map id="o2::framework::Configurable&lt; T &gt;" name="o2::framework::Configurable&lt; T &gt;">
+<area shape="rect" id="node2" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; o2::test::SimplePODClass \&gt;\n|+ name\l+ value\l+ help\l|+ Configurable()\l+ operator o2::test::\lSimplePODClass()\l+ operator&#45;\&gt;()\l}" alt="" coords="5,204,223,369"/>
+<area shape="rect" id="node3" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; double \&gt;\n|+ name\l+ value\l+ help\l|+ Configurable()\l+ operator double()\l+ operator&#45;\&gt;()\l}" alt="" coords="247,211,453,362"/>
+<area shape="rect" id="node4" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; float \&gt;\n|+ name\l+ value\l+ help\l|+ Configurable()\l+ operator float()\l+ operator&#45;\&gt;()\l}" alt="" coords="477,211,684,362"/>
+<area shape="rect" id="node5" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; int \&gt;\n|+ name\l+ value\l+ help\l|+ Configurable()\l+ operator int()\l+ operator&#45;\&gt;()\l}" alt="" coords="708,211,915,362"/>
+</map>

@@ -1,0 +1,19 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Detectors/GlobalTrackingWorkflow/include/GlobalTrackingWorkflow" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_abf14b5a84807c7615b6f574ef2c4a02 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="include" fontname="Helvetica", fontsize="10", URL="dir_abf14b5a84807c7615b6f574ef2c4a02.html"]
+  dir_0d81bb6ecd8803ab552d555e1b61b092 [shape=box, label="GlobalTrackingWorkflow", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_0d81bb6ecd8803ab552d555e1b61b092.html"];
+  }
+  dir_18e0e8b4b629c3c13e7ad1457bcd5f89 [shape=box label="GlobalTracking" color="red" URL="dir_18e0e8b4b629c3c13e7ad1457bcd5f89.html"];
+  dir_bcbb2cf9a3d3d83e5515c82071a07177 [shape=box label="Framework" color="red" URL="dir_bcbb2cf9a3d3d83e5515c82071a07177.html"];
+  dir_2171f7ec022c5423887b07c69b2f5b48 [shape=box label="DataFormats" color="red" URL="dir_2171f7ec022c5423887b07c69b2f5b48.html"];
+  dir_18e0e8b4b629c3c13e7ad1457bcd5f89->dir_2171f7ec022c5423887b07c69b2f5b48 [headlabel="31", labeldistance=1.5 headhref="dir_000448_000076.html"];
+  dir_0d81bb6ecd8803ab552d555e1b61b092->dir_18e0e8b4b629c3c13e7ad1457bcd5f89 [headlabel="1", labeldistance=1.5 headhref="dir_000454_000448.html"];
+  dir_0d81bb6ecd8803ab552d555e1b61b092->dir_bcbb2cf9a3d3d83e5515c82071a07177 [headlabel="6", labeldistance=1.5 headhref="dir_000454_000013.html"];
+  dir_0d81bb6ecd8803ab552d555e1b61b092->dir_2171f7ec022c5423887b07c69b2f5b48 [headlabel="4", labeldistance=1.5 headhref="dir_000454_000076.html"];
+  dir_bcbb2cf9a3d3d83e5515c82071a07177->dir_2171f7ec022c5423887b07c69b2f5b48 [headlabel="82", labeldistance=1.5 headhref="dir_000013_000076.html"];
+  dir_2171f7ec022c5423887b07c69b2f5b48->dir_bcbb2cf9a3d3d83e5515c82071a07177 [headlabel="7", labeldistance=1.5 headhref="dir_000076_000013.html"];
+}

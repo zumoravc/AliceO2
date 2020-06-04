@@ -1,0 +1,26 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/Raw/src/RawFileWriter.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/Raw/src/RawFileWriter.cxx">
+<area shape="rect" id="node7" href="$d7/d61/NameConf_8h.html" title="Definition of the Names Generator class. " alt="" coords="2138,109,2366,151"/>
+<area shape="rect" id="node24" href="$da/d08/RawFileWriter_8h.html" title="Utility class to write detectors data to (multiple) raw data file(s) respecting CRU format..." alt="" coords="1406,117,1623,143"/>
+<area shape="rect" id="node39" href="$d1/dec/HBFUtils_8h.html" title="DetectorsRaw/HBFUtils.h" alt="" coords="1143,199,1329,225"/>
+<area shape="rect" id="node53" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="1609,281,1823,307"/>
+<area shape="rect" id="node54" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="3090,117,3243,143"/>
+<area shape="rect" id="node8" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2205,273,2433,315"/>
+<area shape="rect" id="node22" href="$d4/d8f/StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="2332,199,2527,225"/>
+<area shape="rect" id="node14" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="2472,370,2603,397"/>
+<area shape="rect" id="node16" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="2470,541,2613,568"/>
+<area shape="rect" id="node19" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="2295,459,2449,486"/>
+<area shape="rect" id="node21" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="2625,459,2884,486"/>
+<area shape="rect" id="node17" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="2340,616,2537,643"/>
+<area shape="rect" id="node18" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="2561,616,2727,643"/>
+<area shape="rect" id="node30" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="1574,459,1773,486"/>
+<area shape="rect" id="node31" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1999,459,2169,486"/>
+<area shape="rect" id="node38" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="1949,370,2083,397"/>
+<area shape="rect" id="node40" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="1314,281,1502,307"/>
+<area shape="rect" id="node36" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2141,541,2336,568"/>
+<area shape="rect" id="node43" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="1052,363,1284,404"/>
+<area shape="rect" id="node46" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="212,363,409,404"/>
+<area shape="rect" id="node50" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="444,273,641,315"/>
+<area shape="rect" id="node41" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1165,459,1331,486"/>
+<area shape="rect" id="node42" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="1628,370,1772,397"/>
+<area shape="rect" id="node45" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="797,459,1051,486"/>
+</map>

@@ -1,0 +1,16 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/reconstruction/include/ITSReconstruction/CookedTracker.h"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node64 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/reconstruction/include\l/ITSReconstruction/CookedTracker.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node64 -> Node65 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node65 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/reconstruction/src/CookedTracker.cxx",height=0.2,width=0.4,color="black",URL="$d7/dca/CookedTracker_8cxx.html",tooltip="Implementation of the \"Cooked Matrix\" ITS tracker. "];
+  Node64 -> Node66 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node66 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/workflow/include/ITSWorkflow\l/CookedTrackerSpec.h",height=0.2,width=0.4,color="black",URL="$d2/d0b/CookedTrackerSpec_8h.html"];
+  Node66 -> Node67 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node67 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/workflow/src/CookedTrackerSpec.cxx",height=0.2,width=0.4,color="black",URL="$d6/dbc/CookedTrackerSpec_8cxx.html"];
+  Node66 -> Node68 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node68 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/workflow/src/RecoWorkflow.cxx",height=0.2,width=0.4,color="black",URL="$d5/d99/ITSMFT_2ITS_2workflow_2src_2RecoWorkflow_8cxx.html"];
+}

@@ -1,0 +1,18 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Steer/include/Steer/MCKinematicsReader.h" name="/home/travis/build/AliceO2Group/AliceO2/Steer/include/Steer/MCKinematicsReader.h">
+<area shape="rect" id="node2" href="$d1/def/DigitizationContext_8h.html" title="SimulationDataFormat\l/DigitizationContext.h" alt="" coords="761,124,931,165"/>
+<area shape="rect" id="node31" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="1603,213,1772,255"/>
+<area shape="rect" id="node39" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="167,124,336,165"/>
+<area shape="rect" id="node6" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="249,213,481,255"/>
+<area shape="rect" id="node13" href="$d4/d5f/BunchFilling_8h.html" title="CommonDataFormat/BunchFilling.h" alt="" coords="720,221,972,247"/>
+<area shape="rect" id="node16" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="1176,303,1404,344"/>
+<area shape="rect" id="node27" href="$de/d28/GRPObject_8h.html" title="Header of the General Run Parameters object. " alt="" coords="516,213,696,255"/>
+<area shape="rect" id="node7" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="5,310,172,337"/>
+<area shape="rect" id="node12" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="765,310,1018,337"/>
+<area shape="rect" id="node20" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="1047,392,1178,419"/>
+<area shape="rect" id="node21" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1385,541,1528,568"/>
+<area shape="rect" id="node24" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="1265,467,1419,493"/>
+<area shape="rect" id="node26" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="983,467,1242,493"/>
+<area shape="rect" id="node22" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1255,616,1453,643"/>
+<area shape="rect" id="node23" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1477,616,1642,643"/>
+<area shape="rect" id="node29" href="$da/d58/Units_8h.html" title="Header to collect definitions for different units. " alt="" coords="522,310,690,337"/>
+</map>

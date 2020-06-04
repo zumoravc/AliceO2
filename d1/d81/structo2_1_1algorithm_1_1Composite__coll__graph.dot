@@ -1,0 +1,14 @@
+digraph "o2::algorithm::Composite&lt; HeaderT, TrailerT &gt;"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::algorithm::Composite\l\< HeaderT, TrailerT \>\n||+ Composite()\l+ Composite()\l+ getLength()\l+ getDataLength()\l+ insert()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +trailer" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{type\n||}",height=0.2,width=0.4,color="grey75"];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +compositeLength\n+trailerLength\n+dataLength" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node3 [label="{size_t\n||}",height=0.2,width=0.4,color="grey75"];
+  Node4 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +data\n+header" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 [label="{const\n||}",height=0.2,width=0.4,color="grey75"];
+}

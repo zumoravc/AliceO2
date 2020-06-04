@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/test/testTPCMapper.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/test/testTPCMapper.cxx">
+<area shape="rect" id="node8" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1050,124,1193,151"/>
+<area shape="rect" id="node13" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1206,497,1383,524"/>
+<area shape="rect" id="node26" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="936,348,1077,375"/>
+<area shape="rect" id="node27" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="807,273,971,300"/>
+<area shape="rect" id="node28" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="993,423,1127,449"/>
+<area shape="rect" id="node30" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1245,273,1414,300"/>
+<area shape="rect" id="node32" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="1047,199,1196,225"/>
+<area shape="rect" id="node34" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="1668,423,1812,449"/>
+<area shape="rect" id="node35" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="681,199,868,225"/>
+<area shape="rect" id="node36" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1322,199,1497,225"/>
+<area shape="rect" id="node14" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1503,654,1683,681"/>
+<area shape="rect" id="node17" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1115,572,1295,599"/>
+<area shape="rect" id="node29" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="954,497,1166,524"/>
+<area shape="rect" id="node31" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1203,348,1325,375"/>
+<area shape="rect" id="node33" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1097,273,1220,300"/>
+</map>

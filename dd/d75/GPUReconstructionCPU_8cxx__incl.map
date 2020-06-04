@@ -1,0 +1,74 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/Base/GPUReconstructionCPU.cxx" name="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/Base/GPUReconstructionCPU.cxx">
+<area shape="rect" id="node2" href="$dd/dc0/GPUReconstructionCPU_8h.html" title="GPUReconstructionCPU.h" alt="" coords="2833,199,3018,225"/>
+<area shape="rect" id="node34" href="$d5/da6/GPUMemoryResource_8h.html" title="GPUMemoryResource.h" alt="" coords="1274,601,1449,628"/>
+<area shape="rect" id="node36" href="$db/df8/GPUConstantMem_8h.html" title="GPUConstantMem.h" alt="" coords="2771,355,2923,382"/>
+<area shape="rect" id="node48" href="$da/d4b/GPUTPCSliceOutput_8h.html" title="GPUTPCSliceOutput.h" alt="" coords="2499,437,2661,464"/>
+<area shape="rect" id="node50" href="$d2/dd5/GPUTPCSliceOutCluster_8h.html" title="GPUTPCSliceOutCluster.h" alt="" coords="3233,676,3420,703"/>
+<area shape="rect" id="node51" href="$df/ddc/GPULogging_8h.html" title="GPULogging.h" alt="" coords="561,355,674,382"/>
+<area shape="rect" id="node69" href="$d7/d94/GPUReconstructionIncludes_8h.html" title="GPUReconstructionIncludes.h" alt="" coords="4710,273,4922,300"/>
+<area shape="rect" id="node75" href="$d3/dbe/GPUChain_8h.html" title="GPUChain.h" alt="" coords="2971,124,3069,151"/>
+<area shape="rect" id="node76" href="$d1/dde/GPUTPCClusterData_8h.html" title="GPUTPCClusterData.h" alt="" coords="3791,199,3955,225"/>
+<area shape="rect" id="node77" href="$d8/dfd/GPUTPCGMMergedTrack_8h.html" title="GPUTPCGMMergedTrack.h" alt="" coords="347,519,538,546"/>
+<area shape="rect" id="node79" href="$d3/dcc/GPUTPCGMMergedTrackHit_8h.html" title="GPUTPCGMMergedTrackHit.h" alt="" coords="326,676,535,703"/>
+<area shape="rect" id="node82" href="$df/d3c/GPUTRDTrackletWord_8h.html" title="TRD Tracklet word for GPU tracker &#45; 32bit tracklet info + half chamber ID + index. " alt="" coords="4635,199,4808,225"/>
+<area shape="rect" id="node83" href="$d8/dbb/AliHLTTPCClusterMCData_8h.html" title="AliHLTTPCClusterMCData.h" alt="" coords="3195,124,3391,151"/>
+<area shape="rect" id="node84" href="$d7/de2/GPUTPCMCInfo_8h.html" title="GPUTPCMCInfo.h" alt="" coords="3415,124,3547,151"/>
+<area shape="rect" id="node85" href="$db/dca/GPUTRDTrack_8h.html" title="GPUTRDTrack.h" alt="" coords="816,273,939,300"/>
+<area shape="rect" id="node90" href="$dd/d44/GPUTRDTracker_8h.html" title="Online TRD tracker based on extrapolated TPC tracks. " alt="" coords="915,199,1050,225"/>
+<area shape="rect" id="node92" href="$dd/d86/AliHLTTPCRawCluster_8h.html" title="AliHLTTPCRawCluster.h" alt="" coords="3674,124,3846,151"/>
+<area shape="rect" id="node93" href="$d5/df2/GPUTRDTrackletLabels_8h.html" title="Used for storing the MC labels for the TRD tracklets. " alt="" coords="3870,124,4053,151"/>
+<area shape="rect" id="node3" href="$d2/de8/GPUReconstruction_8h.html" title="GPUReconstruction.h" alt="" coords="1542,273,1701,300"/>
+<area shape="rect" id="node52" href="$de/d58/GPUReconstructionHelpers_8h.html" title="GPUReconstructionHelpers.h" alt="" coords="4428,273,4636,300"/>
+<area shape="rect" id="node55" href="$d5/dd0/timer_8h.html" title="utils/timer.h" alt="" coords="1878,273,1978,300"/>
+<area shape="rect" id="node56" href="$d9/de5/GPUGeneralKernels_8h.html" title="GPUGeneralKernels.h" alt="" coords="3339,355,3501,382"/>
+<area shape="rect" id="node57" href="$d3/d5e/GPUTPCCreateSliceData_8h.html" title="GPUTPCCreateSliceData.h" alt="" coords="3773,273,3965,300"/>
+<area shape="rect" id="node58" href="$d7/d59/GPUTPCNeighboursFinder_8h.html" title="GPUTPCNeighboursFinder.h" alt="" coords="4205,273,4403,300"/>
+<area shape="rect" id="node59" href="$d5/d70/GPUTPCNeighboursCleaner_8h.html" title="GPUTPCNeighboursCleaner.h" alt="" coords="3488,273,3699,300"/>
+<area shape="rect" id="node60" href="$d0/d04/GPUTPCStartHitsFinder_8h.html" title="GPUTPCStartHitsFinder.h" alt="" coords="3073,273,3255,300"/>
+<area shape="rect" id="node61" href="$df/d93/GPUTPCStartHitsSorter_8h.html" title="GPUTPCStartHitsSorter.h" alt="" coords="2054,273,2237,300"/>
+<area shape="rect" id="node62" href="$de/d72/GPUTPCTrackletConstructor_8h.html" title="GPUTPCTrackletConstructor.h" alt="" coords="2519,273,2731,300"/>
+<area shape="rect" id="node63" href="$d4/d0c/GPUTPCTrackletSelector_8h.html" title="GPUTPCTrackletSelector.h" alt="" coords="3990,273,4181,300"/>
+<area shape="rect" id="node64" href="$d1/d89/GPUTPCGlobalTracking_8h.html" title="GPUTPCGlobalTracking.h" alt="" coords="2313,273,2495,300"/>
+<area shape="rect" id="node65" href="$dc/d95/GPUTPCGMMergerGPU_8h.html" title="GPUTPCGMMergerGPU.h" alt="" coords="2756,273,2937,300"/>
+<area shape="rect" id="node66" href="$d6/dbd/GPUTRDTrackerKernels_8h.html" title="GPUTRDTrackerKernels.h" alt="" coords="3280,273,3464,300"/>
+<area shape="rect" id="node67" href="$d4/d54/GPUReconstructionKernels_8h.html" title="GPUReconstructionKernels.h" alt="" coords="2166,437,2373,464"/>
+<area shape="rect" id="node12" href="$d7/d4f/GPUTRDDef_8h.html" title="GPUTRDDef.h" alt="" coords="145,437,255,464"/>
+<area shape="rect" id="node16" href="$df/d13/GPUParam_8h.html" title="GPUParam.h" alt="" coords="1575,601,1678,628"/>
+<area shape="rect" id="node27" href="$dd/dc6/GPUSettings_8h.html" title="GPUSettings.h" alt="" coords="805,676,920,703"/>
+<area shape="rect" id="node31" href="$d5/d5b/GPUOutputControl_8h.html" title="GPUOutputControl.h" alt="" coords="1295,676,1449,703"/>
+<area shape="rect" id="node46" href="$d4/dc5/GPUDataTypes_8h.html" title="GPUDataTypes.h" alt="" coords="1836,519,1967,546"/>
+<area shape="rect" id="node13" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1037,900,1179,927"/>
+<area shape="rect" id="node14" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="907,975,1104,1001"/>
+<area shape="rect" id="node15" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1128,975,1293,1001"/>
+<area shape="rect" id="node17" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="818,751,971,777"/>
+<area shape="rect" id="node20" href="$d2/d6d/GPUDef_8h.html" title="GPUDef.h" alt="" coords="2599,825,2683,852"/>
+<area shape="rect" id="node28" href="$d6/d1b/GPUTPCGeometry_8h.html" title="GPUTPCGeometry.h" alt="" coords="1407,825,1558,852"/>
+<area shape="rect" id="node29" href="$d9/d9c/GPUTPCGMPolynomialField_8h.html" title="GPUTPCGMPolynomialField.h" alt="" coords="2044,676,2255,703"/>
+<area shape="rect" id="node21" href="$d2/d37/GPUDefConstantsAndSettings_8h.html" title="GPUDefConstantsAndSettings.h" alt="" coords="2295,900,2523,927"/>
+<area shape="rect" id="node22" href="$dc/de9/GPUDefGPUParameters_8h.html" title="GPUDefGPUParameters.h" alt="" coords="2548,900,2735,927"/>
+<area shape="rect" id="node24" href="$d3/d4c/GPUDefOpenCL12Templates_8h.html" title="GPUDefOpenCL12Templates.h" alt="" coords="2759,900,2977,927"/>
+<area shape="rect" id="node25" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="3002,900,3169,927"/>
+<area shape="rect" id="node23" href="$d6/dff/GPUDefMacros_8h.html" title="GPUDefMacros.h" alt="" coords="2384,975,2515,1001"/>
+<area shape="rect" id="node30" href="$da/dab/GPUTPCDef_8h.html" title="GPUTPCDef.h" alt="" coords="3065,751,3175,777"/>
+<area shape="rect" id="node35" href="$d6/d57/GPUProcessor_8h.html" title="GPUProcessor.h" alt="" coords="1147,676,1271,703"/>
+<area shape="rect" id="node37" href="$d6/d25/GPUTPCTracker_8h.html" title="GPUTPCTracker.h" alt="" coords="2817,437,2951,464"/>
+<area shape="rect" id="node47" href="$da/d28/GPUO2FakeClasses_8h.html" title="GPUO2FakeClasses.h" alt="" coords="1880,437,2040,464"/>
+<area shape="rect" id="node39" href="$dd/d7b/GPUTPCHitId_8h.html" title="GPUTPCHitId.h" alt="" coords="3282,519,3401,546"/>
+<area shape="rect" id="node40" href="$df/d4a/GPUTPCSliceData_8h.html" title="GPUTPCSliceData.h" alt="" coords="2056,519,2205,546"/>
+<area shape="rect" id="node43" href="$de/d15/GPUTPCTrackParam_8h.html" title="GPUTPCTrackParam.h" alt="" coords="2847,601,3009,628"/>
+<area shape="rect" id="node45" href="$db/d6e/GPUTPCTracklet_8h.html" title="GPUTPCTracklet.h" alt="" coords="2684,601,2823,628"/>
+<area shape="rect" id="node41" href="$d8/dff/GPUTPCRow_8h.html" title="GPUTPCRow.h" alt="" coords="3455,601,3569,628"/>
+<area shape="rect" id="node42" href="$d3/da7/GPUTPCGrid_8h.html" title="GPUTPCGrid.h" alt="" coords="3444,676,3559,703"/>
+<area shape="rect" id="node44" href="$df/d00/GPUTPCBaseTrackParam_8h.html" title="GPUTPCBaseTrackParam.h" alt="" coords="2812,676,3007,703"/>
+<area shape="rect" id="node49" href="$d0/d88/GPUTPCTrack_8h.html" title="GPUTPCTrack.h" alt="" coords="3034,601,3155,628"/>
+<area shape="rect" id="node68" href="$df/d18/GPUReconstructionKernelMacros_8h.html" title="GPUReconstructionKernelMacros.h" alt="" coords="2329,825,2575,852"/>
+<area shape="rect" id="node74" href="$d6/de9/GPUReconstructionIncludesITS_8h.html" title="GPUReconstructionIncludes\lITS.h" alt="" coords="4543,348,4743,389"/>
+<area shape="rect" id="node78" href="$d8/d33/GPUTPCGMTrackParam_8h.html" title="GPUTPCGMTrackParam.h" alt="" coords="677,601,859,628"/>
+<area shape="rect" id="node80" href="$d3/d1f/GPUdEdxInfo_8h.html" title="GPUdEdxInfo.h" alt="" coords="611,676,730,703"/>
+<area shape="rect" id="node81" href="$de/d4c/GPUTPCGMMergerTypes_8h.html" title="GPUTPCGMMergerTypes.h" alt="" coords="1829,676,2019,703"/>
+<area shape="rect" id="node86" href="$df/d77/GPUTRDInterfaces_8h.html" title="GPUTRDInterfaces.h" alt="" coords="800,355,955,382"/>
+<area shape="rect" id="node87" href="$d0/dd8/GPUTPCGMPropagator_8h.html" title="GPUTPCGMPropagator.h" alt="" coords="788,437,967,464"/>
+<area shape="rect" id="node88" href="$d0/d79/GPUTPCGMOfflineStatisticalErrors_8h.html" title="GPUTPCGMOfflineStatistical\lErrors.h" alt="" coords="665,512,869,553"/>
+<area shape="rect" id="node89" href="$d6/d37/GPUTPCGMPhysicalTrackModel_8h.html" title="GPUTPCGMPhysicalTrackModel.h" alt="" coords="893,519,1128,546"/>
+<area shape="rect" id="node91" href="$d4/da6/GPUTRDTrackerDebug_8h.html" title="For performance analysis + error parametrization of the TRD tracker. " alt="" coords="1013,273,1192,300"/>
+</map>

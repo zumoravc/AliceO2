@@ -1,0 +1,6 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/include/MFTBase/PowerSupplyUnit.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/include/MFTBase/PowerSupplyUnit.h">
+<area shape="rect" id="node2" href="$d3/d4f/HalfDetector_8h.html" title="Class describing geometry of one half of the ALICE Muon Forward Tracker. " alt="" coords="42,139,310,209"/>
+<area shape="rect" id="node4" href="$d3/d36/HalfDetector_8cxx.html" title="Class Building the geometry of one half of the ALICE Muon Forward Tracker. " alt="" coords="251,257,445,328"/>
+<area shape="rect" id="node5" href="$d6/d7d/PowerSupplyUnit_8cxx.html" title="Class building the MFT heat exchanger. " alt="" coords="385,139,607,209"/>
+<area shape="rect" id="node3" href="$df/d83/GeometryBuilder_8cxx.html" title="Class describing MFT Geometry Builder. " alt="" coords="5,257,227,328"/>
+</map>

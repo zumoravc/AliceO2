@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/DigitPos.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/DigitPos.h">
+<area shape="rect" id="node2" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="462,348,639,375"/>
+<area shape="rect" id="node16" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="588,124,711,151"/>
+<area shape="rect" id="node20" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="785,199,927,225"/>
+<area shape="rect" id="node21" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="786,124,950,151"/>
+<area shape="rect" id="node4" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="154,505,334,531"/>
+<area shape="rect" id="node7" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1017,423,1197,449"/>
+<area shape="rect" id="node17" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="681,273,815,300"/>
+<area shape="rect" id="node19" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="588,199,711,225"/>
+<area shape="rect" id="node18" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="663,348,875,375"/>
+</map>

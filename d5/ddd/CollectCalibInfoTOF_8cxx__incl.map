@@ -1,0 +1,22 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/calibration/src/CollectCalibInfoTOF.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/calibration/src/CollectCalibInfoTOF.cxx">
+<area shape="rect" id="node5" href="$d4/d54/Geo_8h.html" title="TOFBase/Geo.h" alt="" coords="2282,221,2403,247"/>
+<area shape="rect" id="node42" href="$d8/d60/CollectCalibInfoTOF_8h.html" title="TOFCalibration/CollectCalib\lInfoTOF.h" alt="" coords="1841,124,2041,165"/>
+<area shape="rect" id="node7" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="2231,578,2484,605"/>
+<area shape="rect" id="node8" href="$d1/dec/HBFUtils_8h.html" title="DetectorsRaw/HBFUtils.h" alt="" coords="1637,310,1822,337"/>
+<area shape="rect" id="node9" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="1418,399,1606,426"/>
+<area shape="rect" id="node19" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="1876,481,2108,523"/>
+<area shape="rect" id="node31" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="827,481,1024,523"/>
+<area shape="rect" id="node38" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="1631,392,1828,433"/>
+<area shape="rect" id="node41" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="992,399,1205,426"/>
+<area shape="rect" id="node10" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1478,578,1621,605"/>
+<area shape="rect" id="node13" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1761,578,1927,605"/>
+<area shape="rect" id="node14" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="1255,578,1454,605"/>
+<area shape="rect" id="node16" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="1392,489,1536,515"/>
+<area shape="rect" id="node22" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="295,489,430,515"/>
+<area shape="rect" id="node11" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1539,660,1736,687"/>
+<area shape="rect" id="node12" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1349,660,1515,687"/>
+<area shape="rect" id="node23" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="270,578,439,605"/>
+<area shape="rect" id="node29" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="181,660,376,687"/>
+<area shape="rect" id="node46" href="$d6/d9c/CalibInfoTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="2286,303,2479,344"/>
+<area shape="rect" id="node47" href="$d4/d78/CalibInfoTOFshort_8h.html" title="Class to store the output of the matching to TOF for calibration (no channel info, available in CalibInfoTOF.h) " alt="" coords="1962,213,2155,255"/>
+</map>

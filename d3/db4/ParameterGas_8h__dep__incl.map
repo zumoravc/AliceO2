@@ -1,0 +1,33 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/ParameterGas.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/ParameterGas.h">
+<area shape="rect" id="node2" href="$dc/d59/MatchTPCITS_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/GlobalTracking\l/src/MatchTPCITS.cxx" alt="" coords="5,124,195,195"/>
+<area shape="rect" id="node3" href="$dc/d71/CDBInterface_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/base/src\l/CDBInterface.cxx" alt="" coords="219,124,395,195"/>
+<area shape="rect" id="node4" href="$dd/d64/ParameterGas_8cxx.html" title="Implementation of the parameter class for the detector gas. " alt="" coords="419,124,595,195"/>
+<area shape="rect" id="node5" href="$d1/d8a/testTPCCDBInterface_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/base/test\l/testTPCCDBInterface.cxx" alt="" coords="619,124,808,195"/>
+<area shape="rect" id="node6" href="$da/d69/testTPCParameters_8cxx.html" title="This task tests the Parameter handling. " alt="" coords="833,124,1015,195"/>
+<area shape="rect" id="node7" href="$d4/d2e/GPUCATracking_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/src/GPUCATracking.cxx" alt="" coords="1039,124,1254,195"/>
+<area shape="rect" id="node8" href="$d4/d7c/HardwareClusterDecoder_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/src/HardwareClusterDecoder.cxx" alt="" coords="1278,124,1517,195"/>
+<area shape="rect" id="node9" href="$d5/dc0/TPCFastTransformHelperO2_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/src/TPCFastTransformHelperO2.cxx" alt="" coords="1541,124,1795,195"/>
+<area shape="rect" id="node10" href="$d6/d42/testTPCFastTransform_8cxx.html" title="This task tests the TPC Fast Transformation. " alt="" coords="1819,124,2042,195"/>
+<area shape="rect" id="node11" href="$dd/d94/DigitContainer_8h.html" title="Definition of the Digit Container. " alt="" coords="3237,480,3518,551"/>
+<area shape="rect" id="node13" href="$d7/d0a/TPC_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Digitizer.cxx" alt="" coords="2886,717,3077,788"/>
+<area shape="rect" id="node17" href="$d2/da8/ElectronTransport_8h.html" title="Definition of the electron transport. " alt="" coords="2067,124,2368,195"/>
+<area shape="rect" id="node19" href="$d4/d82/testTPCElectronTransport_8cxx.html" title="This task tests the ElectronTransport module of the TPC digitization. " alt="" coords="1904,243,2149,313"/>
+<area shape="rect" id="node20" href="$d9/d79/GEMAmplification_8h.html" title="Definition of the GEM amplification. " alt="" coords="2443,124,2746,195"/>
+<area shape="rect" id="node22" href="$d5/d97/testTPCGEMAmplification_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/test/testTPCGEMAmplification.cxx" alt="" coords="2698,243,2945,313"/>
+<area shape="rect" id="node24" href="$d0/d45/SAMPAProcessing_8h.html" title="Definition of the SAMPA response. " alt="" coords="3070,124,3373,195"/>
+<area shape="rect" id="node31" href="$d2/d2c/TPC_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Detector.cxx" alt="" coords="3397,124,3587,195"/>
+<area shape="rect" id="node32" href="$da/d8e/SpaceCharge_8cxx.html" title="Implementation of the interface for the ALICE TPC space&#45;charge distortions calculations. " alt="" coords="3611,124,3802,195"/>
+<area shape="rect" id="node12" href="$de/d92/TPC_2simulation_2include_2TPCSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/include/TPCSimulation/Digitizer.h" alt="" coords="3129,599,3372,669"/>
+<area shape="rect" id="node15" href="$df/d53/DigitContainer_8cxx.html" title="Implementation of the Digit Container. " alt="" coords="3397,599,3587,669"/>
+<area shape="rect" id="node16" href="$dd/d5e/testTPCDigitContainer_8cxx.html" title="This task tests the DigitContainer of the TPC digitization. " alt="" coords="3665,599,3890,669"/>
+<area shape="rect" id="node14" href="$d2/d0b/TPCDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TPCDigitizerSpec.cxx" alt="" coords="3521,717,3708,788"/>
+<area shape="rect" id="node18" href="$d1/d98/ElectronTransport_8cxx.html" title="Implementation of the electron transport. " alt="" coords="1689,243,1879,313"/>
+<area shape="rect" id="node21" href="$db/d6c/GEMAmplification_8cxx.html" title="Implementation of the GEM amplification. " alt="" coords="2225,243,2415,313"/>
+<area shape="rect" id="node23" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="2440,243,2675,313"/>
+<area shape="rect" id="node25" href="$d5/dcb/DigitGlobalPad_8h.html" title="Definition of the GlobalPad container. " alt="" coords="3606,243,3890,313"/>
+<area shape="rect" id="node29" href="$d1/dd8/SAMPAProcessing_8cxx.html" title="Implementation of the SAMPA response. " alt="" coords="3121,243,3311,313"/>
+<area shape="rect" id="node30" href="$d0/d5c/testTPCSAMPAProcessing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/test/testTPCSAMPAProcessing.cxx" alt="" coords="3335,243,3582,313"/>
+<area shape="rect" id="node26" href="$d0/d60/DigitTime_8h.html" title="Definition of the Time Bin container. " alt="" coords="3399,361,3651,432"/>
+<area shape="rect" id="node28" href="$d1/ddd/DigitGlobalPad_8cxx.html" title="Implementation of the Pad container. " alt="" coords="3675,361,3866,432"/>
+<area shape="rect" id="node27" href="$dd/dcd/DigitTime_8cxx.html" title="Implementation of the Time Bin container. " alt="" coords="3542,480,3733,551"/>
+</map>

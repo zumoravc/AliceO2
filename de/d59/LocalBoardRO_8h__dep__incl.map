@@ -1,0 +1,31 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Raw/include/MIDRaw/LocalBoardRO.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Raw/include/MIDRaw/LocalBoardRO.h">
+<area shape="rect" id="node2" href="$dc/d62/CRUBareDataChecker_8h.html" title="Class to check the bare data from the CRU. " alt="" coords="584,124,791,195"/>
+<area shape="rect" id="node5" href="$d2/db5/ColumnDataToLocalBoard_8h.html" title="Converter from ColumnData to raw local boards. " alt="" coords="5,243,268,328"/>
+<area shape="rect" id="node6" href="$d1/dcf/Detectors_2MUON_2MID_2Raw_2include_2MIDRaw_2Encoder_8h.html" title="MID raw data encoder. " alt="" coords="1175,376,1373,447"/>
+<area shape="rect" id="node12" href="$df/dcf/CRUBareDecoder_8h.html" title="MID CRU core decoder. " alt="" coords="905,124,1163,195"/>
+<area shape="rect" id="node15" href="$d7/d48/DecodedDataAggregator_8h.html" title="MID decoded raw data aggregator. " alt="" coords="1695,124,2000,195"/>
+<area shape="rect" id="node18" href="$d9/d05/Detectors_2MUON_2MID_2Raw_2include_2MIDRaw_2Decoder_8h.html" title="MID raw data decoder. " alt="" coords="2313,376,2512,447"/>
+<area shape="rect" id="node21" href="$d6/d9f/GBTBareDecoder_8h.html" title="MID GBT decoder without user logic. " alt="" coords="2705,250,2961,321"/>
+<area shape="rect" id="node23" href="$d0/d0c/GBTOutputHandler_8h.html" title="MID GBT decoder output handler. " alt="" coords="2233,124,2499,195"/>
+<area shape="rect" id="node24" href="$db/d41/GBTUserLogicDecoder_8h.html" title="MID GBT decoder with user logic zero suppression. " alt="" coords="2118,250,2409,321"/>
+<area shape="rect" id="node27" href="$d8/d2e/GBTUserLogicEncoder_8h.html" title="Raw data encoder for MID GBT user logic. " alt="" coords="1246,250,1534,321"/>
+<area shape="rect" id="node29" href="$d2/d12/ELinkDecoder_8cxx.html" title="MID CRU core decoder. " alt="" coords="2755,124,2950,195"/>
+<area shape="rect" id="node30" href="$d7/dee/LocalBoardRO_8cxx.html" title="Structure to store the FEE local board information. " alt="" coords="2974,124,3169,195"/>
+<area shape="rect" id="node3" href="$d6/d36/CRUBareDataChecker_8cxx.html" title="Class to check the bare data from the CRU. " alt="" coords="343,250,565,321"/>
+<area shape="rect" id="node4" href="$dd/d82/mid-raw-checker_8cxx.html" title="CRU bare data checker for MID. " alt="" coords="590,250,785,321"/>
+<area shape="rect" id="node9" href="$d8/d4c/testRaw_8cxx.html" title="Test MID raw data decoder. " alt="" coords="1705,495,1899,565"/>
+<area shape="rect" id="node11" href="$d6/db2/ColumnDataToLocalBoard_8cxx.html" title="Converter from ColumnData to raw local boards. " alt="" coords="174,376,417,447"/>
+<area shape="rect" id="node7" href="$d8/dc6/MUON_2MID_2Raw_2src_2Encoder_8cxx.html" title="MID raw data encoder. " alt="" coords="1017,495,1211,565"/>
+<area shape="rect" id="node8" href="$d5/d52/bench__Raw_8cxx.html" title="Benchmark MID raw data decoder. " alt="" coords="2097,495,2291,565"/>
+<area shape="rect" id="node10" href="$db/dd6/RawWriterSpec_8cxx.html" title="Digits to raw converter spec for MID. " alt="" coords="1235,495,1462,565"/>
+<area shape="rect" id="node13" href="$d5/d95/mid-rawdump_8cxx.html" title="Raw dumper for MID. " alt="" coords="809,250,1003,321"/>
+<area shape="rect" id="node14" href="$d2/db9/CRUBareDecoder_8cxx.html" title="MID CRU core decoder. " alt="" coords="1027,250,1222,321"/>
+<area shape="rect" id="node16" href="$d1/d9a/DecodedDataAggregator_8cxx.html" title="MID decoded raw data aggregator. " alt="" coords="1558,250,1793,321"/>
+<area shape="rect" id="node17" href="$db/de7/RawAggregatorSpec_8cxx.html" title="Data processor spec for MID raw data aggregator device. " alt="" coords="1867,250,2094,321"/>
+<area shape="rect" id="node19" href="$dc/d28/MUON_2MID_2Raw_2src_2Decoder_8cxx.html" title="MID raw data decoder. " alt="" coords="2315,495,2510,565"/>
+<area shape="rect" id="node20" href="$d1/dc9/RawDecoderSpec_8cxx.html" title="Data processor spec for MID raw decoder device. " alt="" coords="2534,495,2761,565"/>
+<area shape="rect" id="node22" href="$d5/d90/GBTBareDecoder_8cxx.html" title="MID GBT decoder without user logic. " alt="" coords="2601,376,2795,447"/>
+<area shape="rect" id="node26" href="$d5/d6c/GBTOutputHandler_8cxx.html" title="MID GBT decoder output handler. " alt="" coords="2433,250,2630,321"/>
+<area shape="rect" id="node25" href="$d3/db3/GBTUserLogicDecoder_8cxx.html" title="MID GBT decoder with user logic zero suppression. " alt="" coords="1955,376,2175,447"/>
+<area shape="rect" id="node28" href="$dd/dd0/GBTUserLogicEncoder_8cxx.html" title="Raw data encoder for MID CRU user logic. " alt="" coords="1397,376,1615,447"/>
+</map>

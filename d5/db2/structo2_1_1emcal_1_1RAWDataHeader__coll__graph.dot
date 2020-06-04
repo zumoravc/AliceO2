@@ -1,0 +1,34 @@
+digraph "o2::emcal::RAWDataHeader"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::emcal::RAWDataHeader\n|+ word0\l+ word1\l+ triggermessageL1\l+ word2\l+ offsetToNext\l+ memorySize\l+ word3\l+ word4\l+ status\l+ zero41\l+ word5\l+ word6\l+ triggerTypesHigh\l+ triggerTypesNext50\l+ triggerTypesNext50High\l+ roi\l+ roiHigh\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +@161" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{anonymous:+@161\n||}",height=0.2,width=0.4,color="grey75"];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +@175" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node3 [label="{anonymous:+@175\n||}",height=0.2,width=0.4,color="grey75"];
+  Node4 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +@163" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 [label="{anonymous:+@163\n||}",height=0.2,width=0.4,color="grey75"];
+  Node5 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +@177" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 [label="{anonymous:+@177\n||}",height=0.2,width=0.4,color="grey75"];
+  Node6 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +zero31" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node6 [label="{uint16_t\n||}",height=0.2,width=0.4,color="grey75"];
+  Node7 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +@165" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node7 [label="{anonymous:+@165\n||}",height=0.2,width=0.4,color="grey75"];
+  Node8 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +linkID\n+packetCounter" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{uint8_t\n||}",height=0.2,width=0.4,color="grey75"];
+  Node9 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +@167" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 [label="{anonymous:+@167\n||}",height=0.2,width=0.4,color="grey75"];
+  Node10 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +@159" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node10 [label="{anonymous:+@159\n||}",height=0.2,width=0.4,color="grey75"];
+  Node11 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +@169" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 [label="{anonymous:+@169\n||}",height=0.2,width=0.4,color="grey75"];
+  Node12 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +word7\n+triggerType\n+zero81\n+word8\n+word9\n+zero11\n+triggerOrbit\n+version\n+triggerBC\n+triggerTypesNext50\lMiddle\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node12 [label="{uint32_t\n||}",height=0.2,width=0.4,color="black",URL="$d3/d87/classuint32__t.html"];
+  Node13 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +@171" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node13 [label="{anonymous:+@171\n||}",height=0.2,width=0.4,color="grey75"];
+  Node14 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +@173" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node14 [label="{anonymous:+@173\n||}",height=0.2,width=0.4,color="grey75"];
+}

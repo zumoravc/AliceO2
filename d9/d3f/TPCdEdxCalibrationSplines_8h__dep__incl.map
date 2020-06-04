@@ -1,0 +1,10 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/dEdx/TPCdEdxCalibrationSplines.h" name="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/dEdx/TPCdEdxCalibrationSplines.h">
+<area shape="rect" id="node2" href="$d1/df6/testGPUCATracking_8cxx.html" title="This task tests the TPC CA Tracking library. " alt="" coords="5,124,220,195"/>
+<area shape="rect" id="node3" href="$da/d78/CATrackerSpec_8cxx.html" title="Processor spec for running TPC CA tracking. " alt="" coords="245,124,426,195"/>
+<area shape="rect" id="node4" href="$dc/d55/GPUdEdx_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/dEdx\l/GPUdEdx.h" alt="" coords="450,124,626,195"/>
+<area shape="rect" id="node9" href="$dc/d10/TPCdEdxCalibrationSplines_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/dEdx\l/TPCdEdxCalibrationSplines.cxx" alt="" coords="651,124,879,195"/>
+<area shape="rect" id="node5" href="$d2/d3e/GPUdEdx_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/dEdx\l/GPUdEdx.cxx" alt="" coords="343,243,519,313"/>
+<area shape="rect" id="node6" href="$df/dad/GPUTPCGMTrackParam_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Merger\l/GPUTPCGMTrackParam.cxx" alt="" coords="543,243,746,313"/>
+<area shape="rect" id="node7" href="$d0/d25/GPUReconstructionIncludesDevice_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Base\l/GPUReconstructionIncludesDevice.h" alt="" coords="514,361,775,432"/>
+<area shape="rect" id="node8" href="$d3/d33/GPUReconstructionHIP_8hip_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/Base\l/hip/GPUReconstructionHIP.hip.cxx" alt="" coords="522,480,767,551"/>
+</map>

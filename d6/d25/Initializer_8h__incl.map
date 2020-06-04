@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/EventVisualisation/View/include/EventVisualisationView/Initializer.h" name="/home/travis/build/AliceO2Group/AliceO2/EventVisualisation/View/include/EventVisualisationView/Initializer.h">
+<area shape="rect" id="node2" href="$d8/d25/EventManager_8h.html" title="EventVisualisationView\l/EventManager.h" alt="" coords="664,139,839,180"/>
+<area shape="rect" id="node3" href="$d6/d7c/VisualisationConstants_8h.html" title="EventVisualisationBase\l/VisualisationConstants.h" alt="" coords="477,317,663,359"/>
+<area shape="rect" id="node5" href="$dd/dbf/DataInterpreter_8h.html" title="EventVisualisationBase\l/DataInterpreter.h" alt="" coords="320,228,495,269"/>
+<area shape="rect" id="node16" href="$d7/dec/EventVisualisation_2Base_2include_2EventVisualisationBase_2DataReader_8h.html" title="EventVisualisationBase\l/DataReader.h" alt="" coords="928,228,1103,269"/>
+<area shape="rect" id="node17" href="$d5/df3/BasicCCDBManager_8h.html" title="CCDB/BasicCCDBManager.h" alt="" coords="650,235,853,262"/>
+<area shape="rect" id="node18" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="1230,325,1358,351"/>
+<area shape="rect" id="node6" href="$d0/d35/VisualisationEvent_8h.html" title="EventVisualisationDataConverter\l/VisualisationEvent.h" alt="" coords="213,317,452,359"/>
+<area shape="rect" id="node7" href="$d0/d40/VisualisationTrack_8h.html" title="EventVisualisationDataConverter\l/VisualisationTrack.h" alt="" coords="239,496,477,537"/>
+<area shape="rect" id="node13" href="$d5/d20/VisualisationCluster_8h.html" title="EventVisualisationDataConverter\l/VisualisationCluster.h" alt="" coords="164,407,403,448"/>
+<area shape="rect" id="node8" href="$de/ddf/ConversionConstants_8h.html" title="ConversionConstants.h" alt="" coords="389,585,561,612"/>
+<area shape="rect" id="node27" href="$da/d86/CCDBTimeStampUtils_8h.html" title="CCDB/CCDBTimeStampUtils.h" alt="" coords="840,325,1057,351"/>
+<area shape="rect" id="node24" href="$d4/dab/CcdbObjectInfo_8h.html" title="CCDB/CcdbObjectInfo.h" alt="" coords="1193,414,1368,441"/>
+<area shape="rect" id="node26" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="1136,503,1289,530"/>
+</map>

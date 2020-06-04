@@ -1,0 +1,31 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/TRDTracking/GPUTRDTracker.h" name="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/TRDTracking/GPUTRDTracker.h">
+<area shape="rect" id="node2" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1517,736,1660,763"/>
+<area shape="rect" id="node5" href="$d6/d57/GPUProcessor_8h.html" title="GPUProcessor.h" alt="" coords="403,512,527,539"/>
+<area shape="rect" id="node6" href="$d2/d6d/GPUDef_8h.html" title="GPUDef.h" alt="" coords="423,661,507,688"/>
+<area shape="rect" id="node15" href="$d7/d4f/GPUTRDDef_8h.html" title="GPUTRDDef.h" alt="" coords="1768,273,1879,300"/>
+<area shape="rect" id="node16" href="$d4/da6/GPUTRDTrackerDebug_8h.html" title="For performance analysis + error parametrization of the TRD tracker. " alt="" coords="1657,124,1835,151"/>
+<area shape="rect" id="node17" href="$db/dca/GPUTRDTrack_8h.html" title="GPUTRDTrack.h" alt="" coords="1411,124,1534,151"/>
+<area shape="rect" id="node34" href="$df/ddc/GPULogging_8h.html" title="GPULogging.h" alt="" coords="1816,199,1929,225"/>
+<area shape="rect" id="node3" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1387,811,1585,837"/>
+<area shape="rect" id="node4" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1609,811,1774,837"/>
+<area shape="rect" id="node7" href="$d2/d37/GPUDefConstantsAndSettings_8h.html" title="GPUDefConstantsAndSettings.h" alt="" coords="5,736,233,763"/>
+<area shape="rect" id="node8" href="$dc/de9/GPUDefGPUParameters_8h.html" title="GPUDefGPUParameters.h" alt="" coords="258,736,445,763"/>
+<area shape="rect" id="node10" href="$d3/d4c/GPUDefOpenCL12Templates_8h.html" title="GPUDefOpenCL12Templates.h" alt="" coords="469,736,687,763"/>
+<area shape="rect" id="node11" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="712,736,879,763"/>
+<area shape="rect" id="node9" href="$d6/dff/GPUDefMacros_8h.html" title="GPUDefMacros.h" alt="" coords="286,811,417,837"/>
+<area shape="rect" id="node18" href="$df/d77/GPUTRDInterfaces_8h.html" title="GPUTRDInterfaces.h" alt="" coords="1346,199,1501,225"/>
+<area shape="rect" id="node19" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="1360,512,1513,539"/>
+<area shape="rect" id="node21" href="$d8/dfd/GPUTPCGMMergedTrack_8h.html" title="GPUTPCGMMergedTrack.h" alt="" coords="453,355,644,382"/>
+<area shape="rect" id="node22" href="$d8/d33/GPUTPCGMTrackParam_8h.html" title="GPUTPCGMTrackParam.h" alt="" coords="816,437,999,464"/>
+<area shape="rect" id="node27" href="$d0/dd8/GPUTPCGMPropagator_8h.html" title="GPUTPCGMPropagator.h" alt="" coords="1182,273,1361,300"/>
+<area shape="rect" id="node31" href="$df/d13/GPUParam_8h.html" title="GPUParam.h" alt="" coords="1561,355,1664,382"/>
+<area shape="rect" id="node24" href="$d3/dcc/GPUTPCGMMergedTrackHit_8h.html" title="GPUTPCGMMergedTrackHit.h" alt="" coords="693,512,903,539"/>
+<area shape="rect" id="node25" href="$d3/d1f/GPUdEdxInfo_8h.html" title="GPUdEdxInfo.h" alt="" coords="551,512,669,539"/>
+<area shape="rect" id="node23" href="$da/dab/GPUTPCDef_8h.html" title="GPUTPCDef.h" alt="" coords="1003,587,1113,613"/>
+<area shape="rect" id="node26" href="$de/d4c/GPUTPCGMMergerTypes_8h.html" title="GPUTPCGMMergerTypes.h" alt="" coords="1029,512,1220,539"/>
+<area shape="rect" id="node28" href="$d0/d79/GPUTPCGMOfflineStatisticalErrors_8h.html" title="GPUTPCGMOfflineStatistical\lErrors.h" alt="" coords="771,348,975,389"/>
+<area shape="rect" id="node29" href="$d6/d37/GPUTPCGMPhysicalTrackModel_8h.html" title="GPUTPCGMPhysicalTrackModel.h" alt="" coords="999,355,1234,382"/>
+<area shape="rect" id="node30" href="$d9/d9c/GPUTPCGMPolynomialField_8h.html" title="GPUTPCGMPolynomialField.h" alt="" coords="1074,437,1285,464"/>
+<area shape="rect" id="node32" href="$dd/dc6/GPUSettings_8h.html" title="GPUSettings.h" alt="" coords="1461,437,1575,464"/>
+<area shape="rect" id="node33" href="$d6/d1b/GPUTPCGeometry_8h.html" title="GPUTPCGeometry.h" alt="" coords="1627,661,1777,688"/>
+</map>

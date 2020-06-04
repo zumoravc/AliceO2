@@ -1,0 +1,30 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/reconstruction/src/Encoder.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/reconstruction/src/Encoder.cxx">
+<area shape="rect" id="node2" href="$d5/d90/Detectors_2TOF_2reconstruction_2include_2TOFReconstruction_2Encoder_8h.html" title="TOFReconstruction/Encoder.h" alt="" coords="1057,281,1268,307"/>
+<area shape="rect" id="node10" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="2467,787,2720,814"/>
+<area shape="rect" id="node43" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="1140,609,1353,635"/>
+<area shape="rect" id="node52" href="$d4/d36/Detectors_2TOF_2reconstruction_2include_2TOFReconstruction_2Decoder_8h.html" title="TOFReconstruction/Decoder.h" alt="" coords="1978,124,2190,151"/>
+<area shape="rect" id="node6" href="$d6/de8/RawDataFormat_8h.html" title="TOF raw data format. " alt="" coords="586,363,838,389"/>
+<area shape="rect" id="node8" href="$d4/d54/Geo_8h.html" title="TOFBase/Geo.h" alt="" coords="2178,445,2299,471"/>
+<area shape="rect" id="node11" href="$d1/dec/HBFUtils_8h.html" title="DetectorsRaw/HBFUtils.h" alt="" coords="1469,527,1654,553"/>
+<area shape="rect" id="node17" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="803,787,1002,814"/>
+<area shape="rect" id="node44" href="$d1/d90/Detectors_2TOF_2base_2include_2TOFBase_2Digit_8h.html" title="TOFBase/Digit.h" alt="" coords="2427,363,2554,389"/>
+<area shape="rect" id="node48" href="$da/d08/RawFileWriter_8h.html" title="Utility class to write detectors data to (multiple) raw data file(s) respecting CRU format..." alt="" coords="746,445,963,471"/>
+<area shape="rect" id="node12" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="674,609,862,635"/>
+<area shape="rect" id="node21" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="2057,691,2289,732"/>
+<area shape="rect" id="node33" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="1481,691,1679,732"/>
+<area shape="rect" id="node40" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="1377,601,1575,643"/>
+<area shape="rect" id="node13" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="637,787,779,814"/>
+<area shape="rect" id="node16" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2121,787,2287,814"/>
+<area shape="rect" id="node18" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="668,698,812,725"/>
+<area shape="rect" id="node24" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="458,698,593,725"/>
+<area shape="rect" id="node14" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="992,877,1189,903"/>
+<area shape="rect" id="node15" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1213,877,1379,903"/>
+<area shape="rect" id="node25" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="391,787,561,814"/>
+<area shape="rect" id="node31" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="379,877,573,903"/>
+<area shape="rect" id="node45" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="2237,609,2517,635"/>
+<area shape="rect" id="node53" href="$da/d2e/CompressedDataFormat_8h.html" title="DataFormatsTOF/Compressed\lDataFormat.h" alt="" coords="1564,273,1780,315"/>
+<area shape="rect" id="node54" href="$dd/d77/Strip_8h.html" title="TOFBase/Strip.h" alt="" coords="2096,281,2221,307"/>
+<area shape="rect" id="node68" href="$d0/de5/WindowFiller_8h.html" title="TOFBase/WindowFiller.h" alt="" coords="2122,199,2299,225"/>
+<area shape="rect" id="node58" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="3422,698,3602,725"/>
+<area shape="rect" id="node65" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="4381,787,4561,814"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Raw/src/RawFileReader.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Raw/src/RawFileReader.cxx">
+<area shape="rect" id="node2" href="$de/d75/MUON_2MID_2Raw_2include_2MIDRaw_2RawFileReader_8h.html" title="MID raw file reader. " alt="" coords="293,124,478,151"/>
+<area shape="rect" id="node10" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="459,273,658,300"/>
+<area shape="rect" id="node6" href="$d2/da5/CrateParameters_8h.html" title="MID RO crate parameters. " alt="" coords="32,199,232,225"/>
+<area shape="rect" id="node8" href="$db/d21/MUON_2MID_2Raw_2include_2MIDRaw_2RawBuffer_8h.html" title="Handler of the RAW buffer. " alt="" coords="307,199,464,225"/>
+<area shape="rect" id="node11" href="$df/db7/RawUnit_8h.html" title="Raw data format MID. " alt="" coords="641,199,788,225"/>
+</map>

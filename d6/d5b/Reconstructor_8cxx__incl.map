@@ -1,0 +1,14 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FDD/reconstruction/src/Reconstructor.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FDD/reconstruction/src/Reconstructor.cxx">
+<area shape="rect" id="node2" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="224,273,456,315"/>
+<area shape="rect" id="node9" href="$d8/dbe/Reconstructor_8h.html" title="FDDReconstruction/Reconstructor.h" alt="" coords="410,124,659,151"/>
+<area shape="rect" id="node3" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="806,363,973,389"/>
+<area shape="rect" id="node8" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="96,363,349,389"/>
+<area shape="rect" id="node11" href="$d9/dc4/DataFormats_2Detectors_2FIT_2FDD_2include_2DataFormatsFDD_2Digit_8h.html" title="DataFormatsFDD/Digit.h" alt="" coords="854,199,1034,225"/>
+<area shape="rect" id="node21" href="$d8/d0c/RecPoint_8h.html" title="Definition of the FDD RecPoint class. " alt="" coords="465,199,671,225"/>
+<area shape="rect" id="node12" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="804,281,1084,307"/>
+<area shape="rect" id="node13" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="530,281,779,307"/>
+<area shape="rect" id="node17" href="$d1/d18/FIT_2FDD_2include_2DataFormatsFDD_2ChannelData_8h.html" title="DataFormatsFDD/ChannelData.h" alt="" coords="1343,281,1577,307"/>
+<area shape="rect" id="node14" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="583,363,726,389"/>
+<area shape="rect" id="node15" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="659,437,856,464"/>
+<area shape="rect" id="node16" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="469,437,635,464"/>
+</map>

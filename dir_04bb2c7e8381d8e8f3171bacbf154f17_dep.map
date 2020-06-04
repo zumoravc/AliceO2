@@ -1,0 +1,20 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/workflow/src" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/workflow/src">
+<area shape="rect" id="node1" href="dir_04bb2c7e8381d8e8f3171bacbf154f17.html" title="src" alt="" coords="125,52,197,100"/>
+<area shape="rect" id="node2" href="dir_4ab6b4cc6a7edbff49100e9123df213f.html" title="Common" alt="" coords="5,148,87,196"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000404_000027.html" title="1" alt="" coords="90,135,99,150"/>
+<area shape="rect" id="node3" href="dir_821e2ae7ea1fb320b002238173d2a934.html" title="include" alt="" coords="162,148,234,196"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000404_000390.html" title="9" alt="" coords="185,120,194,135"/>
+<area shape="rect" id="node4" href="dir_bcbb2cf9a3d3d83e5515c82071a07177.html" title="Framework" alt="" coords="83,244,177,292"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000404_000013.html" title="7" alt="" coords="140,220,150,235"/>
+<area shape="rect" id="node5" href="dir_2171f7ec022c5423887b07c69b2f5b48.html" title="DataFormats" alt="" coords="77,340,183,388"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000404_000076.html" title="5" alt="" coords="181,328,190,343"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000027_000013.html" title="2" alt="" coords="90,217,99,232"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000027_000076.html" title="2" alt="" coords="83,314,92,328"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000390_000013.html" title="10" alt="" coords="156,226,173,241"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000390_000076.html" title="5" alt="" coords="170,325,179,339"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000013_000027.html" title="8" alt="" coords="77,208,86,223"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000013_000076.html" title="82" alt="" coords="121,313,138,328"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000076_000027.html" title="34" alt="" coords="43,208,60,223"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000076_000013.html" title="7" alt="" coords="126,304,135,318"/>
+<area shape="rect" id="clust1" href="dir_5ce6e9398434f08eb70f7bcae577b527.html" title="workflow" alt="" coords="114,16,207,111"/>
+</map>

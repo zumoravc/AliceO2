@@ -1,0 +1,13 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/EMCAL/include/DataFormatsEMCAL/EventData.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/EMCAL/include/DataFormatsEMCAL/EventData.h">
+<area shape="rect" id="node3" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="445,213,677,255"/>
+<area shape="rect" id="node10" href="$d5/dd3/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Cell_8h.html" title="DataFormatsEMCAL/Cell.h" alt="" coords="159,139,350,165"/>
+<area shape="rect" id="node14" href="$dc/d27/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Cluster_8h.html" title="DataFormatsEMCAL/Cluster.h" alt="" coords="711,139,921,165"/>
+<area shape="rect" id="node4" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="901,303,1067,329"/>
+<area shape="rect" id="node9" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="593,303,847,329"/>
+<area shape="rect" id="node12" href="$dd/dda/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Constants_8h.html" title="DataFormatsEMCAL/Constants.h" alt="" coords="139,221,370,247"/>
+<area shape="rect" id="node18" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="1177,221,1426,247"/>
+<area shape="rect" id="node22" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="872,221,1152,247"/>
+<area shape="rect" id="node19" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1230,303,1373,329"/>
+<area shape="rect" id="node20" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1100,377,1297,404"/>
+<area shape="rect" id="node21" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1321,377,1487,404"/>
+</map>

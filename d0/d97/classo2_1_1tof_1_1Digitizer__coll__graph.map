@@ -1,0 +1,3 @@
+<map id="o2::tof::Digitizer" name="o2::tof::Digitizer">
+<area shape="rect" id="node2" href="$db/d26/classo2_1_1tof_1_1WindowFiller.html" title="{o2::tof::WindowFiller\n||+ WindowFiller()\l+ ~WindowFiller()\l+ initObj()\l+ reset()\l+ getCurrentReadoutWindow()\l+ setCurrentReadoutWindow()\l+ setEventTime()\l+ getDigitPerTimeFrame()\l+ getReadoutWindowData()\l+ fillOutputContainer()\l+ flushOutputContainer()\l+ setContinuous()\l+ isContinuous()\l+ resizeVectorFutureDigit()\l# fillDigitsInStrip()\l# checkIfReuseFutureDigits()\l# checkIfReuseFutureDigitsRO()\l# insertDigitInFuture()\l# isMergable()\l# ClassDefNV()\l}" alt="" coords="770,189,1001,545"/>
+</map>

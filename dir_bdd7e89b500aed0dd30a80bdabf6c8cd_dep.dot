@@ -1,0 +1,14 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/ctest" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_77030b149987c946eb2e85728f65acc0 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="GPUTracking" fontname="Helvetica", fontsize="10", URL="dir_77030b149987c946eb2e85728f65acc0.html"]
+  dir_bdd7e89b500aed0dd30a80bdabf6c8cd [shape=box, label="ctest", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_bdd7e89b500aed0dd30a80bdabf6c8cd.html"];
+  }
+  dir_01d68d8da92fbef75811dc6520ae440e [shape=box label="Interface" URL="dir_01d68d8da92fbef75811dc6520ae440e.html"];
+  dir_ee87ad93049d1677c6ffb88a968be9d4 [shape=box label="TPCFastTransformation" color="red" URL="dir_ee87ad93049d1677c6ffb88a968be9d4.html"];
+  dir_bdd7e89b500aed0dd30a80bdabf6c8cd->dir_01d68d8da92fbef75811dc6520ae440e [headlabel="2", labeldistance=1.5 headhref="dir_000680_000685.html"];
+  dir_bdd7e89b500aed0dd30a80bdabf6c8cd->dir_ee87ad93049d1677c6ffb88a968be9d4 [headlabel="1", labeldistance=1.5 headhref="dir_000680_000701.html"];
+}

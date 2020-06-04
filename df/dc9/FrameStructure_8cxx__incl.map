@@ -1,0 +1,16 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/Passive/src/FrameStructure.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/Passive/src/FrameStructure.cxx">
+<area shape="rect" id="node2" href="$db/d4b/MagneticField_8h.html" title="Definition of the MagF class. " alt="" coords="959,124,1116,151"/>
+<area shape="rect" id="node30" href="$d2/d69/FrameStructure_8h.html" title="DetectorsPassive/FrameStructure.h" alt="" coords="3343,124,3593,151"/>
+<area shape="rect" id="node33" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="3081,124,3269,151"/>
+<area shape="rect" id="node39" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="2465,206,2706,233"/>
+<area shape="rect" id="node4" href="$d3/d91/MagFieldParam_8h.html" title="Definition of the MagFieldParam: container for ALICE mag. field parameters. " alt="" coords="74,206,241,233"/>
+<area shape="rect" id="node7" href="$dd/dfb/MagneticWrapperChebyshev_8h.html" title="Field/MagneticWrapperChebyshev.h" alt="" coords="713,206,965,233"/>
+<area shape="rect" id="node15" href="$da/df4/MagFieldFast_8h.html" title="Definition of the fast magnetic field parametrization MagFieldFast. " alt="" coords="1823,206,1974,233"/>
+<area shape="rect" id="node11" href="$d8/d64/Chebyshev3D_8h.html" title="MathUtils/Chebyshev3D.h" alt="" coords="571,288,762,315"/>
+<area shape="rect" id="node13" href="$d4/d08/Chebyshev3DCalc_8h.html" title="MathUtils/Chebyshev3DCalc.h" alt="" coords="557,370,776,397"/>
+<area shape="rect" id="node17" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1809,288,1989,315"/>
+<area shape="rect" id="node25" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="3037,370,3217,397"/>
+<area shape="rect" id="node31" href="$d4/d6e/PassiveBase_8h.html" title="DetectorsPassive/Passive\lBase.h" alt="" coords="4313,199,4500,240"/>
+<area shape="rect" id="node45" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="3384,288,3595,315"/>
+<area shape="rect" id="node50" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="3383,206,3596,233"/>
+</map>

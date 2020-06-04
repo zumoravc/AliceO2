@@ -1,0 +1,5 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/entropyCoding/include/TPCEntropyCoding/TPCEntropyEncoder.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/entropyCoding/include/TPCEntropyCoding/TPCEntropyEncoder.h">
+<area shape="rect" id="node2" href="$d7/d0c/encoder-standalone_8cxx.html" title="standalone rans encoder for TPC compressed clusters " alt="" coords="5,139,223,209"/>
+<area shape="rect" id="node3" href="$d3/d09/TPCEntropyEncoder_8cxx.html" title="static class that performs rans encoding of tpc::Compressed clustets and serializes to TTree..." alt="" coords="247,139,464,209"/>
+<area shape="rect" id="node4" href="$d9/d03/EntropyEncoderSpec_8cxx.html" title="ProcessorSpec for the TPC cluster entropy encoding. " alt="" coords="488,139,697,209"/>
+</map>

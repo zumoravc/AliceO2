@@ -1,0 +1,57 @@
+\form#0:$ \nabla^{2}V(r,\phi,z) = - f(r,\phi,z) $
+\form#1:$ V(r,\phi,z) $
+\form#2:$ - f(r,\phi,z) $
+\form#3:$ U_{i,j,k} = (1 + \frac{1}{r_{i}h_{r}}) U_{i+1,j,k} + (1 - \frac{1}{r_{i}h_{r}}) U_{i+1,j,k} $
+\form#4:$ h_{r}^{2} $
+\form#5:$ V_{x+1,y,z} $
+\form#6:$ V_{x-1,y,z} $
+\form#7:$ 1/ h_{r}^{2} $
+\form#8:\[ (R u)_{i,j,k} = \frac{1}{2} u_{2i,2j,2k} + \frac{1}{4} S_{1} + \frac{1}{8} S_{2} + \frac{1}{16} S_{3}\]
+\form#9:$ \phi $
+\form#10:$ \nabla^2 \Phi(r,\phi,z) = - \rho(r,\phi,z)$
+\form#11:$ \vec{E} = - \nabla \Phi(r,\phi,z) $
+\form#12:$ phi $
+\form#13:$ \nabla_{r} V(r_{i},\phi_{j},z_{k}) \approx -( V_{i+1,j,k} - V_{i-1,j,k}) / (2* h_{r}) $
+\form#14:$ -\nabla_{\phi} V(r_{i},\phi_{j},z_{k}) \approx -( V_{i,j-1,k} - V_{i,j+1,k}) / (2* r_{j} * h_{\phi}) $
+\form#15:$ -\nabla_{z} V(r_{i},\phi_{j},z_{k}) \approx -( V_{i,j,k+1} - V_{i,j,k-1}) / (2* h_{z}) $
+\form#16:$ -\nabla_{r} V(r_{0},\phi_{j},z_{k}) \approx -( -0.5 V_{2,j,k} + 2 V_{1,j,k} - 1.5 * V_{0,j,k}) / h_{r} $
+\form#17:$ -\nabla_{r} V(r_{nRRow - 1},\phi_{j},z_{k}) \approx -( 1.5 V_{nRRow-1,j,k} - 2.0 V_{nRRow-2,j,k} + 0.5 V_{nRRow -3,j,k}) / h_{\phi} $
+\form#18:$\vec{E}(r_{i},z_{j},\phi_{m})$
+\form#19:$ z_{0} $
+\form#20:$ z_{nZColumn - 1} $
+\form#21:$z$
+\form#22:$(r_{i},z_{j},\phi_{m})$
+\form#23:$\vec{E}(r_{i},z_{j+1},\phi_{m}) $
+\form#24:$\vec{E}(r_{i},z_{j},\phi_{m}) $
+\form#25:$ z_{j} $
+\form#26:$ z_{j + 1} $
+\form#27:$ \int^{z_{j+1}}_{z_{j}} \frac{E_{r}}{E_{z}}(r_{i},z_{j},\phi_{m}) dzDist \approx \frac{-1}{\mathrm{ezField}} \frac{h_{z}}{2.0} \left( E_{r}(r_{i},z_{j},\phi_{m}) + E_{r}(r_{i},z_{j+1},\phi_{m}) \right)$
+\form#28:$ \int^{z_{j+1}}_{z_{j}} \frac{E_{\phi}}{E_{z}}(r_{i},z_{j},\phi_{m}) dzDist \approx \frac{-1}{\mathrm{ezField}} \frac{h_{z}}{2.0} \left( E_{\phi}(r_{i},z_{j},\phi_{m}) + E_{\phi}(r_{i},z_{j+1},\phi_{m}) \right)$
+\form#29:$ \int^{z_{j+1}}_{z_{j}} E_{z}(r_{i},z_{j},\phi_{m}) dzDist \approx \frac{h_{z}}{2.0} \left( E_{z}(r_{i},z_{j},\phi_{m}) + E_{z}(r_{i},z_{j+1},\phi_{m}) \right) $
+\form#30:$\hat{\delta}(r_{i},z_{j},\phi_{m})$
+\form#31:$ \hat{\delta}_{rE}(r_{i},z_{j},\phi_{m}) = c_{0} \int^{z_{j+1}}_{z_{j}} \frac{E_{r}}{E_{z}} dzDist + c_{1} \int^{z_{j+1}}_{z_{j}} \frac{E_{\phi}}{E_{z}} dzDist $
+\form#32:$ r\hat{\delta}_{\phi E}(r_{i},z_{j},\phi_{m}) = - c_{1} \int^{z_{j+1}}_{z_{j}} \frac{E_{j}}{E_{j}} dzDist + c_{0} \int^{z_{j+1}}_{j_{j}} \frac{E_{\phi}}{E_{z}} dzDist $
+\form#33:$ \hat{\delta}_{z}(r_{i},z_{j},\phi_{m}) = \int_{z_{j}}^{z_{j+1}} \frac{v^{\prime}(E)}{v_{0}} (E - E_{0}) dzDist$
+\form#34:$c_{0}$
+\form#35:$c_{1}$
+\form#36:$(r_{i},\mathbf{z_{j+1}},\phi_{m})$
+\form#37:$ z_{j+1} $
+\form#38:$ \int^{z_{j}}_{z_{j+1}} \frac{E_{r}}{E_{z}}(r_{i},z_{j},\phi_{m}) dzDist \approx -1 * \frac{-1}{\mathrm{ezField}} \frac{h_{z}}{2.0} \left( E_{r}(r_{i},z_{j},\phi_{m}) + E_{r}(r_{i},z_{j+1},\phi_{m}) \right)$
+\form#39:$ \int^{z_{j}}_{z_{j+1}} \frac{E_{\phi}}{E_{z}}(r_{i},z_{j},\phi_{m}) dzDist \approx -1 * \frac{-1}{\mathrm{ezField}} \frac{h_{z}}{2.0} \left( E_{\phi}(r_{i},z_{j},\phi_{m}) + E_{\phi}(r_{i},z_{j+1},\phi_{m}) \right)$
+\form#40:$ \int^{z_{j}}_{z_{j+1}} E_{z}(r_{i},z_{j},\phi_{m}) dzDist \approx -1 * \frac{h_{z}}{2.0} \left( E_{z}(r_{i},z_{j},\phi_{m}) + E_{z}(r_{i},z_{j+1},\phi_{m}) \right) $
+\form#41:$\hat{\delta'}(r_{i},\mathbf{z_{j+1}},\phi_{m})$
+\form#42:$ \hat{\delta'}_{rE}(r_{i},z_{j+1},\phi_{m}) = c_{0} \int^{z_{j}}_{z_{j+1}} \frac{E_{r}}{E_{z}} dzDist + c_{1} \int^{z_{j-1}}_{z_{j}} \frac{E_{\phi}}{E_{z}} dzDist $
+\form#43:$ r\hat{\delta'}_{\phi E}(r_{i},z_{j+1},\phi_{m}) = - c_{1} \int^{z_{j}}_{z_{j+1}} \frac{E_{j}}{E_{j}} dzDist + c_{0} \int^{z_{j-1}}_{j_{k}} \frac{E_{\phi}}{E_{z}} dzDist $
+\form#44:$ \hat{\delta'}_{z}(r_{i},z_{j+1},\phi_{m}) = \int_{z_{j}}^{z_{j+1}} \frac{v^{\prime}(E)}{v_{0}} (E - E_{0}) dzDist$
+\form#45:$ \hat{\delta'}_{rE}(r_{i},z_{j+1},\phi_{m}) = -1 * \hat{\delta}_{rE}(r_{i},z_{j},\phi_{m}) $
+\form#46:$ r\hat{\delta'}_{\phi E}(r_{i},z_{j+1},\phi_{m}) = -1 * r\hat{\delta}_{\phi E}(r_{i},z_{j},\phi_{m}) $
+\form#47:$ \hat{\delta'}_{z}(r_{i},z_{j+1},\phi_{m}) = -1 * \hat{\delta}_{z}(r_{i},z_{j},\phi_{m}) $
+\form#48:$r$
+\form#49:$\phi$
+\form#50:$\hat{\delta}_{r}$
+\form#51:$r \hat{\delta}_{\phi}$
+\form#52:$ \hat{\delta}_{z}$
+\form#53:$ R $
+\form#54:$ \phi R $
+\form#55:$ z $
+\form#56:$ X $

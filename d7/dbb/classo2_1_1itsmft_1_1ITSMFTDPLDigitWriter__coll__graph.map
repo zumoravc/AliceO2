@@ -1,0 +1,5 @@
+<map id="o2::itsmft::ITSMFTDPLDigitWriter" name="o2::itsmft::ITSMFTDPLDigitWriter">
+<area shape="rect" id="node3" href="$d9/db3/structo2_1_1header_1_1Descriptor.html" title="{o2::header::Descriptor\l\&lt; gSizeDataOriginString,\l printDataOrigin \&gt;\n||+ Descriptor()\l+ Descriptor()\l+ Descriptor()\l+ Descriptor()\l+ operator=()\l+ operator ItgType()\l+ runtimeInit()\l+ operator==()\l+ operator==()\l+ operator\&lt;()\l+ operator!=()\l+ operator!=()\l+ as()\l+ print()\l}" alt="" coords="307,696,491,993"/>
+<area shape="rect" id="node8" href="$d9/db3/structo2_1_1header_1_1Descriptor.html" title="{o2::header::Descriptor\l\&lt; N, PrinterPolicy \&gt;\n||+ Descriptor()\l+ Descriptor()\l+ Descriptor()\l+ operator=()\l+ operator ItgType()\l+ Descriptor()\l+ runtimeInit()\l+ operator==()\l+ operator\&lt;()\l+ operator!=()\l+ operator==()\l+ operator!=()\l+ as()\l+ print()\l}" alt="" coords="184,175,350,457"/>
+<area shape="rect" id="node10" href="$d6/dd5/classo2_1_1detectors_1_1DetID.html" title="Static class with identifiers, bitmasks and names for ALICE detectors. " alt="" coords="808,667,960,1023"/>
+</map>

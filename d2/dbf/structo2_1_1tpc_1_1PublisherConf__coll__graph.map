@@ -1,0 +1,5 @@
+<map id="o2::tpc::PublisherConf" name="o2::tpc::PublisherConf">
+<area shape="rect" id="node2" href="$df/d24/structo2_1_1tpc_1_1PublisherConf_1_1BranchOptionConfig.html" title="{o2::tpc::PublisherConf\l::BranchOptionConfig\n||}" alt="" coords="160,320,324,412"/>
+<area shape="rect" id="node7" href="$de/d1b/structo2_1_1framework_1_1OutputLabel.html" title="{o2::framework::OutputLabel\n||}" alt="" coords="162,197,366,274"/>
+<area shape="rect" id="node5" href="$d8/dc3/structo2_1_1framework_1_1OutputSpec.html" title="{o2::framework::OutputSpec\n||+ OutputSpec()\l+ OutputSpec()\l+ OutputSpec()\l+ OutputSpec()\l+ OutputSpec()\l+ OutputSpec()\l+ OutputSpec()\l+ OutputSpec()\l+ operator==()\l}" alt="" coords="350,436,550,631"/>
+</map>

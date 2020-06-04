@@ -1,0 +1,29 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1843 [label="o2::detectors::DetMatrix\lCache",height=0.2,width=0.4,color="black",URL="$df/d06/classo2_1_1detectors_1_1DetMatrixCache.html"];
+  Node1843 -> Node1844 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1844 [label="o2::detectors::DetMatrix\lCacheIndirect",height=0.2,width=0.4,color="black",URL="$d8/d60/classo2_1_1detectors_1_1DetMatrixCacheIndirect.html",tooltip="Variant of DetMatrixCache for non consecutive indexing. "];
+  Node1844 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="o2::trd::TRDGeometry",height=0.2,width=0.4,color="black",URL="$d9/d9c/classo2_1_1trd_1_1TRDGeometry.html"];
+  Node1843 -> Node1845 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1845 [label="o2::itsmft::GeometryTGeo",height=0.2,width=0.4,color="black",URL="$d9/d02/classo2_1_1itsmft_1_1GeometryTGeo.html"];
+  Node1845 -> Node1846 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1846 [label="o2::its::GeometryTGeo",height=0.2,width=0.4,color="black",URL="$dc/d86/classo2_1_1its_1_1GeometryTGeo.html"];
+  Node1845 -> Node1847 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1847 [label="o2::mft::GeometryTGeo",height=0.2,width=0.4,color="black",URL="$de/db5/classo2_1_1mft_1_1GeometryTGeo.html"];
+  Node1510 [label="FlatObject",height=0.2,width=0.4,color="black",URL="$d8/db1/classo2_1_1gpu_1_1FlatObject.html"];
+  Node1510 -> Node1511 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1511 [label="o2::base::MatLayerCyl",height=0.2,width=0.4,color="black",URL="$d1/de6/classo2_1_1base_1_1MatLayerCyl.html"];
+  Node1510 -> Node1512 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1512 [label="o2::base::MatLayerCylSet",height=0.2,width=0.4,color="black",URL="$dc/da6/classo2_1_1base_1_1MatLayerCylSet.html"];
+  Node1510 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="o2::trd::TRDGeometryFlat",height=0.2,width=0.4,color="black",URL="$d5/db3/classo2_1_1trd_1_1TRDGeometryFlat.html"];
+  Node0 [label="o2::trd::TRDGeometryBase",height=0.2,width=0.4,color="black",URL="$d6/dbe/classo2_1_1trd_1_1TRDGeometryBase.html"];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

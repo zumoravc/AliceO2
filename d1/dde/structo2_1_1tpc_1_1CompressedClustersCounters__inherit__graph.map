@@ -1,0 +1,5 @@
+<map id="o2::tpc::CompressedClustersCounters" name="o2::tpc::CompressedClustersCounters">
+<area shape="rect" id="node2" href="$d6/d95/structo2_1_1tpc_1_1CompressedClusters.html" title="{o2::tpc::CompressedClusters\n||+ CompressedClusters()\l+ ~CompressedClusters()\l+ CompressedClusters()\l+ ClassDefNV()\l}" alt="" coords="24,219,232,340"/>
+<area shape="rect" id="node4" href="$dd/d43/structo2_1_1tpc_1_1CompressedClustersFlat.html" title="{o2::tpc::CompressedClustersFlat\n|+ totalDataSize\l|+ CompressedClustersFlat()\l+ set()\l}" alt="" coords="256,233,488,325"/>
+<area shape="rect" id="node3" href="$de/dcb/structo2_1_1tpc_1_1CompressedClustersROOT.html" title="{o2::tpc::CompressedClustersROOT\n|+ flatdataSize\l+ flatdata\l|+ CompressedClustersROOT()\l+ CompressedClustersROOT()\l+ CompressedClustersROOT()\l+ ClassDefNV()\l}" alt="" coords="5,388,251,524"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/Passive/src/Compensator.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/Passive/src/Compensator.cxx">
+<area shape="rect" id="node2" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="1014,221,1202,247"/>
+<area shape="rect" id="node9" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="1574,310,1815,337"/>
+<area shape="rect" id="node26" href="$dc/ded/Compensator_8h.html" title="DetectorsPassive/Compensator.h" alt="" coords="1786,131,2022,158"/>
+<area shape="rect" id="node29" href="$d9/df5/HallSimParam_8h.html" title="DetectorsPassive/HallSim\lParam.h" alt="" coords="2047,124,2236,165"/>
+<area shape="rect" id="node17" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="87,399,297,426"/>
+<area shape="rect" id="node22" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="264,310,477,337"/>
+<area shape="rect" id="node27" href="$d4/d6e/PassiveBase_8h.html" title="DetectorsPassive/Passive\lBase.h" alt="" coords="2009,213,2196,255"/>
+<area shape="rect" id="node30" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="2237,303,2435,344"/>
+<area shape="rect" id="node33" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="2296,213,2493,255"/>
+</map>

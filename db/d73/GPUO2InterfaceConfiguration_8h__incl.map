@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/Interface/GPUO2InterfaceConfiguration.h" name="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/Interface/GPUO2InterfaceConfiguration.h">
+<area shape="rect" id="node7" href="$dd/dc6/GPUSettings_8h.html" title="GPUSettings.h" alt="" coords="23,124,138,151"/>
+<area shape="rect" id="node14" href="$d4/d50/GPUDisplayConfig_8h.html" title="GPUDisplayConfig.h" alt="" coords="317,124,469,151"/>
+<area shape="rect" id="node17" href="$d8/d93/GPUQAConfig_8h.html" title="GPUQAConfig.h" alt="" coords="605,124,727,151"/>
+<area shape="rect" id="node18" href="$d4/dc5/GPUDataTypes_8h.html" title="GPUDataTypes.h" alt="" coords="162,124,293,151"/>
+<area shape="rect" id="node20" href="$d6/d20/GPUHostDataTypes_8h.html" title="GPUHostDataTypes.h" alt="" coords="941,124,1101,151"/>
+<area shape="rect" id="node22" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1463,206,1675,233"/>
+<area shape="rect" id="node8" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="9,206,163,233"/>
+<area shape="rect" id="node9" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="321,288,464,315"/>
+<area shape="rect" id="node10" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="397,363,594,389"/>
+<area shape="rect" id="node11" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="207,363,373,389"/>
+<area shape="rect" id="node15" href="$da/d08/qconfig_8h.html" title="utils/qconfig.h" alt="" coords="535,206,648,233"/>
+<area shape="rect" id="node16" href="$d8/de9/qconfigoptions_8h.html" title="qconfigoptions.h" alt="" coords="520,288,649,315"/>
+<area shape="rect" id="node23" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="936,199,1105,240"/>
+<area shape="rect" id="node31" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1219,199,1388,240"/>
+<area shape="rect" id="node24" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1263,288,1429,315"/>
+</map>

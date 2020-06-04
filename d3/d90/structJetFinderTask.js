@@ -1,0 +1,35 @@
+var structJetFinderTask =
+[
+    [ "BkgMode", "d3/d90/structJetFinderTask.html#a0ebab2d914895d85fe9b393726e23aed", [
+      [ "none", "d3/d90/structJetFinderTask.html#a0ebab2d914895d85fe9b393726e23aeda334c4a4c42fdb79d7ebc3e73b517e6f8", null ],
+      [ "rhoArea", "d3/d90/structJetFinderTask.html#a0ebab2d914895d85fe9b393726e23aedaba227c6cda54eee148a919debadb3a56", null ]
+    ] ],
+    [ "init", "d3/d90/structJetFinderTask.html#ac601e76b4b185f63492ea49007ac10f0", null ],
+    [ "process", "d3/d90/structJetFinderTask.html#a76eb38ddbb8354804f8af276c8bdb783", null ],
+    [ "algorithm", "d3/d90/structJetFinderTask.html#aa33f49994971e2eb1a607211bcc844c3", null ],
+    [ "algorithmBkg", "d3/d90/structJetFinderTask.html#aa03a6437ce4626ae83bb9a15c4653bdc", null ],
+    [ "areaDef", "d3/d90/structJetFinderTask.html#a7df39ce7ab1c5cf1ff4cbf197b506b1b", null ],
+    [ "areaDefBkg", "d3/d90/structJetFinderTask.html#ac37551ce297fd9377acd79f2d31573f2", null ],
+    [ "areaType", "d3/d90/structJetFinderTask.html#a7208694e5ca2456433dad69e007f6b4b", null ],
+    [ "bge", "d3/d90/structJetFinderTask.html#ac4101a34ead37654f52e4e0ffd794794", null ],
+    [ "bkgMode", "d3/d90/structJetFinderTask.html#a43c5cf4b5ceb343b0b042acd1c2d8d89", null ],
+    [ "constituents", "d3/d90/structJetFinderTask.html#a72dd8dd05acb6c52954ac45b2e5a3e12", null ],
+    [ "ghostEtamax", "d3/d90/structJetFinderTask.html#ad94f0273d412d4626fc43355cc031f38", null ],
+    [ "ghostSpec", "d3/d90/structJetFinderTask.html#ad6ca223d254991ac61a887d58b40d8d0", null ],
+    [ "jetDef", "d3/d90/structJetFinderTask.html#a7128aa05ff4b043eab0e278161ee5e45", null ],
+    [ "jetDefBkg", "d3/d90/structJetFinderTask.html#ac6ed5aba9a38880e82b36a4840b69d38", null ],
+    [ "jets", "d3/d90/structJetFinderTask.html#aa0cc17161be8f1d6e40958ebcdc6c222", null ],
+    [ "maxJetEta", "d3/d90/structJetFinderTask.html#aed65e1c39b558fc901796f5b243f7dfc", null ],
+    [ "minJetPt", "d3/d90/structJetFinderTask.html#a1d6b7c2113f9cee8e330cf4deab1ba22", null ],
+    [ "pJets", "d3/d90/structJetFinderTask.html#a4ef48a45586da44beb64f53e63a21ff6", null ],
+    [ "rapBkg", "d3/d90/structJetFinderTask.html#ac9e9f9adc82467974554a392e48e0e11", null ],
+    [ "recombScheme", "d3/d90/structJetFinderTask.html#abc54ba8e9a89bb04e6a436aafabdfb55", null ],
+    [ "recombSchemeBkg", "d3/d90/structJetFinderTask.html#aa0b2f419d78dff04614594e680b26662", null ],
+    [ "rParam", "d3/d90/structJetFinderTask.html#a730ee2477be2f64350c7e73f33ad43f6", null ],
+    [ "rParamBkg", "d3/d90/structJetFinderTask.html#a4508f6a76172ee514b84feb8daa25913", null ],
+    [ "selBkg", "d3/d90/structJetFinderTask.html#a2bcd7e3b53c8d193c48f2bc559d855d3", null ],
+    [ "selJet", "d3/d90/structJetFinderTask.html#a61fd9c2e394bd5d60364a908afd9aac1", null ],
+    [ "strategy", "d3/d90/structJetFinderTask.html#acf8dc5a711f459131bd63d37b4669a55", null ],
+    [ "sub", "d3/d90/structJetFinderTask.html#afa957c2721cee015b19670f669dd6198", null ],
+    [ "trackCuts", "d3/d90/structJetFinderTask.html#ac946f5d1761fd3a307de70f9163ac7a0", null ]
+];

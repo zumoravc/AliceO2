@@ -1,0 +1,5 @@
+<map id="GPUCA_NAMESPACE::gpu::Spline2D&lt; DataT, nFdimT, isConsistentT &gt;" name="GPUCA_NAMESPACE::gpu::Spline2D&lt; DataT, nFdimT, isConsistentT &gt;">
+<area shape="rect" id="node4" href="$d3/dc3/classGPUCA__NAMESPACE_1_1gpu_1_1Spline2D.html" title="{GPUCA_NAMESPACE::gpu\l::Spline2D\&lt; float, 1, 1 \&gt;\n|+ x2\l+ const\l+ u1\l+ u2\l|+ Spline2D()\l+ Spline2D()\l+ Spline2D()\l+ operator=()\l+ ~Spline2D()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUhd()\l+ GPUgeneric()\l+ GPUgeneric()\l+ GPUgeneric()\l+ GPUgeneric()\l+ readFromFile()\l}" alt="" coords="17,1763,204,2119"/>
+<area shape="rect" id="node2" href="$df/d20/classGPUCA__NAMESPACE_1_1gpu_1_1Spline2DBase.html" title="Base class to store data members and non&#45;inline methods. " alt="" coords="11,572,210,1280"/>
+<area shape="rect" id="node3" href="$dc/d5e/classGPUCA__NAMESPACE_1_1gpu_1_1FlatObject.html" title="GPUCA_GPUCODE. " alt="" coords="5,5,216,523"/>
+</map>

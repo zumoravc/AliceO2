@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/ITS/GPUITSTrack.h" name="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/ITS/GPUITSTrack.h">
+<area shape="rect" id="node2" href="$d8/d33/GPUTPCGMTrackParam_8h.html" title="GPUTPCGMTrackParam.h" alt="" coords="446,109,629,136"/>
+<area shape="rect" id="node3" href="$da/dab/GPUTPCDef_8h.html" title="GPUTPCDef.h" alt="" coords="661,259,771,285"/>
+<area shape="rect" id="node14" href="$d3/dcc/GPUTPCGMMergedTrackHit_8h.html" title="GPUTPCGMMergedTrackHit.h" alt="" coords="151,333,361,360"/>
+<area shape="rect" id="node15" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="298,184,451,211"/>
+<area shape="rect" id="node18" href="$d3/d1f/GPUdEdxInfo_8h.html" title="GPUdEdxInfo.h" alt="" coords="527,184,646,211"/>
+<area shape="rect" id="node19" href="$de/d4c/GPUTPCGMMergerTypes_8h.html" title="GPUTPCGMMergerTypes.h" alt="" coords="670,184,861,211"/>
+<area shape="rect" id="node4" href="$d2/d6d/GPUDef_8h.html" title="GPUDef.h" alt="" coords="674,333,758,360"/>
+<area shape="rect" id="node5" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="229,408,371,435"/>
+<area shape="rect" id="node8" href="$d2/d37/GPUDefConstantsAndSettings_8h.html" title="GPUDefConstantsAndSettings.h" alt="" coords="1041,408,1269,435"/>
+<area shape="rect" id="node9" href="$dc/de9/GPUDefGPUParameters_8h.html" title="GPUDefGPUParameters.h" alt="" coords="396,408,583,435"/>
+<area shape="rect" id="node11" href="$d3/d4c/GPUDefOpenCL12Templates_8h.html" title="GPUDefOpenCL12Templates.h" alt="" coords="607,408,825,435"/>
+<area shape="rect" id="node12" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="850,408,1017,435"/>
+<area shape="rect" id="node6" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="5,483,203,509"/>
+<area shape="rect" id="node7" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="227,483,392,509"/>
+<area shape="rect" id="node10" href="$d6/dff/GPUDefMacros_8h.html" title="GPUDefMacros.h" alt="" coords="424,483,555,509"/>
+</map>

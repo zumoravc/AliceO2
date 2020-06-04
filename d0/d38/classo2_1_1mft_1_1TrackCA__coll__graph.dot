@@ -1,0 +1,8 @@
+digraph "o2::mft::TrackCA"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::mft::TrackCA\n||+ TrackCA()\l+ ~TrackCA()\l+ addCell()\l+ removeLastCell()\l+ getNCells()\l+ setRoadId()\l+ getRoadId()\l+ setPoint()\l+ getNPoints()\l+ setChiSquareZX()\l+ setChiSquareZY()\l+ getChiSquareZX()\l+ getChiSquareZY()\l+ getXCoordinates()\l+ getYCoordinates()\l+ getZCoordinates()\l+ getLayers()\l+ getClustersId()\l+ getCellsLayer()\l+ getCellsId()\l+ getMCCompLabels()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}

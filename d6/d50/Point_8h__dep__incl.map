@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/include/TPCSimulation/Point.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/include/TPCSimulation/Point.h">
+<area shape="rect" id="node2" href="$da/d96/TPC_2simulation_2include_2TPCSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/include/TPCSimulation/Detector.h" alt="" coords="383,124,626,195"/>
+<area shape="rect" id="node3" href="$d2/d2c/TPC_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Detector.cxx" alt="" coords="5,243,196,313"/>
+<area shape="rect" id="node8" href="$de/d92/TPC_2simulation_2include_2TPCSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/include/TPCSimulation/Digitizer.h" alt="" coords="650,124,893,195"/>
+<area shape="rect" id="node9" href="$d7/d0a/TPC_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Digitizer.cxx" alt="" coords="869,243,1060,313"/>
+<area shape="rect" id="node10" href="$d3/df4/Point_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Point.cxx" alt="" coords="968,124,1159,195"/>
+<area shape="rect" id="node11" href="$dd/dd7/testTPCSimulation_8cxx.html" title="This task tests several small components of the TPC simulation. " alt="" coords="1183,124,1386,195"/>
+<area shape="rect" id="node4" href="$d7/d11/o2__sim__tpc_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/o2_sim_tpc.cxx" alt="" coords="221,243,415,313"/>
+<area shape="rect" id="node5" href="$db/d50/O2HitMerger_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/O2HitMerger.h" alt="" coords="440,250,609,306"/>
+<area shape="rect" id="node7" href="$d2/d0b/TPCDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TPCDigitizerSpec.cxx" alt="" coords="658,243,845,313"/>
+<area shape="rect" id="node6" href="$d9/d16/O2HitMergerRunner_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/O2HitMergerRunner.cxx" alt="" coords="423,361,627,417"/>
+</map>

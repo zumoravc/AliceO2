@@ -1,0 +1,19 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FV0" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FV0">
+<area shape="rect" id="node2" href="dir_33a453ce68726fac67bcc8248d4ab430.html" title="base" alt="" coords="37,159,109,207"/>
+<area shape="rect" id="node4" href="dir_4ab6b4cc6a7edbff49100e9123df213f.html" title="Common" alt="" coords="78,255,159,303"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000332_000027.html" title="1" alt="" coords="102,227,112,241"/>
+<area shape="rect" id="node3" href="dir_983acab3c3c5bf8a33c0d17787e8e0cc.html" title="simulation" alt="" coords="37,63,128,111"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000175_000332.html" title="3" alt="" coords="81,134,91,148"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000175_000027.html" title="3" alt="" coords="129,230,138,245"/>
+<area shape="rect" id="node5" href="dir_37c90836491b695b472bf98d1be8336b.html" title="Base" alt="" coords="121,447,193,495"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000175_000274.html" title="1" alt="" coords="202,432,211,447"/>
+<area shape="rect" id="node6" href="dir_2171f7ec022c5423887b07c69b2f5b48.html" title="DataFormats" alt="" coords="104,351,211,399"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000175_000076.html" title="8" alt="" coords="172,327,181,342"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000027_000076.html" title="2" alt="" coords="135,323,144,337"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000274_000027.html" title="16" alt="" coords="81,309,99,323"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000274_000076.html" title="10" alt="" coords="149,410,167,425"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000076_000027.html" title="34" alt="" coords="128,316,145,330"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000076_000274.html" title="1" alt="" coords="152,420,161,435"/>
+<area shape="rect" id="clust2" href="dir_47779a59737632a3da2336a4e8799b86.html" alt="" coords="27,52,235,217"/>
+<area shape="rect" id="clust1" href="dir_d14e88a79bca429480864605ee348cef.html" title="FIT" alt="" coords="16,16,245,228"/>
+</map>

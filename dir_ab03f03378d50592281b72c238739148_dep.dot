@@ -1,0 +1,12 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FV0/base/include/FV0Base" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_98c94a806ecf1bc457b2ac7d4612af07 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="include" fontname="Helvetica", fontsize="10", URL="dir_98c94a806ecf1bc457b2ac7d4612af07.html"]
+  dir_ab03f03378d50592281b72c238739148 [shape=box, label="FV0Base", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_ab03f03378d50592281b72c238739148.html"];
+  }
+  dir_4ab6b4cc6a7edbff49100e9123df213f [shape=box label="Common" color="red" URL="dir_4ab6b4cc6a7edbff49100e9123df213f.html"];
+  dir_ab03f03378d50592281b72c238739148->dir_4ab6b4cc6a7edbff49100e9123df213f [headlabel="1", labeldistance=1.5 headhref="dir_000334_000027.html"];
+}

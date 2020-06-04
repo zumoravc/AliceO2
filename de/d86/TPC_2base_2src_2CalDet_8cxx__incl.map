@@ -1,0 +1,19 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/src/CalDet.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/src/CalDet.cxx">
+<area shape="rect" id="node2" href="$d6/d2b/TPC_2base_2include_2TPCBase_2CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1475,124,1613,151"/>
+<area shape="rect" id="node10" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="951,647,1129,673"/>
+<area shape="rect" id="node24" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1391,273,1534,300"/>
+<area shape="rect" id="node29" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="711,572,846,599"/>
+<area shape="rect" id="node32" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="829,497,952,524"/>
+<area shape="rect" id="node38" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="1609,199,1759,225"/>
+<area shape="rect" id="node12" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="154,803,334,830"/>
+<area shape="rect" id="node15" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="999,721,1179,748"/>
+<area shape="rect" id="node27" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1215,497,1356,524"/>
+<area shape="rect" id="node28" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="691,423,855,449"/>
+<area shape="rect" id="node31" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1078,423,1247,449"/>
+<area shape="rect" id="node33" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="875,348,1024,375"/>
+<area shape="rect" id="node35" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="1816,572,1960,599"/>
+<area shape="rect" id="node36" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1149,348,1336,375"/>
+<area shape="rect" id="node37" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1515,348,1690,375"/>
+<area shape="rect" id="node30" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="673,647,885,673"/>
+<area shape="rect" id="node34" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="880,423,1003,449"/>
+</map>

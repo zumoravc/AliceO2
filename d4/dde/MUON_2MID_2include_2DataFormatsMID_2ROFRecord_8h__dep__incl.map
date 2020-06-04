@@ -1,0 +1,52 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/MUON/MID/include/DataFormatsMID/ROFRecord.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/MUON/MID/include/DataFormatsMID/ROFRecord.h">
+<area shape="rect" id="node2" href="$d5/d51/MUON_2MID_2Clustering_2include_2MIDClustering_2Clusterizer_8h.html" title="Cluster reconstruction algorithm for MID. " alt="" coords="1221,139,1475,209"/>
+<area shape="rect" id="node7" href="$d3/d1e/ClusterizerMCSpec_8cxx.html" title="Data processor spec for MID MC clustering device. " alt="" coords="2021,257,2248,328"/>
+<area shape="rect" id="node9" href="$d7/d1a/PreClusterizer_8h.html" title="Pre&#45;cluster reconstruction algorithm for MID. " alt="" coords="1499,139,1773,209"/>
+<area shape="rect" id="node11" href="$dc/d62/CRUBareDataChecker_8h.html" title="Class to check the bare data from the CRU. " alt="" coords="4013,139,4219,209"/>
+<area shape="rect" id="node14" href="$df/dcf/CRUBareDecoder_8h.html" title="MID CRU core decoder. " alt="" coords="4334,139,4591,209"/>
+<area shape="rect" id="node17" href="$d7/d48/DecodedDataAggregator_8h.html" title="MID decoded raw data aggregator. " alt="" coords="4890,139,5195,209"/>
+<area shape="rect" id="node21" href="$d9/d05/Detectors_2MUON_2MID_2Raw_2include_2MIDRaw_2Decoder_8h.html" title="MID raw data decoder. " alt="" coords="5531,376,5730,447"/>
+<area shape="rect" id="node25" href="$d6/d9f/GBTBareDecoder_8h.html" title="MID GBT decoder without user logic. " alt="" coords="5235,257,5491,328"/>
+<area shape="rect" id="node27" href="$d0/d0c/GBTOutputHandler_8h.html" title="MID GBT decoder output handler. " alt="" coords="5548,139,5815,209"/>
+<area shape="rect" id="node28" href="$db/d41/GBTUserLogicDecoder_8h.html" title="MID GBT decoder with user logic zero suppression. " alt="" coords="5787,257,6077,328"/>
+<area shape="rect" id="node31" href="$d8/d2e/GBTUserLogicEncoder_8h.html" title="Raw data encoder for MID GBT user logic. " alt="" coords="6104,257,6392,328"/>
+<area shape="rect" id="node34" href="$db/dd6/RawWriterSpec_8cxx.html" title="Digits to raw converter spec for MID. " alt="" coords="6484,495,6711,565"/>
+<area shape="rect" id="node36" href="$dc/d92/DigitsMerger_8h.html" title="Digits merger for MID. " alt="" coords="725,139,995,209"/>
+<area shape="rect" id="node38" href="$d4/dd3/MIDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MIDDigitizerSpec.cxx" alt="" coords="5,257,192,328"/>
+<area shape="rect" id="node39" href="$de/d28/PreClusterLabeler_8h.html" title="PreClusterLabeler for MID. " alt="" coords="2223,139,2526,209"/>
+<area shape="rect" id="node41" href="$db/d8e/MUON_2MID_2Tracking_2include_2MIDTracking_2Tracker_8h.html" title="Track reconstruction algorithm for MID. " alt="" coords="3029,139,3251,209"/>
+<area shape="rect" id="node45" href="$da/d28/TrackerMCSpec_8cxx.html" title="Data processor spec for MID MC tracker device. " alt="" coords="3520,257,3747,328"/>
+<area shape="rect" id="node47" href="$d6/d1b/MUON_2MID_2Workflow_2src_2DigitReaderSpec_8cxx.html" title="Data processor spec for MID digits reader device. " alt="" coords="5991,139,6217,209"/>
+<area shape="rect" id="node48" href="$d2/de0/MUON_2MID_2Workflow_2src_2RecoWorkflow_8cxx.html" title="Definition of MID reconstruction workflow. " alt="" coords="6241,139,6468,209"/>
+<area shape="rect" id="node49" href="$dd/d65/RecoWorkflowMC_8cxx.html" title="Definition of MID reconstruction workflow for MC. " alt="" coords="6492,139,6719,209"/>
+<area shape="rect" id="node50" href="$d9/d65/MIDDigitWriterSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MIDDigitWriterSpec.h" alt="" coords="6743,139,6929,209"/>
+<area shape="rect" id="node3" href="$dc/d07/MUON_2MID_2Clustering_2src_2Clusterizer_8cxx.html" title="Implementation of the cluster reconstruction algorithm for MID. " alt="" coords="478,257,711,328"/>
+<area shape="rect" id="node4" href="$d2/d12/bench__Clusterizer_8cxx.html" title="Benchmark clustering device for MID. " alt="" coords="735,257,969,328"/>
+<area shape="rect" id="node5" href="$d6/dee/testClusterizer_8cxx.html" title="Test clustering device for MID. " alt="" coords="993,257,1226,328"/>
+<area shape="rect" id="node6" href="$d6/d45/testSimulation_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Simulation\l/test/testSimulation.cxx" alt="" coords="1760,257,1997,328"/>
+<area shape="rect" id="node8" href="$d6/d57/MUON_2MID_2Workflow_2src_2ClusterizerSpec_8cxx.html" title="Data processor spec for MID clustering device. " alt="" coords="1251,257,1477,328"/>
+<area shape="rect" id="node10" href="$db/d2e/PreClusterizer_8cxx.html" title="Implementation of the pre&#45;cluster reconstruction algorithm for MID. " alt="" coords="1502,257,1735,328"/>
+<area shape="rect" id="node12" href="$d6/d36/CRUBareDataChecker_8cxx.html" title="Class to check the bare data from the CRU. " alt="" coords="3771,257,3994,328"/>
+<area shape="rect" id="node13" href="$dd/d82/mid-raw-checker_8cxx.html" title="CRU bare data checker for MID. " alt="" coords="4019,257,4213,328"/>
+<area shape="rect" id="node15" href="$d5/d95/mid-rawdump_8cxx.html" title="Raw dumper for MID. " alt="" coords="4456,257,4651,328"/>
+<area shape="rect" id="node16" href="$d2/db9/CRUBareDecoder_8cxx.html" title="MID CRU core decoder. " alt="" coords="4237,257,4432,328"/>
+<area shape="rect" id="node18" href="$d1/d9a/DecodedDataAggregator_8cxx.html" title="MID decoded raw data aggregator. " alt="" coords="4925,257,5160,328"/>
+<area shape="rect" id="node19" href="$d8/d4c/testRaw_8cxx.html" title="Test MID raw data decoder. " alt="" coords="5797,495,5992,565"/>
+<area shape="rect" id="node20" href="$db/de7/RawAggregatorSpec_8cxx.html" title="Data processor spec for MID raw data aggregator device. " alt="" coords="4675,257,4901,328"/>
+<area shape="rect" id="node22" href="$dc/d28/MUON_2MID_2Raw_2src_2Decoder_8cxx.html" title="MID raw data decoder. " alt="" coords="5556,495,5751,565"/>
+<area shape="rect" id="node23" href="$d5/d52/bench__Raw_8cxx.html" title="Benchmark MID raw data decoder. " alt="" coords="6016,495,6211,565"/>
+<area shape="rect" id="node24" href="$d1/dc9/RawDecoderSpec_8cxx.html" title="Data processor spec for MID raw decoder device. " alt="" coords="5305,495,5532,565"/>
+<area shape="rect" id="node26" href="$d5/d90/GBTBareDecoder_8cxx.html" title="MID GBT decoder without user logic. " alt="" coords="5263,376,5457,447"/>
+<area shape="rect" id="node30" href="$d5/d6c/GBTOutputHandler_8cxx.html" title="MID GBT decoder output handler. " alt="" coords="5565,257,5763,328"/>
+<area shape="rect" id="node29" href="$d3/db3/GBTUserLogicDecoder_8cxx.html" title="MID GBT decoder with user logic zero suppression. " alt="" coords="5754,376,5974,447"/>
+<area shape="rect" id="node32" href="$d1/dcf/Detectors_2MUON_2MID_2Raw_2include_2MIDRaw_2Encoder_8h.html" title="MID raw data encoder. " alt="" coords="6151,376,6348,447"/>
+<area shape="rect" id="node35" href="$dd/dd0/GBTUserLogicEncoder_8cxx.html" title="Raw data encoder for MID CRU user logic. " alt="" coords="6372,376,6591,447"/>
+<area shape="rect" id="node33" href="$d8/dc6/MUON_2MID_2Raw_2src_2Encoder_8cxx.html" title="MID raw data encoder. " alt="" coords="6235,495,6429,565"/>
+<area shape="rect" id="node37" href="$db/d63/DigitsMerger_8cxx.html" title="Implementation of the digits merger for MID. " alt="" coords="216,257,453,328"/>
+<area shape="rect" id="node40" href="$db/d5b/PreClusterLabeler_8cxx.html" title="Implementation of the PreClusterLabeler for MID. " alt="" coords="2272,257,2509,328"/>
+<area shape="rect" id="node42" href="$de/dbc/MUON_2MID_2Tracking_2src_2Tracker_8cxx.html" title="Implementation of the tracker algorithm for the MID. " alt="" coords="2784,257,3005,328"/>
+<area shape="rect" id="node43" href="$d0/db9/bench__Tracker_8cxx.html" title="Benchmark tracker device for MID. " alt="" coords="3029,257,3251,328"/>
+<area shape="rect" id="node44" href="$da/de0/testTracker_8cxx.html" title="Test tracking device for MID. " alt="" coords="3275,257,3496,328"/>
+<area shape="rect" id="node46" href="$db/da5/MUON_2MID_2Workflow_2src_2TrackerSpec_8cxx.html" title="Data processor spec for MID tracker device. " alt="" coords="2533,257,2760,328"/>
+<area shape="rect" id="node51" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="6719,257,6953,328"/>
+</map>

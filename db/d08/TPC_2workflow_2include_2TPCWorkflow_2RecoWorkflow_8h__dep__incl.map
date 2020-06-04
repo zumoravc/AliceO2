@@ -1,0 +1,6 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/workflow/include/TPCWorkflow/RecoWorkflow.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/workflow/include/TPCWorkflow/RecoWorkflow.h">
+<area shape="rect" id="node2" href="$d0/d80/TPC_2workflow_2src_2RecoWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/workflow\l/src/RecoWorkflow.cxx" alt="" coords="5,124,187,195"/>
+<area shape="rect" id="node3" href="$db/d8e/tpc-raw-to-digits-workflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/workflow\l/src/tpc&#45;raw&#45;to&#45;digits&#45;workflow.cxx" alt="" coords="211,124,458,195"/>
+<area shape="rect" id="node4" href="$d3/dbf/tpc-reco-workflow_8cxx.html" title="Basic DPL workflow for TPC reconstruction starting from digits. " alt="" coords="483,124,675,195"/>
+<area shape="rect" id="node5" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="699,124,933,195"/>
+</map>

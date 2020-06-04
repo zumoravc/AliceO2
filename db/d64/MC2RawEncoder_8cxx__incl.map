@@ -1,0 +1,40 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/src/MC2RawEncoder.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/src/MC2RawEncoder.cxx">
+<area shape="rect" id="node2" href="$df/d56/MC2RawEncoder_8h.html" title="Definition of the ITS/MFT Alpide pixel MC&#45;&gt;raw converter. " alt="" coords="2692,124,2953,151"/>
+<area shape="rect" id="node50" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="3569,385,3783,411"/>
+<area shape="rect" id="node52" href="$d0/dd1/GBTLink_8h.html" title="Declarations of helper classes for the ITS/MFT raw data decoding. " alt="" coords="1702,288,1866,329"/>
+<area shape="rect" id="node76" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="4651,124,4805,151"/>
+<area shape="rect" id="node4" href="$dd/db8/RawPixelReader_8h.html" title="Definition of the Alpide pixel reader for raw data processing. " alt="" coords="2741,199,2905,240"/>
+<area shape="rect" id="node26" href="$d3/d57/ChipMappingITS_8h.html" title="ITSMFTReconstruction\l/ChipMappingITS.h" alt="" coords="3825,467,3989,508"/>
+<area shape="rect" id="node43" href="$d8/da2/AlpideCoder_8h.html" title="class for the ALPIDE data decoding/encoding " alt="" coords="745,467,909,508"/>
+<area shape="rect" id="node53" href="$db/d0e/RUDecodeData_8h.html" title="Declaration of the Readout Unite decoder class. " alt="" coords="1982,377,2146,419"/>
+<area shape="rect" id="node54" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="2943,385,3131,411"/>
+<area shape="rect" id="node63" href="$d0/d6b/ChipMappingMFT_8h.html" title="ITSMFTReconstruction\l/ChipMappingMFT.h" alt="" coords="4177,467,4341,508"/>
+<area shape="rect" id="node64" href="$da/d08/RawFileWriter_8h.html" title="Utility class to write detectors data to (multiple) raw data file(s) respecting CRU format..." alt="" coords="1290,206,1507,233"/>
+<area shape="rect" id="node5" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="3163,563,3362,590"/>
+<area shape="rect" id="node7" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="2575,645,2807,687"/>
+<area shape="rect" id="node13" href="$df/d2e/PixelReader_8h.html" title="Abstract class for Alpide data reader class. " alt="" coords="2034,467,2198,508"/>
+<area shape="rect" id="node14" href="$da/d8d/PixelData_8h.html" title="Transient data classes for single pixel and set of pixels from current chip. " alt="" coords="2233,556,2397,597"/>
+<area shape="rect" id="node47" href="$d0/d35/PayLoadCont_8h.html" title="Declaration of class for continuos buffer of ALPIDE data. " alt="" coords="398,563,517,590"/>
+<area shape="rect" id="node49" href="$dd/d86/GBTWord_8h.html" title="ITSMFTReconstruction\l/GBTWord.h" alt="" coords="1734,377,1898,419"/>
+<area shape="rect" id="node51" href="$d4/d20/PayLoadSG_8h.html" title="Declaration of class for scatter&#45;gather buffer. " alt="" coords="1185,556,1349,597"/>
+<area shape="rect" id="node8" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1579,735,1746,761"/>
+<area shape="rect" id="node12" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="2656,735,2909,761"/>
+<area shape="rect" id="node19" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1578,645,1747,687"/>
+<area shape="rect" id="node20" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2421,556,2590,597"/>
+<area shape="rect" id="node15" href="$d3/d1e/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Digit_8h.html" title="DataFormatsITSMFT/Digit.h" alt="" coords="1974,653,2173,679"/>
+<area shape="rect" id="node30" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2869,563,3038,590"/>
+<area shape="rect" id="node34" href="$dc/dd8/RUInfo_8h.html" title="ITSMFTReconstruction\l/RUInfo.h" alt="" coords="3765,556,3929,597"/>
+<area shape="rect" id="node35" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="4145,556,4373,597"/>
+<area shape="rect" id="node32" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2993,653,3188,679"/>
+<area shape="rect" id="node37" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="4701,653,4832,679"/>
+<area shape="rect" id="node38" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="4294,809,4437,836"/>
+<area shape="rect" id="node41" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="4710,735,4863,761"/>
+<area shape="rect" id="node42" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="4428,735,4687,761"/>
+<area shape="rect" id="node39" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="4164,884,4361,911"/>
+<area shape="rect" id="node40" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="4385,884,4551,911"/>
+<area shape="rect" id="node55" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="3393,474,3537,501"/>
+<area shape="rect" id="node56" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="2970,474,3105,501"/>
+<area shape="rect" id="node68" href="$d1/dec/HBFUtils_8h.html" title="DetectorsRaw/HBFUtils.h" alt="" coords="2369,295,2554,322"/>
+<area shape="rect" id="node69" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="1411,467,1608,508"/>
+<area shape="rect" id="node73" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="2367,377,2564,419"/>
+</map>
