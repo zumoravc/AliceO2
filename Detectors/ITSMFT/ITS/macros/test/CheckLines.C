@@ -102,8 +102,8 @@ void CheckLines(std::string tracfile = "vertexer_serial_data.root", std::string 
   // Reconstructed tracks
   TFile* file1 = TFile::Open(tracfile.data());
   TTree* recTree = (TTree*)gFile->Get("o2sim");
-  std::vector<o2::its::Line>* recArr = nullptr;
-  recTree->SetBranchAddress("ITSTrack", &recArr);
+  std::vector<o2::its::Line>* linesArr = nullptr;
+  recTree->SetBranchAddress("LinesITS", &linesArr);
   // Track MC labels
   // o2::dataformats::MCTruthContainer<o2::MCCompLabel>* trkLabArr = nullptr;
   // recTree->SetBranchAddress("ITSTrackMCTruth", &trkLabArr);
@@ -146,7 +146,7 @@ void CheckLines(std::string tracfile = "vertexer_serial_data.root", std::string 
     }
   }
 
-  cout << "Find mc events in track frames.. " << endl;
+  cout << "Find mc events in lines frames.. " << endl;
 
   int loadedEventTracks = -1;
 
@@ -155,12 +155,13 @@ void CheckLines(std::string tracfile = "vertexer_serial_data.root", std::string 
     if (!recTree->GetEvent(frame))
       continue;
     int loadedEventTracks = frame;
-    for (unsigned int i = 0; i < recArr->size(); i++) { // Find the last MC event within this reconstructed entry
-      auto lab = (trkLabArr->getLabels(i))[0];
-      if (!lab.isValid()) {
-        const TrackITS& recTrack = (*recArr)[i];
-        fak->Fill(recTrack.getPt());
-      }
+    for (unsigned int i = 0; i < linesArr->size(); i++) { // Find the last MC event within this reconstructed entry
+      const Line& recLine = (*linesArr)[i];
+      auto lab = recLine.clusterLabels[0];
+      // if (!lab.isValid()) {
+      //   // const TrackITS& recTrack = (*recArr)[i];
+      //   fak->Fill(recTrack.getPt());
+      // }
       if (!lab.isValid() || lab.getSourceID() != 0 || lab.getEventID() < 0 || lab.getEventID() >= nev)
         continue;
       trackFrames[lab.getEventID()].update(frame, i);
@@ -187,14 +188,13 @@ void CheckLines(std::string tracfile = "vertexer_serial_data.root", std::string 
     Int_t nmc = mcArr->size();
     //Int_t nmcrefs = mcTrackRefs->size();
 
-    std::vector<int> clusMap(nmc, 0);
     std::vector<int> clusRofMap(nmc, -1);
     std::vector<int> trackMap(nmc, -1);
     std::vector<int> mapNFakes(nmc, 0);
     std::vector<int> mapNClones(nmc, 0);
 
-    std::vector<TrackITS> trackStore;
-    trackStore.reserve(10000);
+    std::vector<o2::its::Line> lineStore;
+    lineStore.reserve(10000);
 
     f = trackFrames[n];
     cout << "track frames: " << f.firstFrame << ", " << f.firstIndex << " <-> " << f.lastFrame << ", " << f.lastIndex << endl;
@@ -206,15 +206,25 @@ void CheckLines(std::string tracfile = "vertexer_serial_data.root", std::string 
           continue;
         loadedEventTracks = frame;
       }
-      long nentr = recArr->size();
+      long nentr = linesArr->size();
 
       long firstIndex = (frame == f.firstFrame) ? f.firstIndex : 0;
       long lastIndex = (frame == f.lastFrame) ? f.lastIndex : nentr - 1;
 
       for (long i = firstIndex; i <= lastIndex; i++) {
-        auto lab = (trkLabArr->getLabels(i))[0];
-        if (!lab.isValid() || lab.getSourceID() != 0 || lab.getEventID() != n)
-          continue;
+        const Line& recLine = (*linesArr)[i];
+
+        if(recLine.clusterLabels[0].getEventID() != n) continue;
+        if(recLine.clusterLabels[0].getEventID() != recLine.clusterLabels[1].getEventID() || recLine.clusterLabels[1].getEventID() != recLine.clusterLabels[2].getEventID()) continue;
+        if(!recLine.clusterLabels[0].isValid() || !recLine.clusterLabels[1].isValid() || !recLine.clusterLabels[2].isValid()) continue;
+        if(recLine.clusterLabels[0].getSourceID() != 0 || recLine.clusterLabels[1].getSourceID() != 0 || recLine.clusterLabels[2].getSourceID() != 0) continue;
+
+
+        if(recLine.clusterLabels[0].getTrackID() != recLine.clusterLabels[1].getTrackID() || recLine.clusterLabels[1].getTrackID() != recLine.clusterLabels[2].getTrackID()) continue;
+
+        std::cout << "track ID " << recLine.clusterLabels[0].getTrackID() << " " << recLine.clusterLabels[1].getTrackID() << " " << recLine.clusterLabels[2].getTrackID() << std::endl;
+
+        auto lab = recLine.clusterLabels[0];
         int mcid = lab.getTrackID();
         if (mcid < 0 || mcid >= nmc) {
           cout << "track mc label is too big!!!" << endl;
@@ -225,9 +235,9 @@ void CheckLines(std::string tracfile = "vertexer_serial_data.root", std::string 
         } else if (trackMap[mcid] >= 0) {
           mapNClones[mcid]++;
         } else {
-          trackMap[mcid] = trackStore.size();
-          const TrackITS& recTrack = (*recArr)[i];
-          trackStore.emplace_back(recTrack);
+          trackMap[mcid] = lineStore.size();
+          // const TrackITS& recTrack = (*recArr)[i];
+          lineStore.emplace_back(recLine);
         }
       }
     }
@@ -272,23 +282,6 @@ void CheckLines(std::string tracfile = "vertexer_serial_data.root", std::string 
 */
         nClusters++;
 
-        int& ok = clusMap[mcid];
-        auto layer = gman->getLayer(c.getSensorID());
-        float r = 0.f;
-        if (layer == 0)
-          ok |= 0b1;
-        if (layer == 1)
-          ok |= 0b10;
-        if (layer == 2)
-          ok |= 0b100;
-        if (layer == 3)
-          ok |= 0b1000;
-        if (layer == 4)
-          ok |= 0b10000;
-        if (layer == 5)
-          ok |= 0b100000;
-        if (layer == 6)
-          ok |= 0b1000000;
       }
     } // cluster frames
 
@@ -310,7 +303,7 @@ void CheckLines(std::string tracfile = "vertexer_serial_data.root", std::string 
       if (mID >= 0)
         continue; // Select primary particles
       Int_t pdg = mcTrack.GetPdgCode();
-      if (TMath::Abs(pdg) != 211 || TMath::Abs(pdg) != 321 || TMath::Abs(pdg) != 2212)
+      if (TMath::Abs(pdg) != 211 && TMath::Abs(pdg) != 321 && TMath::Abs(pdg) != 2212)
         continue; // Select pions
 
       // if (clusMap[mc] != 0b1111111)
@@ -337,20 +330,20 @@ void CheckLines(std::string tracfile = "vertexer_serial_data.root", std::string 
         nGoo++; // Good found tracks for the efficiency calculation
         num->Fill(mcPt);
 
-        const TrackITS& recTrack = trackStore[trackMap[mc]];
-        auto out = recTrack.getParamOut();
-        // recYOut = out.getY();
-        recZOut = out.getZ();
-        recPhiOut = out.getPhi();
-        recThetaOut = out.getTheta();
-        std::array<float, 3> p;
-        recTrack.getPxPyPzGlo(p);
-        recPt = recTrack.getPt();
-        recPhi = TMath::ATan2(p[1], p[0]);
-        recLam = TMath::ATan2(p[2], recPt);
-        Float_t vx = 0., vy = 0., vz = 0.; // Assumed primary vertex
-        Float_t bz = 5.;                   // Assumed magnetic field
-        recTrack.getImpactParams(vx, vy, vz, bz, ip);
+        // const TrackITS& recTrack = trackStore[trackMap[mc]];
+        // auto out = recTrack.getParamOut();
+        // // recYOut = out.getY();
+        // recZOut = out.getZ();
+        // recPhiOut = out.getPhi();
+        // recThetaOut = out.getTheta();
+        // std::array<float, 3> p;
+        // recTrack.getPxPyPzGlo(p);
+        // recPt = recTrack.getPt();
+        // recPhi = TMath::ATan2(p[1], p[0]);
+        // recLam = TMath::ATan2(p[2], recPt);
+        // Float_t vx = 0., vy = 0., vz = 0.; // Assumed primary vertex
+        // Float_t bz = 5.;                   // Assumed magnetic field
+        // recTrack.getImpactParams(vx, vy, vz, bz, ip);
 
         nt->Fill( // mcYOut,recYOut,
           mcZOut, recZOut, mcPhiOut, recPhiOut, mcThetaOut, recThetaOut, mcPhi, recPhi, mcLam, recLam, mcPt, recPt, ip[0],
