@@ -55,6 +55,7 @@ void StandaloneDebugger::fillCombinatoricsTree(std::array<std::vector<Cluster>, 
   assert(event != nullptr);
   assert(mTreeStream != nullptr);
 
+  int i = 0;
   for (auto& combination : comb01) {
     o2::MCCompLabel lblClus0 = event->getClusterLabels(0, clusters[0][combination.firstClusterIndex].clusterId);
     o2::MCCompLabel lblClus1 = event->getClusterLabels(1, clusters[1][combination.secondClusterIndex].clusterId);
@@ -73,8 +74,9 @@ void StandaloneDebugger::fillCombinatoricsTree(std::array<std::vector<Cluster>, 
       << "\n";
   }
 
+  i = 0;
   for (auto& combination : comb12) {
-    o2::MCCompLabel lblClus1 = event->getClusterLabels(1, clusters[1][combination.secondClusterIndex].clusterId);
+    o2::MCCompLabel lblClus1 = event->getClusterLabels(1, clusters[1][combination.firstClusterIndex].clusterId);
     o2::MCCompLabel lblClus2 = event->getClusterLabels(2, clusters[2][combination.secondClusterIndex].clusterId);
     float c1z{clusters[1][combination.firstClusterIndex].zCoordinate};
     float c2z{clusters[2][combination.secondClusterIndex].zCoordinate};
