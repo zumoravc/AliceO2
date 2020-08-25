@@ -55,6 +55,7 @@ class Vertexer
 
   uint32_t getROFrame() const { return mROframe; }
   std::vector<Vertex> exportVertices();
+  std::vector<lightVertex> exportLightVertices();
   VertexerTraits* getTraits() const { return mTraits; };
 
   float clustersToVertices(ROframe&, const bool useMc = false, std::ostream& = std::cout);
@@ -142,6 +143,16 @@ inline std::vector<Vertex> Vertexer::exportVertices()
     std::cout << "\t\tFound vertex with: " << std::setw(6) << vertex.mContributors << " contributors" << std::endl;
     vertices.emplace_back(Point3D<float>(vertex.mX, vertex.mY, vertex.mZ), vertex.mRMS2, vertex.mContributors, vertex.mAvgDistance2);
     vertices.back().setTimeStamp(vertex.mTimeStamp);
+  }
+  return vertices;
+}
+
+inline std::vector<lightVertex> Vertexer::exportLightVertices()
+{
+  std::vector<lightVertex> vertices;
+  for (auto& vertex : mTraits->getVertices()) {
+    std::cout << "\t\tFound vertex with: " << std::setw(6) << vertex.mContributors << " contributors" << std::endl;
+    vertices.emplace_back(vertex);
   }
   return vertices;
 }
