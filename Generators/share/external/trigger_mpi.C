@@ -11,8 +11,8 @@
 #include "TPythia6.h"
 #include "FairLogger.h"
 
-o2::eventgen::DeepTrigger
-  trigger_mpi(int mpiMin = 15)
+  o2::eventgen::DeepTrigger
+trigger_mpi(int mpiMin = 30)
 {
   return [mpiMin](void* interface, std::string name) -> bool {
     int nMPI = 0;
@@ -24,6 +24,11 @@ o2::eventgen::DeepTrigger
       nMPI = py6->GetMSTI(31);
     } else
       LOG(FATAL) << "Cannot define MPI for generator interface \'" << name << "\'";
-    return nMPI >= mpiMin;
+    LOG(INFO) << "nMPIs: " << nMPI << "\'";
+
+    // only 10% of events are HM
+    if(gRandom->Integer(10) == 0) return nMPI >= mpiMin;
+    return nMPI >= 1;
   };
 }
+
