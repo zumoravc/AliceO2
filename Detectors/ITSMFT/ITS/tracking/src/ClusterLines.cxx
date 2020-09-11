@@ -80,6 +80,8 @@ ClusterLines::ClusterLines(const int firstLabel, const Line& firstLine, const in
 {
   mLabels.push_back(firstLabel);
   mLabels.push_back(secondLabel);
+  mLines.push_back(firstLine);
+  mLines.push_back(secondLine);
 
   std::array<float, 3> covarianceFirst{1., 1., 1.};
   std::array<float, 3> covarianceSecond{1., 1., 1.};
@@ -277,6 +279,7 @@ ClusterLines::ClusterLines(const Line& firstLine, const Line& secondLine)
 void ClusterLines::add(const int& lineLabel, const Line& line, const bool& weight)
 {
   mLabels.push_back(lineLabel);
+  mLines.push_back(line);
 #ifdef _ALLOW_DEBUG_TREES_ITS_
   vote(line);
 #endif

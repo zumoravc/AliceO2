@@ -53,6 +53,7 @@ struct lightVertex {
   lightVertex(float x, float y, float z, std::array<float, 6> rms2, int cont, float avgdis2, int stamp);
 #ifdef _ALLOW_DEBUG_TREES_ITS_
   lightVertex(float x, float y, float z, std::array<float, 6> rms2, int cont, float avgdis2, int stamp, int eId, float pur);
+  lightVertex(float x, float y, float z, std::array<float, 6> rms2, int cont, float avgdis2, int stamp, int eId, float pur, std::vector<o2::its::Line> lines);
 #endif
   float mX;
   float mY;
@@ -64,6 +65,7 @@ struct lightVertex {
 #ifdef _ALLOW_DEBUG_TREES_ITS_
   float mPurity;
   int mEventId;
+  std::vector<o2::its::Line> mLines;
 #endif
 };
 
@@ -87,6 +89,10 @@ inline lightVertex::lightVertex(float x, float y, float z, std::array<float, 6> 
 }
 #ifdef _ALLOW_DEBUG_TREES_ITS_
 inline lightVertex::lightVertex(float x, float y, float z, std::array<float, 6> rms2, int cont, float avgdis2, int stamp, int eId, float pur) : mX{x}, mY{y}, mZ{z}, mRMS2{rms2}, mAvgDistance2{avgdis2}, mContributors{cont}, mTimeStamp{stamp}, mEventId{eId}, mPurity{pur}
+{
+  
+}
+inline lightVertex::lightVertex(float x, float y, float z, std::array<float, 6> rms2, int cont, float avgdis2, int stamp, int eId, float pur, std::vector<o2::its::Line> lines) : mX{x}, mY{y}, mZ{z}, mRMS2{rms2}, mAvgDistance2{avgdis2}, mContributors{cont}, mTimeStamp{stamp}, mEventId{eId}, mPurity{pur}, mLines{lines}
 {
 }
 #endif
