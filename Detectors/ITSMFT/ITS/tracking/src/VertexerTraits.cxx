@@ -397,9 +397,6 @@ void VertexerTraits::computeVertices()
   const int numTracklets{static_cast<int>(mTracklets.size())};
   std::vector<bool> usedTracklets{};
   usedTracklets.resize(mTracklets.size(), false);
-#ifdef _ALLOW_DEBUG_TREES_ITS_
-  std::vector<Line> trackletsForVertex;
-#endif
   for (int tracklet1{0}; tracklet1 < numTracklets; ++tracklet1) {
     if (usedTracklets[tracklet1])
       continue;
@@ -415,19 +412,12 @@ void VertexerTraits::computeVertices()
         }
         usedTracklets[tracklet1] = true;
         usedTracklets[tracklet2] = true;
-#ifdef _ALLOW_DEBUG_TREES_ITS_
-        trackletsForVertex.push_back(mTracklets[tracklet1]);
-        trackletsForVertex.push_back(mTracklets[tracklet2]);
-#endif
         for (int tracklet3{0}; tracklet3 < numTracklets; ++tracklet3) {
           if (usedTracklets[tracklet3])
             continue;
           if (Line::getDistanceFromPoint(mTracklets[tracklet3], tmpVertex) < mVrtParams.pairCut) {
             mTrackletClusters.back().add(tracklet3, mTracklets[tracklet3]);
             usedTracklets[tracklet3] = true;
-#ifdef _ALLOW_DEBUG_TREES_ITS_
-            trackletsForVertex.push_back(mTracklets[tracklet3]);
-#endif
             tmpVertex = mTrackletClusters.back().getVertex();
           }
         }
